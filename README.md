@@ -45,7 +45,8 @@ The novella is about a body clearing an apartment. The work does not finish. The
 | [THEME_TRACKER.md](THEME_TRACKER.md) | Every motif, object, and device with recurrences and functions |
 | [THEME_DOSSIERS.md](THEME_DOSSIERS.md) | Per-chapter construction notes: sensory palette, glitches, list state, what must not be said |
 | [EMOTIONAL_ARC.md](EMOTIONAL_ARC.md) | Reader experience map across the chapters |
-| [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) | Writing process, phases, quality gates, failure modes |
+| [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) | Craft process: writing phases, revision passes, forbidden-word search, failure modes |
+| [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) | Project-level plan: artistic assessment, reader position, drafting timeline, beta readers, decisions deferred |
 | [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Short calibration excerpts from key scenes in the canonical voice |
 
 ### Research Dossiers

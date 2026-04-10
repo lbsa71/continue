@@ -96,7 +96,8 @@ When checking existing content for issues:
 - [CONCEPTUAL_MAP.md](CONCEPTUAL_MAP.md) — the five glitch phases, the list's arc, the three inferable backstories
 - [EMOTIONAL_ARC.md](EMOTIONAL_ARC.md) — reader experience across the chapters
 - [THEME_TRACKER.md](THEME_TRACKER.md) — motif inventory and recurrences
-- [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) — writing process, phases, failure modes
+- [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) — craft process: writing phases, revision passes, failure modes
+- [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) — project-level plan: artistic assessment, drafting timeline, deferred decisions
 
 ### Tier 3: Research / Calibration
 - [grief.md](grief.md) — phenomenology of complicated grief
