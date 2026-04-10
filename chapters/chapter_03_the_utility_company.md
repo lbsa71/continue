@@ -34,7 +34,7 @@ The operator says the account will be closed at the end of the month and wishes 
 
 Put the mobile back in the inside pocket of the coat on the hook. Take the folder to the small round table under the kitchen window and sit down to go through the rest of the papers.
 
-The folder contains utility bills in plastic sleeves, six months of them. The name with the extra initial is on every one. A warranty card for a radio. A receipt for a pair of shoes from two years ago. A handwritten note listing the dates of three dentist appointments. A library notice: a book is overdue, the fine is small, the title is not one that stops the hand.
+The folder contains utility bills in plastic sleeves, six months of them, the name with the extra initial on every one, a warranty card for a radio, a receipt for a pair of shoes from two years ago, a handwritten note listing the dates of three dentist appointments, and a library notice saying a book is overdue, the fine small, the title not one that stops the hand.
 
 Close the folder and put it back on the dressing table. Take the library notice off the folder and set it on the counter beside the door to the hall.
 

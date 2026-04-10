@@ -72,6 +72,13 @@ When the camera is looking rather than moving, the sentence uses an object-as-su
 
 Bare-noun observations (*The plates in the cupboard.*) are out. They read as list-making or shopping-list shorthand, and that is not the voice.
 
+**3a — Do not stack "A ___" sentences.** The finite-verb requirement of rule 3 does not license stacking multiple sentences that each begin with an indefinite article. *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf.* — three in a row reads as inventory and breaks the voice's flow. When enumerating items in a single location, combine them into one flowing sentence (inverted verb, main-verb enumeration, or cascaded prepositional phrases), or reduce the enumeration.
+
+> ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
+> ✓ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+Single *A ___* sentences inside otherwise varied prose are fine. Two in a row is on the edge. Three or more in a row is trite and forbidden. See STYLE_GUIDE.md for sample transformations.
+
 ### Rule 4 — Articles: definite preferred, bare common, indefinite almost never
 
 The domestic setting is established, so definite articles carry the familiar: *the counter, the drawer, the coat, the cup, the list, the kitchen, the door, the elm*. Bare nouns emerge for items in immediate generic use: *paper, pen, tape, newspaper, bread, water*. Indefinite articles are almost never used.

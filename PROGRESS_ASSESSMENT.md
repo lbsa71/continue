@@ -19,6 +19,39 @@ This document is the *what did we actually do, and what is questionable about it
 
 ---
 
+## Findings From the First Read-Through (Post-v0.1)
+
+Items surfaced after reading the draft in PDF form. These are addressed inline in the revised chapters and, where they reveal a rule gap, codified in the style documents.
+
+### Finding 1 — "A X / A Y / A Z" description stacks (fixed in v0.1.1)
+
+**What:** The bathroom in Ch 1 closed on four consecutive sentences each beginning with an indefinite article:
+
+> *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
+
+Read in the PDF, the rhythm is trite — a list of inventory items rather than the flowing observational voice the rest of the novella uses.
+
+**Root cause:** Rule 3 (*object-as-subject observations use finite verbs*) was applied without a constraint against stacking. The sentences individually pass the rule — they have finite verbs, they observe objects, they are concrete — but the pattern of consecutive *A ___ verb ___* constructions had not been explicitly forbidden.
+
+**Fix:** Added **rule 3a** to both NARRATOR_VOICE.md and STYLE_GUIDE.md. The new rule explicitly forbids stacks of three or more *A ___* sentences in a row, requires flowing single-sentence enumeration for multi-item descriptions, and names the three alternative patterns: inverted verb, main-verb enumeration, and cascaded prepositional phrases.
+
+**Chapters touched in v0.1.1:**
+- **Ch 1** — bathroom, living room, bedroom descriptions rewritten
+- **Ch 3** — folder contents rewritten from fragment-stack into one flowing sentence
+- **Ch 14** — small study description rewritten (chair/side table/lamp/cup/book cascaded into one sentence)
+- **Ch 15** — child's room description and first/third crayon drawing descriptions rewritten
+- **Ch 17** — bathroom, living room, bedroom descriptions rewritten to match Ch 1's new forms
+
+**Canonical rewrite for the bathroom passage:**
+
+> *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+One sentence, inverted verb (*hangs*), four items cascading under the verb through commas and *and*. Reads as flowing observation rather than inventory.
+
+### (future findings to be added here as the read-through continues)
+
+---
+
 ## Session History
 
 ### Session 1 — Foundation

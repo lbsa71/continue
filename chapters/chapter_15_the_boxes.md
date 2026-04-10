@@ -48,15 +48,15 @@ At the end of the hallway on the left, past the bedroom door, is another door th
 
 Open the door.
 
-Inside is a small room with a single window. A small bed against the wall, made up with a blue cover. A small wooden desk by the window. A shelf with a few books and a model of a ship.
+Inside is a small room with a single window, a small bed against the wall made up with a blue cover, a wooden desk by the window, and above the desk a shelf with a few books and a model of a ship.
 
 On the wall above the desk are three sheets of paper, stuck to the wall with tape at the corners. Crayon drawings.
 
-The first drawing is of a house. A square house with a pitched roof and a door in the middle and two windows above the door and a chimney with smoke coming out. A tree beside the house. A sun with rays in the top corner. A line of grass at the bottom.
+The first drawing is of a house: a square house with a pitched roof, a door in the middle, two windows above the door, a chimney with smoke coming out, a tree beside the house, a sun with rays in the top corner, and a line of grass at the bottom.
 
 The second drawing is of a tall person and a small person standing side by side in front of the same house. The tall person has long hair and is wearing a dress. The small person is wearing a striped shirt. They are holding hands.
 
-The third drawing is of a garden. Long grass. Three fruit trees. A red door on a house behind the garden. A figure at the door, too small to see clearly.
+The third drawing is of a garden with long grass and three fruit trees, and behind the garden a house with a red door, and at the door a figure, too small to see clearly.
 
 Walk to the desk. Reach up to the wall and peel the tape off the corners of the first drawing. Take the drawing down carefully so the paper does not tear. Peel the tape off the second drawing. Take it down. Peel the tape off the third. Take it down.
 

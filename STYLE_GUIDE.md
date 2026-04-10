@@ -41,6 +41,29 @@ Bare verbs as the primary action mode. Not *-ing*, not *he does X*, not passive.
 - ✗ *The plates in the cupboard above the coffee machine.* *(bare-noun fragment — out)*
 - ✗ *The phone on the kitchen wall.*
 
+**3a. Do not stack "A ___" sentences.** Rule 3 requires object-as-subject observations to have finite verbs, but this does not license stacking multiple sentences that each begin with an indefinite article and a noun. Stacks of *A ___ is / has / stands / hangs ___* quickly read as an inventory list and break the flow the voice requires.
+
+When enumerating multiple items in a single location, combine them into one flowing sentence through connectors (commas, *and*, prepositional phrases) under a single finite verb. Inverted-verb sentences (*Above the sink hangs a mirror*) are often the cleanest form for spatial observations with multiple items, because the main verb comes early and the items can cascade after it.
+
+- ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.* *(four "A" sentences in a row — trite)*
+- ✓ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.* *(one flowing sentence, inverted verb, cascade of items)*
+
+- ✗ *A sofa sits against the window wall with a coffee table in front of it. A lamp stands beside the sofa. A rug is on the floor.* *(three "A" sentences in a row)*
+- ✓ *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa, and a rug on the floor.* *(one sentence with inverted verb and three cascaded observations)*
+
+- ✗ *A chair is by the wall under the window. A reading lamp is on a side table beside the chair. A book is on the chair, open, face down.* *(three "A" sentences)*
+- ✓ *By the wall under the window stands a chair with a side table beside it, and on the side table a reading lamp and a cup of coffee, and on the chair a book, open, face down.* *(one sentence, inverted verb, three cascaded observations under the main verb)*
+
+The rule is about the **stack**, not the individual sentence. A single *A ___* sentence surrounded by differently-structured sentences is fine. Two in a row, on the edge, should be combined or separated. Three or more in a row is trite and forbidden.
+
+**Alternative patterns to escape the stack:**
+- **Inverted verb:** *Above the sink hangs a mirror... / Beside the bed stands a bedside table... / Through the doorway opens a small study...*
+- **Main-verb enumeration:** *The sink has a mirror above it, a shelf beside it, and a toothbrush in a glass on the shelf...*
+- **Colon + list:** *The bedroom has the usual things: a wardrobe, a bed, a bedside table with a lamp and a book on it...*
+- **Single sentence with cascaded prepositional phrases:** *Inside is a small room with a single window, a small bed against the wall, a wooden desk by the window, and above the desk a shelf with a few books and a model of a ship.*
+
+All of these flow better than stacks of *A ___ verb ___* sentences. Choose based on rhythm, not rule.
+
 ### 4. Articles: definite, bare, almost never indefinite
 
 - ✓ *Take paper from the drawer and a pen from the jar on the counter.*
@@ -279,6 +302,17 @@ Every chapter's refrain-ending must be the same six words, in the same order, wi
 
 **✗** *The plates in the cupboard above the coffee machine. Stacks of four on the counter.*
 **✓** *The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.*
+
+### "A ___" stack → Flowing single sentence
+
+**✗** *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
+**✓** *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+**✗** *A chair is by the wall. A reading lamp is on a side table. A cup of coffee is on the side table next to the lamp. A book is on the chair.*
+**✓** *By the wall stands a chair with a side table beside it, and on the side table a reading lamp and a cup of coffee, and on the chair a book, open, face down.*
+
+**✗** *A small bed against the wall. A small wooden desk by the window. A shelf with a few books.*
+**✓** *Inside is a small room with a single window, a small bed against the wall, a wooden desk by the window, and above the desk a shelf with a few books.*
 
 ### Transition fragment → Observation at destination
 
