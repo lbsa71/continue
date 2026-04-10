@@ -8,7 +8,7 @@
 
 This document compiles research on grief — particularly the kinds of grief most relevant to "Continue": the loss of a parent, the loss of a parent with whom the relationship was unfinished, complicated grief, prolonged grief disorder, and the day-to-day phenomenology of bereaved cognition. The novella never names grief. This document exists so that the writer knows precisely what they are not naming.
 
-A note on usage: nothing in this dossier is for paraphrasing into the prose. The dossier exists to give the writer a private map of what is happening to Erik that the prose will not make available to the reader. The reader experiences the map by inference. The writer must hold the whole map.
+A note on usage: nothing in this dossier is for paraphrasing into the prose. The dossier exists to give the writer a private map of what is happening to the protagonist that the prose will not make available to the reader. The reader experiences the map by inference. The writer must hold the whole map.
 
 ---
 
@@ -28,9 +28,9 @@ The novella's central technical problem is to depict grief without naming it and
 
 Elisabeth Kübler-Ross described five stages — denial, anger, bargaining, depression, acceptance — based on her work with terminally ill patients (not bereaved survivors). The stages were originally about people anticipating their *own* death.
 
-The model's popularisation reframed it as a five-stage model of bereavement. This reframing is empirically poor and has been broadly rejected by contemporary grief researchers. Bereaved people do not move through stages in order. They move through states that recur, overlap, and resist sequencing. The five-stage model's continued popularity in lay culture is itself a phenomenon worth understanding: it is the kind of clean model bereaved people reach for because it offers the promise of a sequence with an end. The novella's Erik is exactly the kind of person who might privately want such a model and would never speak of it.
+The model's popularisation reframed it as a five-stage model of bereavement. This reframing is empirically poor and has been broadly rejected by contemporary grief researchers. Bereaved people do not move through stages in order. They move through states that recur, overlap, and resist sequencing. The five-stage model's continued popularity in lay culture is itself a phenomenon worth understanding: it is the kind of clean model bereaved people reach for because it offers the promise of a sequence with an end. The novella's the protagonist is exactly the kind of person who might privately want such a model and would never speak of it.
 
-**For the novella:** the Kübler-Ross model is something the novella does not endorse and does not refute. It is a thing in the cultural air. Erik is not visibly using it.
+**For the novella:** the Kübler-Ross model is something the novella does not endorse and does not refute. It is a thing in the cultural air. the protagonist is not visibly using it.
 
 ### The Dual Process Model (Stroebe and Schut, 1999)
 
@@ -41,7 +41,7 @@ Stroebe and Schut proposed that bereavement involves an oscillation between two 
 
 The bereaved person *oscillates* between the two. They cannot stay in either indefinitely. The work of restoration provides necessary breaks from the work of loss; the work of loss provides the affective ground that gives restoration its purpose.
 
-**For the novella:** This is the model most useful for understanding Erik. He is doing restoration-orientation work — clearing the apartment, calling the utility company, finding the will, returning the library book — at extreme length. His oscillation back into loss-orientation is what the novella refuses to depict directly. The glitches are arguably the loss-orientation pressing on the restoration-orientation work without ever being given its own scenes. The Dual Process Model gives the writer a frame for what Erik is *not* doing on the page.
+**For the novella:** This is the model most useful for understanding the protagonist. He is doing restoration-orientation work — clearing the apartment, calling the utility company, finding the will, returning the library book — at extreme length. His oscillation back into loss-orientation is what the novella refuses to depict directly. The glitches are arguably the loss-orientation pressing on the restoration-orientation work without ever being given its own scenes. The Dual Process Model gives the writer a frame for what the protagonist is *not* doing on the page.
 
 ### Continuing Bonds (Klass, Silverman, Nickman, 1996)
 
@@ -49,7 +49,7 @@ Earlier grief models, including Freud's, emphasised "letting go" and "decathexis
 
 Contemporary research has largely supported this view. Continuing bonds are not pathological; they are the norm. People talk to dead parents for the rest of their lives. People keep a coat in the closet. People walk into a room and notice the chair.
 
-**For the novella:** Erik's continuing bond with his mother is unspoken and unobservable. The novella does not give him a scene of talking to her. It gives him a wall phone that rings. It gives him a grocery list in his coat pocket. The continuing bond exists in the apartment's refusal to be cleared.
+**For the novella:** the protagonist's continuing bond with the mother is unspoken and unobservable. The novella does not give him a scene of talking to her. It gives him a wall phone that rings. It gives him a grocery list in his coat pocket. The continuing bond exists in the apartment's refusal to be cleared.
 
 ### Prolonged Grief Disorder (PGD)
 
@@ -69,7 +69,7 @@ Added to the ICD-11 in 2018 and to the DSM-5-TR in 2022, Prolonged Grief Disorde
 
 PGD is not the same as depression and is not the same as PTSD, though it co-occurs with both. The diagnostic category is contested for several reasons: it pathologises a normal experience; it imposes timelines that vary by culture; it can be used to push bereaved people into treatment they do not need.
 
-**For the novella:** PGD is one frame the novella refuses. The novella does not place Erik on a diagnostic axis. He is not given a label. He is given a list and an apartment and a sequence of tasks. The reader who knows the diagnostic literature can apply it; the reader who does not, sees a man clearing an apartment.
+**For the novella:** PGD is one frame the novella refuses. The novella does not place the protagonist on a diagnostic axis. He is not given a label. He is given a list and an apartment and a sequence of tasks. The reader who knows the diagnostic literature can apply it; the reader who does not, sees a man clearing an apartment.
 
 ### Complicated Grief
 
@@ -83,9 +83,9 @@ Before PGD was formalised, "complicated grief" was the term used for grief that 
 - Loss in the context of unfinished business.
 - Loss in the absence of social support.
 
-Erik's loss carries several of these markers: an unresolved relationship, guilt, estrangement, unfinished business, and (as far as the novella shows) no social support. The novella is depicting, without naming, a grief structurally configured to become complicated.
+the protagonist's loss carries several of these markers: an unresolved relationship, guilt, estrangement, unfinished business, and (as far as the novella shows) no social support. The novella is depicting, without naming, a grief structurally configured to become complicated.
 
-**For the novella:** the writer should know that what Erik is going through has a name, has a literature, has a treatment, and has nothing to do with the novella's prose. The prose is about a man clearing an apartment. The complicated grief is the reader's possible explanation; the novella does not adopt it.
+**For the novella:** the writer should know that what the protagonist is going through has a name, has a literature, has a treatment, and has nothing to do with the novella's prose. The prose is about a man clearing an apartment. The complicated grief is the reader's possible explanation; the novella does not adopt it.
 
 ---
 
@@ -109,7 +109,7 @@ A bereaved person, especially in the first months, reports:
 - The startle response heightened.
 - A strange new body, in general — the body that the bereaved person inhabits after a major loss is often unfamiliar to them.
 
-**For the novella:** Erik is a body. The novella does not enumerate his bodily symptoms; it shows him eating, drinking, sleeping (or claiming to). The reader who knows the somatic phenomenology of grief reads the eating and the sleeping at full attention. The novella permits Erik to be tired without saying so by giving his actions a slightly slower rhythm in middle chapters and by placing him at the kitchen table for "a long time" after the phone-company call.
+**For the novella:** the protagonist is a body. The novella does not enumerate his bodily symptoms; it shows him eating, drinking, sleeping (or claiming to). The reader who knows the somatic phenomenology of grief reads the eating and the sleeping at full attention. The novella permits the protagonist to be tired without saying so by giving his actions a slightly slower rhythm in middle chapters and by placing him at the kitchen table for "a long time" after the phone-company call.
 
 ### Cognitive Symptoms
 
@@ -139,7 +139,7 @@ A bereaved person, especially in the first months, reports:
 - Disbelief. The mind's refusal to accept the news. Returning, over and over, to the question of whether it is real.
 - Bewilderment. A general sense of "I do not understand what is happening to me."
 
-**For the novella:** Erik is not given any of these as named feelings. The reader is invited to attribute as much or as little as they want. The form's discipline is that whatever Erik is feeling is *not on the page*. The reader who has been bereaved will attribute generously. The reader who has not, will see a man clearing an apartment and feel an unease they cannot place.
+**For the novella:** the protagonist is not given any of these as named feelings. The reader is invited to attribute as much or as little as they want. The form's discipline is that whatever the protagonist is feeling is *not on the page*. The reader who has been bereaved will attribute generously. The reader who has not, will see a man clearing an apartment and feel an unease they cannot place.
 
 ### Behavioural Symptoms
 
@@ -153,13 +153,13 @@ A bereaved person, especially in the first months, reports:
 - Sleep displacement: the bereaved person stays up later, sleeps badly, wakes earlier.
 - Walking around at night.
 
-**For the novella:** "Walking around at night" is the chapter "The Neighbour". The neighbour says: *we've heard him moving around at night.* Erik says he sleeps fine. The reader who knows that bereaved people walk around at night sees the entire chapter at full pressure.
+**For the novella:** "Walking around at night" is the chapter "The Neighbour". The neighbour says: *we've heard him moving around at night.* the protagonist says he sleeps fine. The reader who knows that bereaved people walk around at night sees the entire chapter at full pressure.
 
 ---
 
 ## The Specific Configuration: Loss of an Estranged Parent
 
-The novella's grief is specifically the grief of an adult son for his mother, after a period of estrangement, in the absence of any reconciliation.
+The novella's grief is specifically the grief of an adult son for the mother, after a period of estrangement, in the absence of any reconciliation.
 
 This configuration carries specific features:
 
@@ -177,7 +177,7 @@ In an estrangement, the last years of the parent's life are often a particular b
 
 This experience is often disorienting. Things have changed in the apartment that the bereaved cannot account for. The parent has bought a new appliance the bereaved did not know about. The parent has moved a piece of furniture. The parent has acquired a friend the bereaved has never heard of. (Marianne, in the novella, may be one such friend.) The bereaved encounters their parent's *unknown life* and recognises that it was a life and that they were absent from it.
 
-**For the novella:** Erik's competence in clearing the apartment is, at one reading, the competence of someone who knows the apartment well from before the estrangement. The novella does not say so. The reader who has lived this experience will recognise it.
+**For the novella:** the protagonist's competence in clearing the apartment is, at one reading, the competence of someone who knows the apartment well from before the estrangement. The novella does not say so. The reader who has lived this experience will recognise it.
 
 ### The Apology That Cannot Be Made
 
@@ -185,13 +185,13 @@ In the absence of reconciliation, the bereaved often discovers that they were ca
 
 The therapeutic literature on this is large. The literary tradition is larger. (See the_uncanny.md for the literary side; see guilt.md for the affective side.)
 
-**For the novella:** The inscription page in Chapter 12 is the apology. It is in Erik's handwriting. It appears on a page that was previously blank. It says, in a few sentences, what cannot be said. The novella permits this — and only this — and contains it inside the italicised passage. After the inscription, Erik closes the book and tapes the box.
+**For the novella:** The inscription page in Chapter 12 is the apology. It is in the protagonist's handwriting. It appears on a page that was previously blank. It says, in a few sentences, what cannot be said. The novella permits this — and only this — and contains it inside the italicised passage. After the inscription, the protagonist closes the book and tapes the box.
 
 ### The Phone That Was Not Answered
 
 One specific configuration that recurs in the literature on complicated grief: the bereaved missed the deceased's last call, last text, last attempted contact. The bereaved was busy. Or the bereaved was avoiding. Or the bereaved did not know what the call would be. The deceased then died, and the missed contact becomes the bereaved's central artefact of guilt.
 
-This is the configuration the novella is built around, displaced one generation backward. Erik's guilt about *his mother* is structured by his earlier failure to answer the phone on the day his *father* died. The novella never says this. The reader assembles it from: the wall phone, the one sentence too many in Chapter 1, the name *Marianne* on the list, the operator's *the line was disconnected four months ago*, the inscription's *I should have come*.
+This is the configuration the novella is built around, displaced one generation backward. the protagonist's guilt about *the mother* is structured by his earlier failure to answer the phone on the day his *father* died. The novella never says this. The reader assembles it from: the wall phone, the one sentence too many in Chapter 1, the name *Marianne* on the list, the operator's *the line was disconnected four months ago*, the inscription's *I should have come*.
 
 **For the novella:** This configuration is the deepest backstory. The novella has been built so that the reader *can* assemble it and is never told it. See CONCEPTUAL_MAP.md "The Three Inferable Backstories".
 
@@ -205,7 +205,7 @@ In the nineteenth century in much of Europe and the United States, mourning was 
 
 The twentieth century dismantled the script. The mid-twentieth century medicalised grief. The late twentieth century individualised it. The early twenty-first century has, in some quarters, begun to reach for ritual again, though without the consensus to make rituals collective.
 
-**For the novella:** Erik has no script. There is no funeral scene in the novella. There is no period of formal mourning. There is no friend who "drops by". The absence of script is one of the conditions that gives the novella its emptiness. The clearing of the apartment is the only ritual Erik has access to, and the novella shows it being slowly dismantled around him.
+**For the novella:** the protagonist has no script. There is no funeral scene in the novella. There is no period of formal mourning. There is no friend who "drops by". The absence of script is one of the conditions that gives the novella its emptiness. The clearing of the apartment is the only ritual the protagonist has access to, and the novella shows it being slowly dismantled around him.
 
 ### Anglophone Grief Avoidance
 
@@ -213,7 +213,7 @@ Contemporary anglophone culture is, broadly, avoidant of grief. Bereaved people 
 
 This avoidance is not malicious; it is structural. It is what most people in most workplaces have learned to do. It is also what bereaved people often internalise: the bereaved person decides, on day three, that they should be "fine by now", and acts fine, and then is ambushed by grief two months later in a supermarket.
 
-**For the novella:** Erik is, on the visible surface, doing what an avoidant culture asks bereaved people to do. He is functioning. He is making the calls. He is filing the forms. The novella's reader, who can see what the surface conceals (the wall phone, the list, the apartment), can also see that the avoidance is the crisis. The novella does not editorialise.
+**For the novella:** the protagonist is, on the visible surface, doing what an avoidant culture asks bereaved people to do. He is functioning. He is making the calls. He is filing the forms. The novella's reader, who can see what the surface conceals (the wall phone, the list, the apartment), can also see that the avoidance is the crisis. The novella does not editorialise.
 
 ### Other Cultural Models (Briefly)
 
@@ -223,7 +223,7 @@ This avoidance is not malicious; it is structural. It is what most people in mos
 - **East Asian ancestor practices** maintain continuing bonds through household altars and seasonal observances.
 - **Northern European secular cultures** (the novella's likely setting) have largely lost their inherited mourning structures and have not consistently replaced them.
 
-**For the novella:** Whatever city the novella is set in, it is a city where Erik has no inherited structure to lean on. He has a list. He has an apartment. He has the bakery on the corner.
+**For the novella:** Whatever city the novella is set in, it is a city where the protagonist has no inherited structure to lean on. He has a list. He has an apartment. He has the bakery on the corner.
 
 ---
 
@@ -246,13 +246,13 @@ What is *not* generally found to help:
 - Suppressing the bereaved person's continuing bond.
 - Giving the bereaved person large amounts of unsolicited advice.
 
-**For the novella:** Erik is not in any of these therapeutic structures. He is alone. He has no therapist. He has no group. He has the apartment. The novella is not a recommendation against therapy; it is a depiction of a man who is not in any. The reader who wishes the novella had a therapy scene is feeling, accurately, that one might have helped — and the novella's refusal to provide one is part of its honesty about the kind of bereaved life many people actually live.
+**For the novella:** the protagonist is not in any of these therapeutic structures. He is alone. He has no therapist. He has no group. He has the apartment. The novella is not a recommendation against therapy; it is a depiction of a man who is not in any. The reader who wishes the novella had a therapy scene is feeling, accurately, that one might have helped — and the novella's refusal to provide one is part of its honesty about the kind of bereaved life many people actually live.
 
 ---
 
 ## What the Novella Will Not Do With Any of This
 
-The novella will not name any of the categories in this dossier. It will not depict a stage. It will not depict a diagnostic process. It will not offer a therapeutic recommendation. It will not show Erik researching anything. It will not show Erik considering whether what he is going through has a name. It will not show Erik talking to anyone about it. It will not have a wise friend, a wise priest, a wise therapist, or a wise stranger who delivers the framework the dossier provides.
+The novella will not name any of the categories in this dossier. It will not depict a stage. It will not depict a diagnostic process. It will not offer a therapeutic recommendation. It will not show the protagonist researching anything. It will not show the protagonist considering whether what he is going through has a name. It will not show the protagonist talking to anyone about it. It will not have a wise friend, a wise priest, a wise therapist, or a wise stranger who delivers the framework the dossier provides.
 
 The dossier's contents are *the writer's*. They give the writer the confidence to depict, in physical particulars, what the writer knows is happening at the level of the somatic, cognitive, and affective phenomenology of acute grief. The reader experiences the phenomenology by inference. The form is the inference.
 
@@ -262,8 +262,8 @@ The dossier's contents are *the writer's*. They give the writer the confidence t
 
 | Symptom | How it appears in the novella |
 |---|---|
-| Searching behaviour | Erik's competent walks through the apartment; the cups in the cupboard he opens "without hesitating" |
-| Time distortion | The absence of any external timeline; the chapters that begin without bridge; the four months Erik has not noticed |
+| Searching behaviour | the protagonist's competent walks through the apartment; the cups in the cupboard he opens "without hesitating" |
+| Time distortion | The absence of any external timeline; the chapters that begin without bridge; the four months the protagonist has not noticed |
 | Sense of unreality | The glitches; the apartment misbehaving; the rooms that should not exist |
 | Ghosts in the home | The wall phone ringing; the warm coffee; the half-finished cup in the small study |
 | Reaching for the phone to call them | The wall phone, picked up and put back; the operator |
@@ -273,7 +273,7 @@ The dossier's contents are *the writer's*. They give the writer the confidence t
 | Eating without appetite | *Home. Dinner. Counter. Plate. Bed.* |
 | Continuing bond | The grocery list in his coat pocket |
 | Apology that cannot be made | The inscription |
-| Estrangement | Erik's competence at clearing what he has not visited |
+| Estrangement | the protagonist's competence at clearing what he has not visited |
 | The unfinished conversation | The wall phone, the inscription, the list with *forgive* |
 | Numbness | The whole prose register |
 
@@ -301,7 +301,7 @@ These are the kinds of works the writer should have at least passed through befo
 - Max Porter, *Grief is the Thing with Feathers.* (Grief depicted with formal invention; the opposite formal solution to the one *Continue* takes, but worth knowing.)
 - Denise Riley, *Time Lived, Without Its Flow.* (On grief and time after the death of a son. Particularly important for the time-distortion section.)
 - Anne Carson, *Nox.* (Grief for a brother. The form is the carrying.)
-- Roland Barthes, *Mourning Diary.* (Daily fragments after the death of his mother. The closest stylistic neighbour to *Continue* in the literature on bereaved cognition.)
+- Roland Barthes, *Mourning Diary.* (Daily fragments after the death of the mother. The closest stylistic neighbour to *Continue* in the literature on bereaved cognition.)
 
 ### Medical Anthropology / Sociology
 

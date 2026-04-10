@@ -1,343 +1,359 @@
 # Style Guide
 
-## Language and Style References for "Continue"
+## Language and Style Rules for "Continue"
 
 ---
 
-## Core Style Principles
+## The Governing Disposition
 
-1. **Calm domestic precision.** The prose registers materials, gestures, and rooms with patient accuracy. It does not raise its voice. The tone never breaks. The content breaks around it.
-2. **Refusal of interpretation.** The prose describes. It does not interpret. It does not tell the reader what anything means. Meaning, if it arises, arises in the reader.
-3. **Refusal of interiority.** Erik's thoughts and feelings are not on the page. He is observed acting, looking, eating, calling, folding. What he is "going through" is what the reader infers from this.
-4. **Refusal of consolation.** The novella does not soften, reassure, foreshadow, or close. It continues. Then it ends.
-5. **Glitches placed at baseline register.** When something wrong happens in the apartment, the prose does not signal it. The wrong sentence sits at the same volume as the right sentences around it. The reader is the one who notices.
+Numb single-mindedness. Determination to not think of anything outside the immediate task. Not hysterical, not lyrical, not fragmented-as-breakdown. A person holding together by refusing to look up.
+
+Every rule in this document is a technique that produces this disposition. If a sentence breaks the disposition, the rule is what it broke.
 
 ---
 
-## The Five Forbidden Categories
+## The Eleven Rules
 
-### 1. Interiority
+(See NARRATOR_VOICE.md for the extended statement. This document is the tactical version, with forbidden constructions and sample transformations.)
+
+### 1. Default verb form: bare / infinitive
+
+Bare verbs as the primary action mode. Not *-ing*, not *he does X*, not passive.
+
+- ✓ *Finish the coffee at the counter.*
+- ✓ *Take the paper from the drawer.*
+- ✓ *Walk to the door.*
+- ✗ *He finishes the coffee at the counter.*
+- ✗ *Finishing the coffee at the counter.*
+- ✗ *The coffee is finished at the counter.* *(unless the focus is the state, in which case it becomes a rule 2 sentence)*
+
+### 2. Past participles for completed states
+
+- ✓ *Cup rinsed under the tap then put back in the cupboard above the coffee machine.*
+- ✓ *List folded once and then once again.*
+- ✓ *Coat on the hook in the hall.*
+
+### 3. Object-as-subject observations use finite verbs
+
+- ✓ *The plates are in the cupboard above the coffee machine.*
+- ✓ *The phone on the kitchen wall is black.*
+- ✓ *The elm is at the window.*
+- ✗ *The plates in the cupboard above the coffee machine.* *(bare-noun fragment — out)*
+- ✗ *The phone on the kitchen wall.*
+
+### 4. Articles: definite, bare, almost never indefinite
+
+- ✓ *Take paper from the drawer and a pen from the jar on the counter.*
+- ✓ *Tear a sheet of newspaper from the stack.*
+- ✗ *Take a piece of paper from a drawer and a pen from a jar on a counter.*
+- ✗ *Take the paper from the drawer and the pen from the jar.* *(over-definite for freshly introduced items; "paper" and "pen" stay bare)*
+
+### 5. Connected imperative sentences; transitions by observation
+
+Sentences chain actions. Commas within, *and* at the join.
+
+- ✓ *Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb.*
+- ✓ *Fold the list once and then once again and put it in the inside pocket of the coat on the back of the chair.*
+- ✗ *Place the plate. Bring the corners. Press them around the edge.* *(aggressive fragmentation — reads as breakdown)*
+
+Transitions are elided by landing on a laconic observation at the destination:
+
+- ✓ *Open the front door, step out, and turn the key in the lock. The street is empty.*
+- ✗ *Open the front door. Step out. Down the stairs. Into the street.* *(transition fragments — out)*
+
+### 6. Section breaks between activities
+
+A blank line between paragraphs marks a transition in activity or attention. Not drama, just rhythm.
+
+### 7. No name, no pronoun for the protagonist
+
+- ✓ *Take the key from the landlord.*
+- ✓ *The landlord holds out the key.*
+- ✗ *Erik takes the key from the landlord.*
+- ✗ *He takes the key from the landlord.*
+
+Other characters keep their pronouns:
+
+- ✓ *The mother left the handset on its cradle.*
+- ✓ *She left the handset on its cradle.*
+
+### 8. Present tense discipline
+
+- ✓ *The wardrobe is full. The bags are gone.*
+- ✗ *The wardrobe had been emptied. Now it was full again.*
+
+Past tense is allowed **only** inside the italicised inscription passage in the chapter "The Inscription".
+
+### 9. Minimal body-agent, rarely
+
+- ✓ *Press the paper around the edge of the plate with the side of a thumb.*
+- ✓ *On the third shelf a hand stops on a hardback.*
+- ✗ *The hands are working quickly.* *(overuse — reads as stylistic tic)*
+
+### 10. Glitches placed across sentences
+
+- ✓ *The tape is on the counter. Pick it up from the table. Pull an inch and cut it on the dispenser's blade.*
+- ✗ *Reach for the tape on the counter and pick it up from the table.* *(compressed into one clever sentence)*
+
+Both sentences state their fact flatly. Neither acknowledges the other.
+
+### 11. Memory as monofocus action
+
+- ✓ *Each line of the form filled without pause. The pen does not stop.*
+- ✓ *The cups are in the cupboard above the coffee machine. Open it without looking.*
+- ✓ *Reach up to the top of the wardrobe where the metal box is kept. The metal box is not there.*
+- ✗ *Remember where she kept the metal box, reach for it.* *(naming the remembering — out)*
+- ✗ *The metal box had always been on top of the wardrobe.* *(past tense, reflection — out)*
+
+The memory lives in *without hesitation*, *without looking*, *without pause*, *without counting*, and in the simple accuracy of the hand reaching to the known place.
+
+---
+
+## The Forbidden Categories
+
+### Category 1 — Pronouns and Names for the Protagonist
 
 **Forbidden:**
-- "Erik thought..."
-- "Erik felt..."
-- "Erik remembered..."
-- "Erik knew..."
-- "Erik realised..."
-- "It occurred to him..."
-- "He couldn't help thinking..."
-- "Some part of him..."
-- "He understood that..."
-- "He wondered..."
 
-**Why:** The novella's central discipline is that Erik's interior is opaque. Any sentence that opens a window into his head violates the form. The reader is positioned at his shoulder, not behind his eyes.
+- Any pronoun referring to the protagonist: *he, him, his, she, her, hers, they, them, theirs* (when singular-protagonist).
+- Any name for the protagonist: *Erik, the man, the tenant, the son, the bereaved, the heir, our protagonist*, etc.
 
-**Allowed substitution:** Action, gesture, eye-direction, or simply nothing. If Erik is troubled, the camera can describe him standing at the window for a long sentence. It cannot describe him being troubled.
+**Permitted substitution:** the bare verb, the object-as-subject, the past-participial state, the minimal body-agent. Or nothing — the sentence does not name a subject because the subject is the camera.
 
----
-
-### 2. Naming the Abstractions
-
-**Forbidden words** (and their inflections):
-
-| Word | Why Forbidden |
-|---|---|
-| grief | The novella's subject. Naming it discharges it. |
-| mourning | Same. |
-| loss | Same, in the noun-of-feeling sense. ("She is at a loss" is allowed; "the loss" is not.) |
-| guilt | The novella's other subject. Same logic. |
-| shame | Same. |
-| denial | Imports a clinical frame the novella refuses. |
-| dissociation | Same. |
-| memory | The novella has memories. It does not have *memory* as a noun. |
-| remember (as narration) | Erik does not "remember" things on the page. He picks up an object and the prose describes the object. |
-| dead / death (as abstract) | Allowed only as plain denotation: "the death certificate", "after his mother died". Forbidden in expressive constructions: "the dead weight of her absence", "in the face of death", etc. |
-| mother (as expressive) | Allowed as denotation ("his mother's apartment"). Forbidden as the subject of an emotional sentence. ("He thought of his mother." — forbidden.) |
-| metaphor | The novella does not contain the word and does not contain metaphors. |
-| glitch | Used in this guide and in the synopsis. Does NOT appear in the novella. |
-| simulation, consciousness, memory (as topic), unreal, surreal | None of these appear. The novella does not reach for the frames the reader may reach for. |
-| love, longing, regret | Forbidden as nouns and as verbs of feeling. |
-| forgive, forgiveness | One exception: the word *forgive* may appear *exactly once*, on the list, in the chapter "The Phone Call", in handwriting Erik cannot identify. Otherwise forbidden. |
-
-**Why:** The novella's whole device is that it never names what it is about. Naming the abstraction is the same act as a film cutting to a flashback to explain the protagonist's pain. It collapses the form.
-
-**Allowed substitution:** The thing the abstraction would have named, in its physical particulars. Not "his guilt", but: "He picks up the phone. The line is dead. He puts it back."
-
----
-
-### 3. Interpretation
-
-**Forbidden constructions:**
-- "as if..."
-- "as though..."
-- "almost like..."
-- "in a way that..."
-- "it was the kind of X that..."
-- "something about the way..."
-- "the strangeness of..."
-- "for a moment it seemed..."
-- "for all the world like..."
-- "with the air of..."
-
-**Why:** Each of these is the prose stepping outside the action to tell the reader what to make of it. The novella does not step outside. The novella stays *inside* the action and lets the action sit.
-
-**Allowed substitution:** The literal description, with no comparison. If the wardrobe is empty when it should be full, the prose says: "The wardrobe is empty." Not: "The wardrobe is empty, as if no one had ever filled it."
-
----
-
-### 4. Em-Dash Cleverness
+### Category 2 — Interiority
 
 **Forbidden:**
-- The "statement, em-dash, witty subordinate" rhythm: *He picks up the cup — the wrong one, of course — and puts it down.*
-- The "two-clause epigram" rhythm: *The apartment is empty — emptier than it should be.*
-- The "ironic apposition" rhythm: *The phone rings — the disconnected phone.*
 
-**Why:** This rhythm is a tic of contemporary literary prose. It produces a knowing, self-pleased sound. It tells the reader that the writer has noticed the thing the reader was about to notice. The novella's whole posture is to let the reader notice unaccompanied.
+- Verbs of cognition: *think, feel, remember, realise, wonder, know, understand, believe, imagine, suppose, recognise*.
+- Phrases of interior observation: *it occurred, some part of, deep down, in the back of the mind*.
 
-**Allowed:** Periods. Commas. Sometimes a sentence stops earlier than the reader expects. Sometimes a sentence keeps going past the moment the reader expected the dash to land, and the absence of the dash is the discipline.
+**Permitted substitution:** action, position, eye direction, memory-as-efficiency (rule 11), or simply nothing.
 
-> ❌ The phone is on the wall — the disconnected phone.
-> ✓ The phone is on the wall.
-> ✓ He picks up the phone on the wall. The line is dead.
+### Category 3 — Naming the Abstractions
 
-(En-dashes for ranges and hyphens for compound adjectives are fine. The prohibition is on dashes used for tonal pivot.)
+**Forbidden words:**
+
+- *grief, mourning, loss* (as feeling), *guilt, shame, denial, dissociation, memory* (as topic), *love, longing, regret, forgiveness* (except the one allowed instance on the list), *metaphor, simulation, glitch*.
+
+**Permitted substitution:** the thing the abstraction would have named, in physical particulars. Not *the weight of the loss*; rather, *the cups are in the wrong cupboard*.
+
+### Category 4 — Interpretation
+
+**Forbidden:**
+
+- *as if, as though, almost as if, almost as though, for a moment, something about, the strangeness of, in a way that, with the air of, for all the world like, seemed to, appeared to*.
+
+**Permitted substitution:** the literal description without comparison.
+
+### Category 5 — Em-dash Cleverness
+
+**Forbidden:**
+
+- The em-dash subordinate clause: *The phone is on the wall — the disconnected phone — and it is ringing.*
+- The em-dash pivot: *She is gone — gone in the particular way that only the recently dead are gone.*
+
+**Permitted:** periods, commas. Em-dashes for nothing except number ranges (which the novella will not have).
+
+### Category 6 — Foreshadowing and Retrospective
+
+**Forbidden:**
+
+- *he had no idea that, later, by the following day, it would be, what the reader does not yet know is, at this point, before long, afterwards*.
+- Any construction that steps outside the present moment.
+
+**Permitted substitution:** nothing. The novella has no outside.
+
+### Category 7 — Bare-noun Fragments as Observations
+
+**Forbidden:**
+
+- *The plates in the cupboard. The phone on the wall. The light on the counter.*
+
+**Permitted substitution:** object-as-subject sentences with finite verbs. *The plates are in the cupboard. The phone on the wall is black. The light on the counter reaches almost to the sink.*
+
+(Exception: rule 9's minimal body-agents can appear in fragments if the motor action is what matters — *A hand on the cup.* — but even these are rare.)
+
+### Category 8 — Transition Fragments
+
+**Forbidden:**
+
+- *Down the stairs. Into the street. Out to the car. Back to the apartment.*
+
+**Permitted substitution:** landing on a laconic observation at the destination. *The street is empty. The car is where it was parked. The apartment is as it was left.*
+
+### Category 9 — Indefinite Articles (almost)
+
+**Forbidden (mostly):**
+
+- *a piece of paper, a pen, a cup, a plate* when the noun can be bare or definite instead.
+
+**Permitted:** indefinite articles where grammar requires them (*a sheet of newspaper*, *a hand*, *a thumb*) and where a genuinely new item is being introduced for the first time with no other anchor (*A reading lamp is on a side table.*).
+
+### Category 10 — Hysterical Punctuation
+
+**Forbidden:**
+
+- Ellipses (*...*).
+- Exclamation marks (*!*).
+- Strings of two- and three-word sentences that fragment the prose into breakdown rhythm.
+- Italics for emphasis. (Italics are reserved for the inscription passage.)
+- ALL CAPS (except on boxes labelled KITCHEN, etc., where the caps represent the physical label).
+
+**Permitted:** periods, commas, colons (sparingly), question marks (for dialogue only, rare).
 
 ---
 
-### 5. Foreshadowing and Consolation
+## Sample Transformations
 
-**Forbidden constructions:**
-- "He had no idea that..."
-- "Later, he would..."
-- "What he did not know was..."
-- "It would be days before he..."
-- Anything in past tense that announces what is coming.
-- Anything that gestures toward an arc the reader is being asked to anticipate.
-- Any sentence whose function is to reassure the reader that the writer has the situation in hand.
+### Interiority → Action
 
-**Why:** The novella has no "outside" to step into. There is no narrator looking back. There is no resolution to set up. The prose stays inside the present moment, and inside the present moment, the future does not exist.
+**✗** *He thought about his mother and felt a wave of something like sorrow.*
+**✓** *Fill the kettle. Put it on. Stand at the counter looking at the elm.*
 
-**Allowed substitution:** Nothing. The next thing happens when it happens. The reader has no warning. The reader has no protection.
+### Naming the abstraction → The thing itself
 
----
+**✗** *The weight of his guilt about not answering the phone the day his father died pressed on him.*
+**✓** *The phone on the kitchen wall is black. Put the receiver to an ear. The line is dead.*
 
-## What the Style Guide Actively Encourages
+### Interpretation → Description
 
-### Material specificity
+**✗** *The wardrobe was empty in a way that felt wrong, almost as if it had never been full at all.*
+**✓** *The wardrobe is empty. The bags are gone.*
 
-> The kettle. Hob. The dial turning. The kettle starting to tick.
+### Em-dash pivot → Period
 
-The prose is grounded in named, particular objects. *The* kettle, not *a* kettle. *His mother's cups*, not "some cups". The definite article does a great deal of work in this novella: it claims that the object exists, was already there before the sentence, and is one specific thing.
+**✗** *He picks up the phone — the disconnected phone — and listens.*
+**✓** *Pick up the phone on the wall. The line is dead. Put it back.*
 
-### Procedural attention
+### Foreshadowing → Nothing
 
-> He calls the utility company. On hold twenty minutes. They need the account number. He doesn't have it. He looks in the drawers.
+**✗** *He had no way of knowing that within a week the inscription page would no longer be blank.*
+**✓** *Open the book. The inscription page is blank. Close the book and put it in the box.*
 
-Bureaucracy is rendered with the same precision as physical action. The forms, the holds, the polite voices, the documents that don't match. This is the *texture* of clearing a parent's apartment, and the texture is also where the glitches do their work, because reality and paperwork are supposed to confirm each other and in the novella they don't.
+### Metaphor → Literal
 
-### Repetition with subtle variation
+**✗** *The list, like a rope fraying in his hands, was beginning to come apart.*
+**✓** *Take the list out of the inside pocket of the coat. Item 5 has a line through it. The line is not in the handwriting of the list.*
 
-> The cups are in the cupboard.
-> *(later)*
-> The cups are in the second cupboard.
-> *(later)*
-> One cup in the cupboard.
+### Pronoun subject → Bare verb
 
-The same observation, made flatly, with one word changed. The reader who is paying attention sees it. The reader who is not, doesn't, and the floor moves under them anyway.
+**✗** *He finishes the coffee at the counter. He rinses the cup and puts it back in the cupboard.*
+**✓** *Finish the coffee at the counter. Rinse the cup and put it back in the cupboard above the coffee machine.*
 
-### Light and view as recurring devices
+### Participial drift → Bare imperative
 
-The kitchen window faces the elm. The afternoon light makes a rectangle on the counter that reaches almost to the sink. These are not symbols. They are anchors. When the prose returns to them in the same words, the reader is reminded that the apartment is still the apartment. When they shift slightly — a different angle, a different reach of light, a different tree — the reader is reminded that the apartment may not be the apartment.
+**✗** *Finishing the coffee at the counter. Rinsing the cup and putting it back.*
+**✓** *Finish the coffee at the counter. Rinse the cup and put it back.*
 
-### The list
+### Bare-noun fragment → Finite observation
 
-The list is the novella's primary running artifact. It has its own discipline of representation: see THEME_DOSSIERS.md and THEME_TRACKER.md. The list is rendered in the prose by quoting items from it, by saying what Erik does with the paper (folds it, unfolds it, looks at it, doesn't look at it), and by describing its current state in flat terms ("Item 5 has a line through it. He puts a question mark next to it.").
+**✗** *The plates in the cupboard above the coffee machine. Stacks of four on the counter.*
+**✓** *The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.*
 
-### Calm domestic surface
+### Transition fragment → Observation at destination
 
-> He fills the kettle. The kettle ticks. He takes a cup down. He rinses it.
+**✗** *Put the coat on. Out the front door. Down the stairs. Into the street.*
+**✓** *Put the coat on. Open the front door, step out, and turn the key in the lock. The street is empty.*
 
-Most sentences in the novella are like this. The novella wants the reader to *get used to* this register. Once the reader is used to it, the smallest disturbance inside this register is loud.
+### Compressed glitch → Inter-sentence glitch
 
----
+**✗** *Reach for the tape on the counter and pick it up from the table.*
+**✓** *The tape is on the counter. Pick it up from the table. Pull an inch and cut it on the dispenser's blade.*
 
-## Sentence-Length Discipline
+### Named memory → Memory as efficiency
 
-The default sentence is short to medium. Subject-verb-object. Concrete.
+**✗** *Remember where the cups are kept and open the cupboard.*
+**✓** *The cups are in the cupboard above the coffee machine. Open it without looking.*
 
-But uniform shortness is its own tic, and a string of three-word sentences is as suspicious as a paragraph-long sentence. The novella varies length naturally, the way an attentive observer's prose varies length: short for actions, longer for an action with internal sequence, longer still for a moment of looking that the camera does not want to interrupt.
+### Erik and his mother → Nothing and the mother
 
-**Examples of allowed range:**
-
-> Short: "He folds the shirt."
-> Medium: "He folds the shirt and puts it in the bag with the others."
-> Long-but-still-clean: "He folds the shirt and puts it in the bag with the others, and the bag is the third bag, and there are two more shirts on the rack and a row of dresses he has not yet started on."
-> Long-and-observational: "Light from the kitchen window falls across the counter in a rectangle that reaches almost to the sink, and inside the rectangle there is the shadow of the elm's higher branches moving slightly in whatever wind there is outside."
-
-What the novella does *not* do:
-
-- Strings of two-word fragments. ("He stops. He looks. He waits. He turns.") This sounds like a thriller and breaks the calm-domestic-precision register.
-- Run-on sentences without internal control. The longer sentences earn their length by being *clean* — commas in the right places, no parentheticals, no asides.
-- Sentences that show off. If a sentence draws attention to itself as a sentence, it is wrong for this novella.
+**✗** *Erik writes his mother's date of birth on the form without hesitating.*
+**✓** *The form on the counter. Name, date of birth, place of birth, mother's maiden name, cause of death. Each line filled without pause. The pen does not stop.*
 
 ---
 
 ## Punctuation
 
 ### Periods
-Primary tool. Most sentences end with one. Periods are the load-bearing punctuation of this prose.
+
+Primary tool. Most sentences end with one.
 
 ### Commas
-Used for sequence within a single action ("He fills the kettle, sets it on the hob, turns the dial.") and for the slow observational sentences. Not used for asides.
+
+Used inside connected imperative sentences to chain actions. *Place the plate, bring the corners, press the edge.* Also used for lists of observations. *Name, date of birth, place of birth, cause of death.*
 
 ### Em-dashes
-Forbidden for tonal pivot. See category 4 above.
+
+**Forbidden** for tonal pivot or subordinate clause. Also **forbidden** in the compound-adjective sense (use hyphens if necessary, sparingly).
 
 ### En-dashes
-Allowed in number ranges (e.g., "1973–1981" — but: number ranges are unlikely to appear in the novella except possibly on a death certificate or document Erik is reading).
+
+Avoid. If a number range appears, hyphens are fine.
 
 ### Hyphens
-Allowed in compound adjectives. Not allowed for any rhythmic purpose.
 
-### Parentheses
-Avoid. Almost no parentheses in the novella. The prose is direct or it is not on the page.
+Allowed in established compound adjectives (*half-drunk cup*, *half-flight of stairs*). Not for rhythmic pivot.
+
+### Colons
+
+Used sparingly. Primary use: introducing the numbered list (*write the list:* followed by the items). Occasionally for introducing a list of items observed in a room.
 
 ### Semicolons
+
 Avoid. The novella prefers a period.
 
-### Ellipses
-Forbidden. The novella does not trail off. Sentences end.
+### Parentheses
 
-### Quotation marks
-Used normally for the rare brief speech. The novella has very little dialogue. When characters speak, they speak in short sentences with conventional quotation marks. There is no inventive typography.
+Avoid. The novella is direct or it is not on the page.
+
+### Ellipses
+
+Forbidden. The novella does not trail off.
+
+### Question marks
+
+Only for rare spoken dialogue questions (*The landlord asks whether the deposit was paid in full.*). Almost never.
+
+### Exclamation marks
+
+Forbidden.
 
 ### Italics
-Used only when Erik is *physically reading* something on the page — an inscription, a label, a list entry. The italics are the boundary that keeps the past tense and the second voice contained inside the object Erik is currently looking at.
 
-> He opens the book. *I should have come.* He closes the book.
+Reserved for the inscription passage in the chapter "The Inscription", and for the exact quoted content of the list when the list is quoted (*Milk, bread, fish, oranges.*), and for the word *forgive* when it appears on the list. Not for emphasis. Not for thoughts.
 
-The italicised sentence is in past tense. The narration around it is present. The italics are the membrane.
+### Quotation marks
+
+Almost never. The novella has very little direct dialogue. When a character speaks at length, the prose may paraphrase rather than quote. When a single line is quoted, standard double quotes are used.
 
 ---
 
 ## Word Choice
 
-### Preferred
+### Preferred verb stems
 
-| Category | Words |
+- **Hand actions:** wrap, fold, open, close, put, pick up, put down, take, hold, rinse, fill, empty, tape, label, pull, press, cut, tear, lay, place, bring, reach, set, stack
+- **Body movement:** walk, sit, stand, go, return, cross, climb, stop, turn
+- **Domestic procedure:** make (coffee), eat, sleep, wash, drink, call, wait, open (the door), close, unlock
+- **Observation verbs:** be (*is/are*), have (*has*), hold, carry, contain, rest on, sit on, lie on, look
+
+### Preferred nouns
+
+- **Objects:** cup, kettle, dish, plate, glass, shirt, dress, hanger, bag, box, tape, list, paper, pen, drawer, cupboard, shelf, wardrobe, lamp, key, phone, photograph, newspaper, pencil, jar, book, shoebox
+- **Surfaces and rooms:** counter, table, window, floor, hall, kitchen, bedroom, living room, bathroom, balcony, second room, shelf
+- **Light and sight:** light, morning, afternoon, evening, night, the elm, the rectangle, the street, the bakery, the corner, the crossing
+
+### Avoided word classes
+
+| Category | Why avoided |
 |---|---|
-| Hand actions | wraps, folds, opens, closes, puts, picks up, puts down, takes, holds, rinses, fills, empties, tapes, labels, unwraps, presses, pulls |
-| Movement | walks, sits, stands, leaves, returns, crosses, climbs, stops |
-| Objects | cup, kettle, dish, plate, glass, shirt, dress, hanger, bag, box, tape, list, paper, pen, drawer, cupboard, shelf, wardrobe, hollow, lamp, key, phone, photograph |
-| Domestic verbs | makes coffee, eats, sleeps, washes, drinks, calls, waits |
-| Surfaces and rooms | counter, table, window, floor, hall, kitchen, bedroom, living room, bathroom, balcony, second room |
-| Time markers (only as observed phenomena) | light, morning, afternoon, evening, night, the elm, the rectangle of light |
-
-### Avoided
-
-| Category | Why |
-|---|---|
-| Feeling words (sad, angry, afraid, lonely, broken) | Interiority. |
-| Cognitive verbs (think, wonder, realise, suppose) | Interiority. |
-| Comparison words (like, as if, as though, resembles) | Interpretation. |
-| Intensifiers (very, really, almost, quite) | Soft tics. The novella does not nudge. |
-| Authorial flourish (suddenly, of course, indeed, somehow, somewhere) | Tells the reader how to read the sentence. |
-| The five forbidden abstractions | See above. |
-
-### A note on "almost"
-
-The word *almost* is borderline. The novella is allowed *almost* in physical descriptions of position: "The light reaches almost to the sink." It is forbidden in cognitive constructions: "He almost picked up the phone."
-
----
-
-## Sample Transformations
-
-These are illustrative of the discipline, not draft passages.
-
-### 1. Interiority → Action
-
-**❌** *He thought about his mother and felt a wave of something like sorrow.*
-**✓** *He fills the kettle. He puts it on. He stands at the counter looking at the elm.*
-
-### 2. Interpretation → Description
-
-**❌** *The wardrobe was empty in a way that felt wrong, almost as if it had never been full at all.*
-**✓** *The wardrobe is empty. Not cleared. Empty in the way of a wardrobe that has been empty for a long time.*
-
-(Note: the second is also borderline. The cleaner version is just: *The wardrobe is empty.* The novella sometimes allows a single calibrating clause when the *physical* state is unusual; it never allows a comparison.)
-
-### 3. Em-dash pivot → Period
-
-**❌** *He picks up the phone — the disconnected phone — and listens.*
-**✓** *He picks up the phone on the wall. The line is dead. He puts the phone back.*
-
-### 4. Foreshadowing → Nothing
-
-**❌** *He had no way of knowing that within a week the inscription page would no longer be blank.*
-**✓** *He opens the book. The inscription page is blank. He closes the book and puts it in the box.*
-
-### 5. Naming the abstraction → The thing itself
-
-**❌** *He felt the weight of his guilt about not answering the phone the day his father died.*
-**✓** *(Probably this is not on the page at all in this chapter. If anything is on the page, it is:)*
-*He puts the phone back on the wall. He sits at the kitchen table. The elm. The light. A long time.*
-
-### 6. Metaphor → Literal
-
-**❌** *The list, like a rope fraying in his hands, was beginning to come apart.*
-**✓** *He takes the list out of his coat pocket. Item 5 has a line through it. He didn't cross it off. He puts the list back.*
-
-### 7. Adverb → Cut
-
-**❌** *He carefully wrapped the glass.*
-**✓** *He wraps the glass.*
-
-(If the wrapping is careful, the prose can show the care by describing the motor sequence. It does not need to label the care.)
-
----
-
-## The Glitch Register
-
-Glitches are not announced. They sit inside the prose at baseline volume. The five categories of glitch (see CONCEPTUAL_MAP and THEME_DOSSIERS) each have their own pressure on the prose:
-
-### Gestural glitches
-A hand reaches for a thing in the wrong place. Rendered as: a clean clause that contradicts the previous clause's setup.
-> He reaches for the tape dispenser on the counter. He picks it up from the table.
-
-### Spatial glitches
-Layouts shift. A room is in the wrong place. A piece of furniture is new.
-> He goes to the bedroom. The bedroom is through the kitchen.
-
-### Object glitches
-A finished thing is unfinished. A removed thing is back.
-> The wardrobe is full. The bags are gone.
-
-### Documentary glitches
-Records do not match. Names, dates, signatures.
-> The name on the bill has an extra initial.
-
-### Procedural glitches
-Bureaucracy contradicts itself. The solicitor pauses.
-> The operator says the line was disconnected four months ago.
-> He says it rang. He picked it up.
-> The operator says the line was disconnected four months ago.
-
-### Temporal glitches
-A date that doesn't fit. A newspaper too new.
-> He wraps a glass in newspaper. The newspaper is today's.
-
-### Relational glitches
-A photograph contains the wrong number of people. An inscription that was blank is full.
-> The inscription page is full. His handwriting.
-
-### Syntactic glitches (late only)
-Objects swap identity inside a clause.
-> He wraps a plate and the plate is a cup and he wraps a cup and the cup is a plate.
-
-### Stable anchors
-Some things do not glitch. The crayon drawings of the child's room are stable. The light on the counter is mostly stable. The elm is stable. The novella needs its anchors so the dissolution has a floor to fall through.
-
-**Discipline across all glitch types:** the prose treats them at the same volume as the non-glitched material. It does not slow down. It does not speed up. It does not flag. The reader is the one who carries the weight of having noticed.
+| Feeling words | Interiority. |
+| Cognitive verbs | Interiority. |
+| Comparison words (*like, as if, as though*) | Interpretation. |
+| Intensifiers (*very, really, almost* outside physical positioning, *quite*) | Softening tics. |
+| Authorial flourish (*suddenly, of course, indeed, somehow, somewhere* in the cognitive sense) | Tells the reader how to read the sentence. |
+| The forbidden abstractions | See category 3. |
+| Pronouns and names for the protagonist | See category 1. |
 
 ---
 
@@ -345,12 +361,12 @@ Some things do not glitch. The crayon drawings of the child's room are stable. T
 
 For every sentence:
 
-1. ☐ **Is it concrete?** Does it describe a thing, an action, a position, a surface? Or does it describe a feeling, an idea, a "sense of"?
-2. ☐ **Is the camera still in the room?** Did the prose leave Erik's shoulder for a memory, a flashforward, an aside?
-3. ☐ **Have I named an abstraction?** (Grief, guilt, memory, loss, mourning, dissociation, etc.) If so, cut.
-4. ☐ **Have I told the reader how to feel?** Any "as if", any "almost", any "for a moment", any em-dash pivot?
-5. ☐ **Have I used a forbidden word?** Run the list.
-6. ☐ **Could I cut adverbs?** Almost always yes. Cut them.
+1. ☐ **Is the protagonist named or pronouned?** If yes, cut.
+2. ☐ **Is the verb bare/infinitive (action), finite (observation), or past-participial (state)?** If something else, rewrite.
+3. ☐ **Are articles handled correctly (definite established, bare immediate, indefinite almost never)?**
+4. ☐ **Is a fragment being used where a finite observation or imperative chain belongs?**
+5. ☐ **Is a glitch being compressed into a single clever sentence?** If yes, spread it across two or three flat sentences.
+6. ☐ **Does the sentence read as a person holding together by refusing to look up?** If no, cut.
 
 ---
 
@@ -358,18 +374,20 @@ For every sentence:
 
 A scene is done when:
 
-- A reader who knows what the novella is about can read the scene without flinching at any line as overdone.
-- A reader who doesn't know what the novella is about can read the scene as a calm, strange, slightly uncomfortable description of a man clearing his mother's apartment.
+- A reader who knows what the novella is about can read the scene without flinching at any line as overdone or broken.
+- A reader who doesn't know what the novella is about can read the scene as a calm, strange, slightly uncomfortable description of a body clearing a dead parent's apartment.
 - The glitches in the scene are present but not announced.
-- The list (if used in this scene) is rendered without commentary.
-- Nothing in the scene tells the reader what to think.
+- Every sentence holds the numb single-mindedness.
+- Nothing in the scene tells the reader what to think or feel.
 - The scene ends without resolution.
+- The camera has not left the room except to land on a laconic observation at the destination.
 
 A scene is *not* done when:
 
-- It "delivers" emotion.
-- It "reveals" something.
-- It feels finished.
-- It feels like literature.
-
-The novella's final state is supposed to feel like a man closed a door behind him and the prose noticed.
+- Any sentence contains a pronoun for the protagonist.
+- Any sentence names an abstraction.
+- Any sentence interprets.
+- Any em-dash is performing a pivot.
+- The prose has gone lyrical, clever, or literary in register.
+- A glitch is announced rather than placed.
+- The voice has become hysterical fragmentation instead of numb single-mindedness.

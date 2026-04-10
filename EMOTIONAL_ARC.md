@@ -2,7 +2,7 @@
 
 ## Reader Journey Through "Continue"
 
-This document describes the experience the novella is trying to produce *in the reader*. It is not a description of Erik's experience. Erik's interior is not on the page. The reader is the person whose interior matters.
+This document describes the experience the novella is trying to produce *in the reader*. It is not a description of the protagonist's experience. the protagonist's interior is not on the page. The reader is the person whose interior matters.
 
 ---
 
@@ -47,7 +47,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader feels:** Calm interest. Curiosity about the protagonist. Domestic immersion. The pleasure of a quietly competent prose voice describing a quietly competent man receiving a key.
 
-**What the reader is doing cognitively:** Building a mental model of the apartment. Building a mental model of Erik. Beginning to wonder why Erik is alone, what has happened, when, to whom. The novella offers no answers.
+**What the reader is doing cognitively:** Building a mental model of the apartment. Building a mental model of the protagonist. Beginning to wonder why the protagonist is alone, what has happened, when, to whom. The novella offers no answers.
 
 **What the reader notices:** The list, written in the kitchen at the end. The fourteen items. The folding. The coat pocket. The chapter ends. The phone on the kitchen wall got one sentence too many. The reader does not yet know that this is a tell.
 
@@ -57,9 +57,9 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 2 — The Boxes
 
-**What the reader feels:** Settling into rhythm. The pleasure of methodical work. Mild satisfaction at the boxes filling, at the labels, at Erik's competence.
+**What the reader feels:** Settling into rhythm. The pleasure of methodical work. Mild satisfaction at the boxes filling, at the labels, at the protagonist's competence.
 
-**What the reader notices:** The tape dispenser sentence. *He reaches for it on the counter, picks it up from the table.* The reader pauses for a quarter-second and moves on. It might be a typo. It might be the writer being inattentive.
+**What the reader notices:** The tape dispenser moment. *The tape is on the counter. Pick it up from the table.* The reader pauses for a quarter-second and moves on. It might be a typo. It might be the writer being inattentive.
 
 **What is happening in the reader:** The reader's trust in the book is now mixed with a small, unaccounted-for worry.
 
@@ -67,7 +67,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 3 — The Utility Company
 
-**What the reader feels:** Mild frustration with bureaucracy (in sympathy with Erik). The faint pleasure of Erik's small win at the library (the fine waived). Then a small jolt at the line through Item 2.
+**What the reader feels:** Mild frustration with bureaucracy (in sympathy with the protagonist). The faint pleasure of the protagonist's small win at the library (the fine waived). Then a small jolt at the line through Item 2.
 
 **What the reader notices:** The bedroom is through the kitchen. The line through Item 2. These are now noticeable enough that the reader cannot dismiss them as inattention. The reader begins to suspect that the book is doing something.
 
@@ -89,7 +89,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader feels:** A small new pressure: the will is missing. The desk in the second room. The wardrobe full again, the bags gone.
 
-**What the reader notices:** The desk is the chapter's strangest thing. The reader wants Erik to acknowledge it. He does not. The reader has to carry the unacknowledgement.
+**What the reader notices:** The desk is the chapter's strangest thing. The reader wants the protagonist to acknowledge it. The acknowledgement does not come. The reader has to carry the unacknowledgement.
 
 **What is happening in the reader:** Beginning of mild dread. The dread is not a fear of supernatural events; it is a fear that the book is going to do this without ever offering them a frame for it.
 
@@ -107,9 +107,9 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 7 — The Neighbour
 
-**What the reader feels:** The chapter's major rupture. Erik is at home. The reader does not know how to read the box on his own counter. The reader does not know how to read the neighbour's *we've heard him moving around at night.*
+**What the reader feels:** The chapter's major rupture. the protagonist is at home. The reader does not know how to read the box on the protagonist's own counter. The reader does not know how to read the neighbour's *we've heard him moving around at night.*
 
-**What the reader notices:** That the work has crossed a boundary. That the boundary is not announced. That a stranger has heard Erik moving around at night, which is the first time anyone in the novella has registered, in any way, what is happening to Erik. And that the prose will not let the reader stay with this; the chapter ends; Erik goes to bed.
+**What the reader notices:** That the work has crossed a boundary. That the boundary is not announced. That a stranger has heard the protagonist moving around at night, which is the first time anyone in the novella has registered, in any way, what is happening to the protagonist. And that the prose will not let the reader stay with this; the chapter ends; the protagonist goes to bed.
 
 **What is happening in the reader:** Active dread. The reader is now afraid of every chapter. They do not know what the dread is about. The form is succeeding.
 
@@ -117,7 +117,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 8 — The Death Certificate
 
-**What the reader feels:** A particular ache at the form-filling sequence. (Erik knows the answers. He writes them without hesitating. The reader infers a great deal from this.) Then the bookshelves full. The blank inscription page. The wall phone ringing for a long time without being answered.
+**What the reader feels:** A particular ache at the form-filling sequence. (The protagonist knows the answers. Each line is filled without hesitating. The reader infers a great deal from this — rule 11 in action.) Then the bookshelves full. The blank inscription page. The wall phone ringing for a long time without being answered.
 
 **What the reader notices:** The phone ringing. The reader is now attached to the wall phone the way a thriller reader is attached to a clue. They want it answered. They do not want it answered. The novella is not going to answer it, in this chapter or any other, on its own terms.
 
@@ -127,7 +127,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 9 — The Bank
 
-**What the reader feels:** Frustration on Erik's behalf at the bank's procedural maze. Then the discrepancy in the middle name, with the prose's *or the same*. The reader pauses at *or the same*. They reread the sentence. The novella does not look back at them.
+**What the reader feels:** Frustration on the protagonist's behalf at the bank's procedural maze. Then the discrepancy in the middle name, with the prose's *or the same*. The reader pauses at *or the same*. They reread the sentence. The novella does not look back at them.
 
 **What the reader notices:** That the prose itself has admitted, for the first time, that it is not sure. Up until now the prose has been calm and certain about every fact it reports. *Or the same* is the first prose-level wobble. The reader recognises it.
 
@@ -139,7 +139,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader feels:** Sustained dread. The freezer with the date after she died. The newspaper that is today's. The phone ringing, picked up, silent, dial tone. The list with Item 7 rewritten as *answer the phone*.
 
-**What the reader notices:** That the phone is now demanding to be answered. That Erik is not answering. That the novella is not going to deliver an answer.
+**What the reader notices:** That the phone is now demanding to be answered. That the protagonist is not answering. That the novella is not going to deliver an answer.
 
 **What is happening in the reader:** The reader is now in the experience of grief without ever having been told the word. The reader is in the experience of guilt without ever having been told the word. The reader is in the experience of dissociation without ever having been told the word. None of these names is on the page; the reader will not be able to extract themselves from the experience by labelling it.
 
@@ -147,9 +147,9 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 11 — The Solicitor
 
-**What the reader feels:** A small relief when the will is finally pinned (the solicitor has it; its terms are simple). Then the apartment with completely changed furniture. Erik on the floor. The reader's relief evaporates.
+**What the reader feels:** A small relief when the will is finally pinned (the solicitor has it; its terms are simple). Then the apartment with completely changed furniture. the protagonist on the floor. The reader's relief evaporates.
 
-**What the reader notices:** That the legal architecture of the death has resolved at exactly the moment the physical architecture has stopped resolving. That this is the chapter in which Erik does not pack.
+**What the reader notices:** That the legal architecture of the death has resolved at exactly the moment the physical architecture has stopped resolving. That this is the chapter in which the protagonist does not pack.
 
 **What is happening in the reader:** The reader has been waiting for someone to do something. The solicitor does the thing the reader was waiting for. It does not help. The reader registers that nothing the procedural world can do is going to help.
 
@@ -157,7 +157,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 12 — The Inscription
 
-**What the reader feels:** The chapter's central moment is the inscription. The italicised passage is the only place in the novella where the prose lets a voice from inside Erik onto the page, and even then it is contained in a book he is reading. The reader reads the italicised passage. The reader closes the chapter.
+**What the reader feels:** The chapter's central moment is the inscription. The italicised passage is the only place in the novella where the prose lets a voice from inside the protagonist onto the page, and even then it is contained in a book he is reading. The reader reads the italicised passage. The reader closes the chapter.
 
 **What the reader notices:** The inscription's voice. Its plainness. Its honesty. *I should have come. I know you waited. I don't know how to be in that room with you.* The reader has been carrying the apology since the first chapter and now the apology has been said, on a page, in italics, to no one.
 
@@ -169,9 +169,9 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader feels:** The repetition. *The line was disconnected four months ago.* Said twice. The reader registers that the wall phone — which has been ringing, picking up, going silent through three previous chapters — has been dead the entire time. The reader is invited to wonder when the wall phone became dead. The reader is invited to count the time. The reader is invited to assemble the four months.
 
-**What the reader notices:** The list, at his own kitchen table, with *forgive* near the bottom in handwriting Erik cannot identify.
+**What the reader notices:** The list, at the protagonist's own kitchen table, with *forgive* near the bottom in handwriting the protagonist cannot identify.
 
-**What is happening in the reader:** A specific kind of horror, calmly delivered. The reader has been listening to a phone that does not exist, picked up by a man who is alone in his mother's apartment, and the operator says it has been gone for four months. The reader does not know how long Erik has been doing this. The novella has refused, since the first chapter, to give the reader any external timeline.
+**What is happening in the reader:** A specific kind of horror, calmly delivered. The reader has been listening to a phone that does not exist, picked up by a man who is alone in the mother's apartment, and the operator says it has been gone for four months. The reader does not know how long the protagonist has been doing this. The novella has refused, since the first chapter, to give the reader any external timeline.
 
 ---
 
@@ -187,13 +187,13 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 ### Chapter 15 — The Boxes (second time)
 
-**What the reader feels:** Echo. The chapter title is the second chapter's title. The rhythms are quoted. The reader recognises them. The reader is reading a chapter that is and is not the second chapter, the way Erik is in an apartment that is and is not the apartment.
+**What the reader feels:** Echo. The chapter title is the second chapter's title. The rhythms are quoted. The reader recognises them. The reader is reading a chapter that is and is not the second chapter, the way the protagonist is in an apartment that is and is not the apartment.
 
-The crayon drawings sequence is the chapter's small island. The reader registers them as stable. They are stable. Erik takes them down carefully. He rolls them up. He puts them in his coat pocket.
+The crayon drawings sequence is the chapter's small island. The reader registers them as stable. They are stable. The drawings are taken down carefully, rolled up, and put in the coat pocket.
 
-The grocery list is the chapter's final blow. *Milk, bread, fish, oranges.* The reader, who has seen the grocery list once before in Chapter 4 and registered its disappearance from the drawer in Chapter 13, recognises that the paper in Erik's coat pocket has been replaced.
+The grocery list is the chapter's final blow. *Milk, bread, fish, oranges.* The reader, who has seen the grocery list once before in Chapter 4 and registered its disappearance from the drawer in Chapter 13, recognises that the paper in the protagonist's coat pocket has been replaced.
 
-**What the reader notices:** That something Erik made when he was small is in his coat pocket and his list is gone and her grocery list is in his coat pocket instead.
+**What the reader notices:** That something the protagonist made when small is in the coat pocket and the list is gone and the mother's grocery list is in the coat pocket instead.
 
 **What is happening in the reader:** A reader who has been carrying the novella's load is now somewhere they cannot describe to anyone who has not read the book. The reader is doing the work.
 
@@ -205,7 +205,7 @@ The grocery list is the chapter's final blow. *Milk, bread, fish, oranges.* The 
 
 The blank list. The pen, picked up, not used.
 
-**What the reader notices:** That the apartment is not in this chapter and is no longer needed in this chapter. That what Erik is carrying — the photograph, the drawings, the blank paper — is what the chapter is.
+**What the reader notices:** That the apartment is not in this chapter and is no longer needed in this chapter. That what the protagonist is carrying — the photograph, the drawings, the blank paper — is what the chapter is.
 
 **What is happening in the reader:** The reader is being prepared for the final chapter without being told they are being prepared.
 
@@ -219,7 +219,7 @@ The leaving. The unlocked door. The bakery. The light at the crossing. Home. The
 
 The book ends.
 
-**What the reader notices:** That the apartment is full at the end. That Erik did not finish. That he left anyway. That the door is open behind him. That the prose has not told them what to make of any of this.
+**What the reader notices:** That the apartment is full at the end. That the protagonist did not finish. That he left anyway. That the door is open behind him. That the prose has not told them what to make of any of this.
 
 **What is happening in the reader:** Whatever is happening in the reader. The novella has finished asking.
 
@@ -229,7 +229,7 @@ The book ends.
 
 ### Movement 1 — Trust (Chapters 1-3)
 
-The reader trusts the book. They are reading a calm, careful, slightly strange novella about a man clearing his mother's apartment. The first glitches arrive but the reader can dismiss them.
+The reader trusts the book. They are reading a calm, careful, slightly strange novella about a man clearing the mother's apartment. The first glitches arrive but the reader can dismiss them.
 
 ### Movement 2 — Suspicion (Chapters 4-6)
 
@@ -250,14 +250,14 @@ The reader is set down. The novella has not resolved anything. The reader is on 
 The novella owes the reader many things and pays none of them:
 
 - **An explanation of the glitches.** Not paid.
-- **A reconciliation between Erik and his mother.** Not paid.
-- **A scene in which Erik weeps.** Not paid.
-- **A scene in which Erik calls Marianne.** Not paid.
-- **The story of the day Erik's father died.** Not paid.
-- **The text of any conversation between Erik and his mother.** Not paid.
+- **A reconciliation between the protagonist and the mother.** Not paid.
+- **A scene in which the protagonist weeps.** Not paid.
+- **A scene in which the protagonist calls Marianne.** Not paid.
+- **The story of the day the protagonist's father died.** Not paid.
+- **The text of any conversation between the protagonist and the mother.** Not paid.
 - **A confirmation that the apartment is "real" or "imagined".** Not paid.
-- **A confirmation that Erik is "all right" or "not all right".** Not paid.
-- **A scene in which Erik is helped.** Not paid.
+- **A confirmation that the protagonist is "all right" or "not all right".** Not paid.
+- **A scene in which the protagonist is helped.** Not paid.
 
 The novella owes the reader, and pays:
 
@@ -275,10 +275,10 @@ The novella owes the reader, and pays:
 - **Chapters 1-2:** Allow the reader to settle. Do not rush. Let the prose's calmness become the reader's expectation.
 - **Chapter 3:** First procedural chapter. The pace can rise slightly with the call to the utility company, but the apartment scenes hold the slowness.
 - **Chapters 4-6:** The slowness is at its highest. The reader is being immersed at the same moment the apartment is starting to misbehave. This is the chapter sequence where the form's central engine — calm prose carrying disturbed content — is most cleanly visible.
-- **Chapter 7:** The chapter must read at the same pace as the apartment chapters, even though it is in his own apartment. The continuity of pace is the chapter's central effect.
+- **Chapter 7:** The chapter must read at the same pace as the apartment chapters, even though it is in the protagonist's own apartment. The continuity of pace is the chapter's central effect.
 - **Chapters 8-11:** Procedural and bureaucratic, with one large slow scene per chapter (the form, the bank desk, the freezer, the solicitor's office, the photograph going-through). The reader's attention has tightened. The chapters can be slightly shorter or move more sharply.
 - **Chapter 12:** The slowest chapter since Chapter 6. The inscription must be given full weight.
-- **Chapter 13:** The repetition of the operator's sentence sets the chapter's pace. The fragmentation at the end (*Home. Dinner. Counter. Plate. Bed.*) is permitted because Erik's body is doing things.
+- **Chapter 13:** The repetition of the operator's sentence sets the chapter's pace. The fragmentation at the end (*Home. Dinner. Counter. Plate. Bed.*) is permitted because the protagonist's body is doing things.
 - **Chapter 14:** The longest chapter. The reader is meant to feel its length. The dissolution accumulates.
 - **Chapter 15:** Echoes Chapter 2's pace. The reader who remembers Chapter 2 feels the echo. The crayon drawings sequence is the chapter's slowest.
 - **Chapter 16:** Stillness. The shortest chapter so far.

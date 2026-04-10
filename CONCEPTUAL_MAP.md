@@ -3,18 +3,18 @@
 ## "Continue": Narrative Architecture and Glitch Phases
 
 **Format:** Novella, ~30,000 words, 17 chapters
-**POV:** Third person close, present tense
+**POV:** Third-person position, no pronoun or name for the protagonist, present tense
 **Structure:** Five-phase glitch escalation across an apparently linear sequence of clearing tasks
 
 ---
 
 ## The Premise (Restated)
 
-A man clears his dead mother's apartment before the lease expires. The tasks multiply. The apartment shifts. The prose never flinches.
+Someone clears a dead mother's apartment before the lease expires. The tasks multiply. The apartment shifts. The prose never flinches.
 
 The novella is *about* (in the sense that nothing in it can be summarised without summarising the whole synopsis):
 
-- A specific bereavement: an estranged son clearing the home of a parent he failed to be present for at the end of her life and at the end of his father's.
+- A specific bereavement: an estranged adult child clearing the home of a parent they failed to be present for at the end of her life and at the end of the father's.
 - A specific kind of guilt that has never been spoken aloud and now never will be.
 - A specific failure mode of grief, in which the bereaved continues to be functional, methodical, and effective, while the surrounding world begins to lose internal consistency.
 - The simple physical and procedural reality of clearing a home: kitchens, wardrobes, banks, solicitors, charity shops, library books.
@@ -32,13 +32,13 @@ The novella is *not about* (in the sense that it does not name and does not gest
 
 ### Length
 
-~30,000 words. Chapters grow in word count from approximately 1,200 in the opening to approximately 2,500 in the central glitched chapters, then contract toward the closing chapter at approximately 1,200. The contraction is not announced; it is simply the prose having less and less to say as Erik has less and less of an apartment to be inside of.
+~30,000 words. Chapters grow in word count from approximately 1,200 in the opening to approximately 2,500 in the central glitched chapters, then contract toward the closing chapter at approximately 1,200. The contraction is not announced; it is simply the prose having less and less to say as the protagonist has less and less of an apartment to be inside of.
 
 ### Time
 
-There is no external timeline. The prose never says "the next day", "the following morning", "a week later", "by autumn". Each chapter begins with Erik arriving at the apartment, leaving the apartment, or waking up. The reader assembles a sequence and a duration from inference.
+There is no external timeline. The prose never says "the next day", "the following morning", "a week later", "by autumn". Each chapter begins with the body arriving at the apartment, leaving the apartment, or waking up. The reader assembles a sequence and a duration from inference.
 
-When the sequence starts slipping — when it becomes unclear how long Erik has been doing this, whether a day has passed, whether the same day is being lived again — there is no scaffold to catch the reader. There is no narrative voice to confirm what time it is.
+When the sequence starts slipping — when it becomes unclear how long the work has been going on, whether a day has passed, whether the same day is being lived again — there is no scaffold to catch the reader. There is no narrative voice to confirm what time it is.
 
 ### Sequence
 
@@ -46,11 +46,11 @@ The 17 chapters are ordered. The order is not numbered on the page. Chapter titl
 
 ### POV discipline
 
-The camera stays at Erik's shoulder. It never enters his head. It never leaves the room he is in. It never reports a memory. See NARRATOR_VOICE.md.
+The protagonist has no name and no pronoun. The camera is at a fixed position that walks with a body, watches its hands, registers what it touches, and records what it sees. It never enters a head. It never leaves the room. It never reports a memory as a scene. See NARRATOR_VOICE.md.
 
 ### Tense discipline
 
-Present tense, always. The single permitted exception is past tense *inside* a thing Erik is currently reading (an inscription, a label, a list entry). See NARRATOR_VOICE.md.
+Present tense, always. The single permitted exception is past tense *inside* a thing the body is currently reading (the inscription, a label, a list entry). See NARRATOR_VOICE.md.
 
 ---
 
@@ -62,9 +62,9 @@ The novella's central architecture is the gradual escalation of inconsistency in
 
 **Where:** Chapters "The Key" through "The Boxes" (1-2)
 
-**What:** The wrongness is at the level of micro-action. A hand reaches for the tape dispenser on the counter and picks it up from the table. A door that should have been locked is unlocked. The first chapter explicitly contains *no* glitches; this absence is itself part of the architecture, because it teaches the reader the baseline register. Phase 1 introduces, gently, a single hand misreaching.
+**What:** The wrongness is at the level of micro-action. A hand reaches for the tape on the counter and picks it up from the table. A door that should have been locked is unlocked. The first chapter explicitly contains *no* glitches; this absence is itself part of the architecture, because it teaches the reader the baseline register. Phase 1 introduces, gently, a single hand misreaching.
 
-**Effect on reader:** Mild unease that does not yet read as "wrong". Could be a typo. Could be the writer being inattentive. Could be Erik being tired. The reader does not yet have grounds to suspect the form is doing anything.
+**Effect on reader:** Mild unease that does not yet read as "wrong". Could be a typo. Could be the writer being inattentive. Could be the body being tired. The reader does not yet have grounds to suspect the form is doing anything.
 
 **Effect on prose:** None. The prose holds its baseline register. The glitch sits inside an otherwise clean sentence.
 
@@ -74,13 +74,13 @@ The novella's central architecture is the gradual escalation of inconsistency in
 
 **Where:** "The Utility Company" through "The Photographs" (3-6)
 
-**What:** Layouts shift. The bedroom is through the kitchen, contradicting the first chapter's mapping of rooms. A desk appears in the second room that Erik does not remember. The wardrobe refills after he has emptied it. The list shows items crossed off in his handwriting that he did not cross off. The bills have a name that is almost but not quite his mother's. The utility company is "looking into it". The photograph that was in the bedside drawer is in the shoebox, and the prose says it now has three people in it.
+**What:** Layouts shift. The bedroom is through the kitchen, contradicting the first chapter's mapping of rooms. A desk appears in the second room that had not been there. The wardrobe refills after it has been emptied. The list shows items crossed off in the same handwriting but by no hand that moved. The bills have a name that is almost but not quite the mother's. The utility company is "looking into it". The photograph that was in the bedside drawer is in the shoebox, and the prose says it now has three people in it.
 
 **Effect on reader:** The unease is no longer ignorable. The reader starts paying attention to the prose at a different pitch — looking for the wrongness, anticipating it. This is the phase in which the novella's contract with the reader changes: from "this is a slow domestic novel" to "something is happening here that the prose will not name".
 
 **Effect on prose:** Still baseline. The prose does not begin to register the wrongness. The disjunction between the prose's calm and the content's drift becomes one of the novella's primary engines.
 
-**The list in Phase 2:** Begins to misbehave. New items appear in handwriting that is and is not Erik's. Item 5 has a line through it that he did not draw. A line beneath Item 6 says: *call Marianne.* Marianne has not been mentioned and will not be mentioned again until the very late chapters.
+**The list in Phase 2:** Begins to misbehave. New items appear in a handwriting that is and is not the same. Item 5 has a line through it that was not drawn. A line beneath Item 6 says: *call Marianne.* Marianne has not been mentioned and will not be mentioned again until the very late chapters.
 
 ---
 
@@ -88,15 +88,15 @@ The novella's central architecture is the gradual escalation of inconsistency in
 
 **Where:** "The Neighbour" through "The Solicitor" (7-11)
 
-**What:** The drift moves from objects and rooms to *facts*. Documents do not match other documents. Erik's mother's middle name on his birth certificate differs from her middle name on the death certificate. Or the same. The solicitor says there is a will that leaves Erik everything in the apartment, and Erik returns to the apartment to find the furniture is no longer his mother's. The freezer contains something labelled with a date *after* she died. He wraps a glass in newspaper, and the newspaper is today's. The phone rings. He picks it up. There is silence and then a dial tone. He calls the telephone company; they say the line was disconnected four months ago.
+**What:** The drift moves from objects and rooms to *facts*. Documents do not match other documents. The mother's middle name on the birth certificate differs from her middle name on the death certificate. Or the same. The solicitor says there is a will that leaves everything in the apartment to the person sitting across the desk, and the return to the apartment finds the furniture is no longer the mother's. The freezer contains something labelled with a date *after* she died. A glass is wrapped in newspaper, and the newspaper is today's. The phone rings. The phone is picked up. There is silence and then a dial tone. A call to the telephone company: they say the line was disconnected four months ago.
 
-This is also the phase in which the glitches cross into Erik's own apartment, in the chapter "The Neighbour". His own kitchen, his own counter, his own plates, wrapped in his own newspaper and put in his own box. The neighbour comes to the door because he has been heard moving around at night. The prose does not remark on this.
+This is also the phase in which the glitches cross into the protagonist's own apartment, in the chapter "The Neighbour". The own kitchen, the own counter, the own plates, wrapped in the own newspaper and put in the own box. The neighbour comes to the door because movement has been heard at night. The prose does not remark on this.
 
 **Effect on reader:** Active dread. The reader starts to feel that the floor of the novella has been gone for a while and they did not know exactly when it left. The novella's refusal to comment is now palpable. The reader has begun to do all of the carrying.
 
 **Effect on prose:** Still baseline. The prose is calm. The content is not. The gap between them is the form.
 
-**The list in Phase 3:** No longer functions as a task list. Items are reordered. Items are rewritten. Item 7 is now: *answer the phone.* Item 16 is: *the phone.* Below an unnumbered region, in handwriting Erik can no longer identify as his, the word *forgive*. The handwriting of earlier items looks different from his current handwriting.
+**The list in Phase 3:** No longer functions as a task list. Items are reordered. Items are rewritten. Item 7 is now: *answer the phone.* Item 16 is: *the phone.* Below an unnumbered region, in a handwriting that can no longer be identified, the word *forgive*. The handwriting of earlier items looks different from the current handwriting.
 
 ---
 
@@ -106,15 +106,15 @@ This is also the phase in which the glitches cross into Erik's own apartment, in
 
 (Chapter numbering: 12 The Inscription, 13 The Phone Call, 14 The Rooms, 15 The Boxes [second].)
 
-**What:** The dissolution moves into the sentences. Up to this point the prose has held its calm even while the content broke around it. In Phase 4 the prose itself begins to lose internal coherence. A sentence will name an action and then the object of the action will change identity halfway through. A box will be labelled with one word and contain things from another category. The stairwell has an extra half-flight. A room appears that did not exist (the piano room, the small study with the courtyard window — the apartment has no courtyard). The coffee on the kitchen counter is warm. He walks back; there is no piano room; the coffee is still warm.
+**What:** The dissolution moves into the sentences. Up to this point the prose has held its calm even while the content broke around it. In Phase 4 the prose itself begins to lose internal coherence. A sentence will name an action and then the object of the action will change identity halfway through. A box will be labelled with one word and contain things from another category. The stairwell has an extra half-flight. A room appears that did not exist (the piano room, the small study with the courtyard window; the apartment has no courtyard). The coffee on the kitchen counter is warm. The walk back: there is no piano room; the coffee is still warm.
 
-The inscription page in the book that was blank is now full, and the inscription is in Erik's handwriting and is the closest thing to direct speech the novella permits itself. Even there, the prose holds the past tense inside the italicised text and will not let it leak out. The narration around the italics remains in the present.
+The inscription page in the book that was blank is now full, and the inscription is in the same handwriting as the list in the coat pocket, and it is the closest thing to direct speech the novella permits itself. Even there, the prose holds the past tense inside the italicised text and will not let it leak out. The narration around the italics remains in the present.
 
 **Effect on reader:** The reader is no longer trying to track the timeline. The reader is reading sentence by sentence, the way a person reads when something is happening that they cannot accept. This is where some readers will close the novella for a while.
 
-**Effect on prose:** First permitted dissolution. Sentences allow the wrongness inside themselves. *He wraps a plate and the plate is a cup and he wraps a cup and the cup is a plate.* This is the only register-shift the novella has, and it is earned by 14 chapters of refusing it.
+**Effect on prose:** First permitted dissolution. Sentences allow the wrongness inside themselves. *Wrap a plate and the plate is a cup and wrap the cup and the cup is a plate.* This is the only register-shift the novella has, and it is earned by 14 chapters of refusing it.
 
-**The list in Phase 4:** A paragraph in his handwriting. Some words legible, some not. In the second "The Boxes" chapter, he reaches into his pocket and unfolds the paper, and it is her grocery list, in her handwriting: *Milk, bread, fish, oranges.*
+**The list in Phase 4:** A paragraph in the same handwriting. Some words legible, some not. In the second "The Boxes" chapter, the paper comes out of the coat pocket unfolded into the mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
 
 ---
 
@@ -122,11 +122,11 @@ The inscription page in the book that was blank is now full, and the inscription
 
 **Where:** "The Photograph" and "Continue" (16-17)
 
-**What:** The dissolution does not deepen. It clears. The penultimate chapter has Erik at home with the photograph, which has now stopped shifting. From across the room it is one woman in a kitchen, not smiling, face open, patient, looking at whoever holds the camera. He puts it in his pocket. He goes to bed.
+**What:** The dissolution does not deepen. It clears. The penultimate chapter is at the protagonist's own apartment with the photograph, which has now stopped shifting. From across the room it is one woman in a kitchen, not smiling, face open, patient, looking at whoever holds the camera. The photograph goes into the coat pocket.
 
-The final chapter has Erik returning to the apartment one last time. The prose is clean. The first chapter's cadence returns. The rooms are the rooms from the first chapter. Her things are present. The wardrobe holds her clothes. The cups are in the cupboard. The phone is on the wall. Light falls across the counter in a rectangle that reaches almost to the sink. He makes coffee. He drinks it at the counter. He puts the paper, the key, and the photograph on the counter. He leaves. He does not lock the door. He crosses the road. He goes home. He sits down. Light moves across his floor.
+The final chapter returns to the mother's apartment one last time. The prose is clean. The first chapter's cadence returns. The rooms are the rooms from the first chapter. Her things are present. The wardrobe holds her clothes. The cups are in the cupboard. The phone is on the wall. Light falls across the counter in a rectangle that reaches almost to the sink. Coffee at the counter. The paper, the key, and the photograph on the counter. Leaving. The door unlocked. Across the road. Home. Sitting down. Light across the floor.
 
-**Effect on reader:** Quiet devastation that the reader cannot place. The novella does not deliver an explanation, a catharsis, or a reconciliation. It simply ends in clean prose, with the apartment full and the door open and a man sitting in his own apartment as the afternoon passes.
+**Effect on reader:** Quiet devastation that the reader cannot place. The novella does not deliver an explanation, a catharsis, or a reconciliation. It simply ends in clean prose, with the apartment full and the door open and a body sitting in its own apartment as the afternoon passes.
 
 **Effect on prose:** Return to opening register. The prose has gone through a dissolution and come out the other side as itself. The reader has gone through it without the prose's help and is permitted to feel whatever they feel.
 
@@ -138,13 +138,13 @@ The final chapter has Erik returning to the apartment one last time. The prose i
 
 The list is the only artefact in the novella that runs from the first chapter to the last. It is the spine of the form. Its arc, in summary:
 
-1. **Functional, intact.** Written by Erik in the first chapter at the kitchen table, kept in his coat pocket.
-2. **Mildly anomalous.** Items crossed off he did not cross off. New sub-items he did not add.
+1. **Functional, intact.** Written in the first chapter at the kitchen table, kept in the inside pocket of the coat.
+2. **Mildly anomalous.** Items crossed off by no hand that moved. New sub-items by no hand that moved.
 3. **Pluralised.** New items appear. Old items disappear or are rewritten.
-4. **Other-handed.** Items appear in a handwriting that is loosely his, or that he can no longer identify.
-5. **Non-task.** Items become instructions ("answer the phone"), then a single word ("forgive"), then a paragraph that is part legible and part not.
-6. **Replaced.** The paper in his pocket is no longer his list. It is her grocery list, in her handwriting: *Milk, bread, fish, oranges.*
-7. **Blank.** He takes the paper out at home. It is blank. He puts a pen down. He does not write.
+4. **Other-handed.** Items appear in a handwriting that is loosely the same, or that can no longer be identified.
+5. **Non-task.** Items become instructions (*answer the phone*), then a single word (*forgive*), then a paragraph that is part legible and part not.
+6. **Replaced.** The paper in the pocket is no longer a list. It is the mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
+7. **Blank.** The paper comes out at home. It is blank. A pen is picked up. Nothing is written.
 8. **Left.** Placed on the counter in the final chapter beside the key and the photograph. Not consulted again.
 
 See THEME_TRACKER.md for the full list inventory.
@@ -157,33 +157,33 @@ The novella never tells the reader any of the following directly. The reader ass
 
 ### Backstory 1 — The Father's Death
 
-Several years before the novella begins, Erik's father died. On that day Erik had his phone off for a business meeting. His mother tried to reach him. She could not. She called her friend Marianne, who came and was with her for the last hours of Erik's father's life. When Erik called back, his mother said: *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
+Several years before the novella begins, the father died. On that day the protagonist's phone was off for a business meeting. The mother tried to reach them. She could not. She called her friend Marianne, who came and was with her for the last hours of the father's life. When the protagonist called back, the mother said (in words that the novella never quotes): *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
 
 **How it surfaces in the novella:**
-- The name *Marianne* appears, exactly once, on the list, in handwriting Erik may or may not have written.
+- The name *Marianne* appears, exactly once, on the list, in a handwriting that is not clearly identifiable.
 - The phone — specifically the wall phone in the kitchen — recurs.
 - The phrase "missed his last breath" never appears.
-- The chapter "The Phone Call" turns on Erik picking up the wall phone, hearing it ring, picking it up; the operator then telling him the line has been disconnected for four months.
+- The chapter "The Phone Call" turns on the wall phone ringing and being picked up; the operator then saying the line has been disconnected for four months.
 
 ### Backstory 2 — The Estrangement
 
-In the years between the father's death and the mother's death, Erik and his mother drifted. The phone calls became less frequent. Erik's phone was off increasingly often, not for meetings but because he had decided to leave it off. His mother stopped trying. They never spoke about the day of the father's death, neither to repair it nor to renew the wound. They simply did not.
+In the years between the father's death and the mother's death, the protagonist and the mother drifted. The phone calls became less frequent. The protagonist's phone was off increasingly often, not for meetings but because it was left off. The mother stopped trying. They never spoke about the day of the father's death, neither to repair it nor to renew the wound. They simply did not.
 
 **How it surfaces in the novella:**
-- Erik's competence at clearing the apartment: he knows where everything is. His efficiency is a sign of how absent he has been; he has not been here in years and the apartment has therefore not changed.
-- The way he holds objects without comment, then puts them down.
-- The grocery list in her handwriting in the kitchen drawer (chapter "The Phone Call"), which he reads and puts back.
-- The bookshelf and the inscription. The inscription, when it finally comes, is in his handwriting.
+- The efficiency of the clearing work. Every drawer opened without looking. Every cupboard known. The intimacy of someone who has not been here in years and still has the apartment in the hand. Rule 11.
+- Objects held and put down without comment.
+- The grocery list in the mother's handwriting in the kitchen drawer (chapter "The Clothes"), read once and put back.
+- The bookshelves and the inscription. The inscription, when it finally comes, is in the same handwriting as the list.
 
-### Backstory 3 — The Apology He Did Not Make
+### Backstory 3 — The Apology That Was Not Made
 
-There is no scene in which Erik apologises. There is no scene in which his mother forgives him. There is no scene in which he forgives himself. There is no therapist, no friend, no priest, no journal. The apology that the novella's emotional architecture is shaped around is an apology that did not happen.
+There is no scene of apology. There is no scene of forgiveness. There is no therapist, no friend, no priest, no journal. The apology that the novella's emotional architecture is shaped around is an apology that did not happen.
 
 **How it surfaces in the novella:**
 - The blank inscription page, in the chapter "The Death Certificate".
-- The inscription, full, in his own handwriting, in the chapter "The Inscription". The italicised passage. The closest thing to a confession the novella permits.
-- The word *forgive*, on the list, once, in handwriting he can no longer identify.
-- The final chapter's wordlessness. Erik's leaving the door open. Erik's going home and sitting down.
+- The inscription, full, in the same handwriting as the list, in the chapter "The Inscription". The italicised passage. The closest thing to a confession the novella permits.
+- The word *forgive*, on the list, once, in a handwriting that can no longer be identified.
+- The final chapter's wordlessness. The door left open. The walk home. The sitting down.
 
 ---
 
@@ -193,7 +193,7 @@ These are not stated in the novella. They are the *load* the novella carries. Th
 
 ### Theme 1 — Continuing as substitute for grieving
 
-Erik is excellent at the work. The work is what is left when speaking is impossible. The novella's title verb is the verb the protagonist performs.
+The work is what is left when speaking is impossible. The novella's title verb is the verb the protagonist performs. The bare imperative form of the voice (*Finish the coffee. Take the paper. Walk to the door.*) is this theme made grammar: each sentence is a command-to-self continuing the motion.
 
 ### Theme 2 — The home as accumulated relation
 
@@ -209,11 +209,11 @@ Some things are stable. The crayon drawings of the child's room. The elm. The li
 
 ### Theme 5 — Acts of physical self-maintenance
 
-Erik eats. Erik sleeps. Erik makes coffee. Erik crosses the road at the right colour. The novella refuses to dramatise these acts and refuses to omit them. Their *inclusion* at full attention — a man drinking coffee at his counter, a man waiting at a red light — is what gives the novella its strangeness. These are the actions of a person who is continuing to be a person while the world they were trying to clear becomes unclearable.
+Eating, sleeping, making coffee, crossing the road at the right colour. The novella refuses to dramatise these acts and refuses to omit them. Their *inclusion* at full attention — a body drinking coffee at a counter, a body waiting at a red light — is what gives the novella its strangeness. These are the actions of a person continuing to be a person while the world they were trying to clear becomes unclearable.
 
 ### Theme 6 — The unchosen apology
 
-The novella's emotional core is an unspoken apology to a parent who can no longer hear it, organised around the additional fact that the apology, even if speakable, is not one Erik has decided he wishes to make. The novella does not require him to decide. It asks the reader whether the apology has been made by other means. It does not answer.
+The novella's emotional core is an unspoken apology to a parent who can no longer hear it, organised around the additional fact that the apology, even if speakable, is not one that has been decided on. The novella does not require the decision. It asks the reader whether the apology has been made by other means. It does not answer.
 
 ---
 
@@ -225,7 +225,7 @@ The novella's reader, finishing the last sentence, should not feel:
 - That they have been given a key.
 - That the novella has resolved.
 - That the novella is "really about" something other than what is on the page.
-- That Erik has reached an insight.
+- That the protagonist has reached an insight.
 - That the apartment is understood.
 
 The novella's reader, finishing the last sentence, should feel:
@@ -233,7 +233,7 @@ The novella's reader, finishing the last sentence, should feel:
 - That the prose has been holding something the entire time.
 - That they were not told what.
 - That it does not matter that they were not told.
-- That the man, whoever he is, walked home.
+- That the body, whoever it was, walked home.
 - That the room is now their problem.
 
 See EMOTIONAL_ARC.md for the chapter-by-chapter version of this.
@@ -242,4 +242,4 @@ See EMOTIONAL_ARC.md for the chapter-by-chapter version of this.
 
 ## What the Novella Does Not Do
 
-In one sentence, repeated for clarity: the novella does not name simulation, consciousness, memory, LLM, glitch, grief, guilt, metaphor, dissociation, denial, mourning, regret, or forgiveness. The novella is about a man clearing an apartment. He does not finish. He leaves anyway.
+In one sentence, repeated for clarity: the novella does not name simulation, consciousness, memory, LLM, glitch, grief, guilt, metaphor, dissociation, denial, mourning, regret, or forgiveness. The novella is about a body clearing an apartment. The work does not finish. The body leaves anyway.

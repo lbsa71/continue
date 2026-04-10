@@ -28,9 +28,9 @@ Freud's main examples include:
 
 Freud's psychoanalytic explanation — that the uncanny is the return of the repressed — is less interesting and less universally accepted than the observation. The observation, stripped of the explanation, is enormously useful for the kind of writing the novella attempts: *the wrongness inside the familiar is more disturbing than any monster from outside*.
 
-**For the novella:** The novella is, in the most literal sense, an unheimlich novel. It is set in a home (or two homes, if we count Erik's). Its disturbances are of the home: a cup in the wrong cupboard, a wardrobe full again, a phone that rings. The novella does not need to introduce anything supernatural. The home is enough.
+**For the novella:** The novella is, in the most literal sense, an unheimlich novel. It is set in a home (or two homes, if we count the protagonist's). Its disturbances are of the home: a cup in the wrong cupboard, a wardrobe full again, a phone that rings. The novella does not need to introduce anything supernatural. The home is enough.
 
-The novella does not, however, narrate Freud. It does not have a moment in which Erik is troubled by the doubleness of the apartment. It does not have a doppelgänger. It uses the *structural* observation about the unheimlich without taking on the psychoanalytic frame.
+The novella does not, however, narrate Freud. It does not have a moment in which the protagonist is troubled by the doubleness of the apartment. It does not have a doppelgänger. It uses the *structural* observation about the unheimlich without taking on the psychoanalytic frame.
 
 ---
 
@@ -40,7 +40,7 @@ Heidegger uses *Unheimlichkeit* in a different but related sense in *Being and T
 
 Heidegger's *Unheimlichkeit* is closer to existential displacement than to Freudian repression. It is the condition of having no home in the first place, rather than the state of finding one's home suddenly strange.
 
-**For the novella:** Erik, by the late chapters, is a man who is not at home anywhere. The mother's apartment is unhandleable. His own apartment is no longer a refuge: he packs his own plates in Chapter 7. By Chapter 13, he is sitting at his own kitchen table looking at a list with words he does not recognise. Heidegger's frame is, in some ways, a more accurate description of Erik's late-novella condition than Freud's. The writer can hold both frames without choosing between them.
+**For the novella:** the protagonist, by the late chapters, is a man who is not at home anywhere. The mother's apartment is unhandleable. His own apartment is no longer a refuge: he packs his own plates in Chapter 7. By Chapter 13, he is sitting at his own kitchen table looking at a list with words he does not recognise. Heidegger's frame is, in some ways, a more accurate description of the protagonist's late-novella condition than Freud's. The writer can hold both frames without choosing between them.
 
 ---
 
@@ -110,7 +110,7 @@ Robinson's *Housekeeping* contains the domestic surface raised to the level of t
 
 ### Roland Barthes, *Mourning Diary* (published posthumously, 2009; written 1977-79)
 
-The fragments Barthes wrote on small slips of paper after the death of his mother. Each is short. Each refuses to do anything with the material it presents. Each accumulates with the others into a record of what bereavement actually feels like, day by day.
+The fragments Barthes wrote on small slips of paper after the death of the mother. Each is short. Each refuses to do anything with the material it presents. Each accumulates with the others into a record of what bereavement actually feels like, day by day.
 
 **Distance from the novella:** Barthes is in the first person. He is writing for himself, not for a reader. His fragments do not have plot.
 
@@ -132,7 +132,7 @@ Krasznahorkai is famous for paragraph-long sentences and for a prose mode that d
 
 **Distance from the novella:** Krasznahorkai's sentences are far longer than the novella's. His prose is more openly metaphysical. His patience runs in a different direction.
 
-**Useful for:** The model of patience. The novella shares the *patience* with Krasznahorkai even though it does not share the sentence length. The reader of *Continue* has to be willing to stay in the room with Erik for a long time. Krasznahorkai is the writer who has most thoroughly proven that this is something a reader can be asked to do.
+**Useful for:** The model of patience. The novella shares the *patience* with Krasznahorkai even though it does not share the sentence length. The reader of *Continue* has to be willing to stay in the room with the protagonist for a long time. Krasznahorkai is the writer who has most thoroughly proven that this is something a reader can be asked to do.
 
 ### Thomas Bernhard (especially *Concrete*, *The Loser*, *Wittgenstein's Nephew*)
 
@@ -221,19 +221,19 @@ Fisher's frame is more useful for the novella than Freud's because Fisher is int
 
 Gordon's argument is that haunting is a social phenomenon, not a supernatural one. A haunting is what happens when a society or a person has not addressed something it should have addressed. The ghost is the unaddressed.
 
-**For the novella:** Erik's apartment is haunted in Gordon's sense. The haunting is not by the mother. It is by everything that was not addressed in the relationship. The wall phone is the haunting; the inscription is the haunting; the photograph that runs through its variations is the haunting. None of this requires the supernatural.
+**For the novella:** the protagonist's apartment is haunted in Gordon's sense. The haunting is not by the mother. It is by everything that was not addressed in the relationship. The wall phone is the haunting; the inscription is the haunting; the photograph that runs through its variations is the haunting. None of this requires the supernatural.
 
 ### Jacques Derrida, *Specters of Marx* (1993)
 
 Derrida's *hauntology* — a pun on ontology — is the philosophy of the trace, the not-yet, the no-longer. Hauntology has been picked up in cultural criticism as a frame for contemporary art that is haunted by lost futures and lost pasts.
 
-**For the novella:** Useful as a distant frame. The novella is in some sense a hauntological novel: Erik is in an apartment haunted by a relationship that did not happen, a conversation that was not had, a self he might have been. But the novella does not need Derrida's vocabulary. The dossier mentions it for completeness.
+**For the novella:** Useful as a distant frame. The novella is in some sense a hauntological novel: the protagonist is in an apartment haunted by a relationship that did not happen, a conversation that was not had, a self he might have been. But the novella does not need Derrida's vocabulary. The dossier mentions it for completeness.
 
 ### Sianne Ngai, *Ugly Feelings* (2005)
 
 Ngai catalogues the affects that contemporary literary theory has tended to ignore: irritation, envy, anxiety, paranoia, *stuplimity* (a coinage combining stupor and sublimity). Her work makes room for the kinds of affect that are not heroic and not tragic and not catharsis-shaped.
 
-**For the novella:** Erik's affects are largely Ngai-shaped. He is not tragically grieving and he is not heroically processing. He is doing the work, in a state that does not have a clean name in the older literary vocabulary. Ngai gives the writer permission to not name it.
+**For the novella:** the protagonist's affects are largely Ngai-shaped. He is not tragically grieving and he is not heroically processing. He is doing the work, in a state that does not have a clean name in the older literary vocabulary. Ngai gives the writer permission to not name it.
 
 ### Lauren Berlant, *Cruel Optimism* (2011) and *The Hundreds* (with Kathleen Stewart, 2019)
 

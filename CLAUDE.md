@@ -2,20 +2,20 @@
 
 ## Project Overview
 
-**Project:** "Continue" — a novella about a man clearing his dead mother's apartment before the lease expires.
-**Narrative perspective:** Third person close, present tense. The camera stays at Erik's shoulder.
-**Current status:** Foundation complete. Synopsis and planning artifacts in place. First draft not yet begun.
-**Core challenge:** Maintain calm domestic precision and refuse interiority, interpretation, and consolation across ~30,000 words while the content dissolves around the unchanging prose register.
+**Project:** "Continue" — a novella about clearing a dead mother's apartment before the lease expires.
+**Narrative perspective:** Third-person position, present tense, no name and no pronoun for the protagonist. The camera is at a fixed position that walks with a body, watches its hands, registers what it touches.
+**Current status:** Foundation complete. Synopsis, planning artifacts, research dossiers, and voice calibration in place. First draft not yet begun.
+**Core challenge:** Maintain numb single-mindedness — determination to not think of anything outside the immediate task — across ~30,000 words while the content dissolves around the unchanging prose register.
 
-**Central discipline:** The novella is about grief, guilt, and an unmade apology, and it never names any of those words. The reader assembles everything by inference. The prose describes; it does not interpret.
+**Central discipline:** The novella is about grief, guilt, and an unmade apology, and it never names any of those words. The protagonist has no name, no pronoun, no interior. The reader assembles everything by inference. The prose describes; it does not interpret.
 
 ---
 
 ## Critical Understanding
 
-This is **NOT** a "literary grief novel" in the conventional sense. It is a rigorously restrained form in which the writer refuses almost every tool contemporary literary prose reaches for: metaphor, interiority, foreshadowing, retrospective narration, em-dash cleverness, the naming of abstractions, and consolation. The restraint is not a limitation — it is the form. Trust the restraint.
+This is **NOT** a "literary grief novel" in the conventional sense. It is a rigorously restrained form in which the writer refuses almost every tool contemporary literary prose reaches for: metaphor, interiority, foreshadowing, retrospective narration, em-dash cleverness, the naming of abstractions, pronouns or names for the protagonist, and consolation. The restraint is not a limitation — it is the form. Trust the restraint.
 
-The novella is also not horror, not magical realism, not surrealism, not science fiction, and not a supernatural story. The apartment's anomalies ("glitches") are placed inside calm prose at baseline register and never explained. The reader is held in Todorovian hesitation for the entire book and is not released at the end.
+The novella is also not horror, not magical realism, not surrealism, not science fiction, and not a supernatural story. The apartment's anomalies ("glitches") are placed inside calm prose at baseline register and never explained. The reader is held in sustained hesitation for the entire book and is not released at the end.
 
 See [the_uncanny.md](the_uncanny.md) for the literary tradition and prose models. See [CONCEPTUAL_MAP.md](CONCEPTUAL_MAP.md) for the structural frame.
 
@@ -28,20 +28,21 @@ See [the_uncanny.md](the_uncanny.md) for the literary tradition and prose models
 When writing or revising chapter content:
 
 1. **ALWAYS read these files FIRST:**
-   - [STYLE_GUIDE.md](STYLE_GUIDE.md) — the forbidden categories and sentence discipline
-   - [NARRATOR_VOICE.md](NARRATOR_VOICE.md) — camera position and what Erik is and isn't allowed to do
+   - [STYLE_GUIDE.md](STYLE_GUIDE.md) — the eleven rules and forbidden categories
+   - [NARRATOR_VOICE.md](NARRATOR_VOICE.md) — governing disposition, camera position
+   - [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) — canonical voice calibration passages
    - The relevant chapter entry in [THEME_DOSSIERS.md](THEME_DOSSIERS.md) — specific guidance for that chapter
    - The relevant motif entries in [THEME_TRACKER.md](THEME_TRACKER.md)
 
 2. **Apply the six-point sentence checklist** (from STYLE_GUIDE.md):
-   - Is it concrete?
-   - Is the camera still in the room?
-   - Have I named an abstraction?
-   - Have I told the reader how to feel?
-   - Have I used a forbidden word?
-   - Could I cut adverbs?
+   - Is the protagonist named or pronouned? If yes, cut.
+   - Is the verb bare/infinitive (action), finite (observation), or past-participial (state)?
+   - Are articles handled correctly (definite established, bare immediate, indefinite almost never)?
+   - Is a fragment being used where a finite observation or imperative chain belongs?
+   - Is a glitch being compressed into a single clever sentence?
+   - Does the sentence read as a body holding together by refusing to look up?
 
-3. **Verify glitch placement** against THEME_DOSSIERS.md. Every glitch in the dossier for that chapter should be present; no glitch should be announced or commented on.
+3. **Verify glitch placement** against THEME_DOSSIERS.md. Every glitch in the dossier for that chapter should be present; no glitch should be announced or commented on; glitches should sit across sentences per rule 10.
 
 4. **Verify motif state** (list, wall phone, cups, wardrobe, bookshelves, photograph) for the chapter against THEME_TRACKER.md.
 
@@ -54,7 +55,7 @@ When exploring concepts or planning new content:
 3. Reference [THEME_TRACKER.md](THEME_TRACKER.md) for motif recurrences.
 4. Consult the research dossiers: [grief.md](grief.md), [guilt.md](guilt.md), [apartment_clearance.md](apartment_clearance.md), [the_uncanny.md](the_uncanny.md).
 
-**Important:** The research dossiers exist to calibrate the writer's intuition. Their contents are NEVER paraphrased into the prose. If a chapter discusses what grief "feels like", it has failed. The prose shows a man making coffee.
+**Important:** The research dossiers exist to calibrate the writer's intuition. Their contents are NEVER paraphrased into the prose. If a chapter discusses what grief "feels like", it has failed. The prose shows a body making coffee.
 
 ### Mode 3: Quality Review
 
@@ -62,28 +63,32 @@ When checking existing content for issues:
 
 1. **Run the forbidden-word search** (see list in STYLE_GUIDE.md). Every match is a flag.
 
-2. **Search for em-dashes (`—`).** Almost all should be removed. Em-dashes used for tonal pivot ("He picks up the cup — the wrong one — and puts it down") are a tic of contemporary literary prose and are specifically forbidden.
+2. **Check for protagonist pronouns and names.** Any *he, him, his, she, her, they* (singular) referring to the protagonist, and any proper name for the protagonist, is forbidden.
 
-3. **Check for interiority slips.** Any sentence beginning "Erik thought / felt / remembered / realised / wondered / knew" is wrong.
+3. **Search for em-dashes (`—`).** Almost all should be removed. Em-dashes used for tonal pivot are a tic of contemporary literary prose and are specifically forbidden.
 
-4. **Check for abstraction naming.** The following words are forbidden in the prose (with a few narrow exceptions; see STYLE_GUIDE.md):
-   - *grief, mourning, loss (as feeling), guilt, shame, denial, dissociation, memory (as topic), remember (as narration), metaphor, simulation, love, longing, regret, forgive (outside the one allowed instance)*
+4. **Check for interiority slips.** Any cognitive verb (*think, feel, remember, realise, wonder, know, understand*) is wrong.
 
-5. **Check for interpretation.** Any "as if", "as though", "almost as if", "for a moment it seemed", "something about the way" is forbidden.
+5. **Check for abstraction naming.** The following words are forbidden (with narrow exceptions; see STYLE_GUIDE.md): *grief, mourning, loss (as feeling), guilt, shame, denial, dissociation, memory (as topic), love, longing, regret, forgiveness (except the one allowed instance on the list), metaphor, simulation, glitch.*
 
-6. **Check for foreshadowing.** Any "he had no idea that", "later, he would", "what he did not know" is forbidden.
+6. **Check for interpretation.** Any *as if, as though, almost as if, for a moment, something about* is forbidden.
 
-7. **Check glitches against the dossier.** Every glitch required by THEME_DOSSIERS.md for this chapter should be present, placed at baseline register, and not commented on.
+7. **Check for foreshadowing.** Any *had no idea, later would, what was not yet known* is forbidden.
 
-8. **Verify stable anchors have not glitched.** The crayon drawings, the elm, the rectangle of light (mostly), and the first-chapter cadence in the last chapter must be stable.
+8. **Check glitches against the dossier.** Every glitch required by THEME_DOSSIERS.md for this chapter should be present, placed across sentences per rule 10, and not commented on.
+
+9. **Verify stable anchors have not glitched.** The crayon drawings, the elm, the rectangle of light (mostly), and the first-chapter cadence in the last chapter must be stable.
+
+10. **Verify grammar discipline:** bare verbs as default, past participles for states, object-as-subject observations, indefinite articles almost never.
 
 ---
 
 ## Vital Files Reference
 
 ### Tier 1: Must Consult for ANY Content Work
-- [STYLE_GUIDE.md](STYLE_GUIDE.md) — forbidden categories, sentence discipline, sample transformations
-- [NARRATOR_VOICE.md](NARRATOR_VOICE.md) — camera position, tense discipline, what Erik can and can't do
+- [STYLE_GUIDE.md](STYLE_GUIDE.md) — the eleven rules, forbidden categories, sample transformations
+- [NARRATOR_VOICE.md](NARRATOR_VOICE.md) — governing disposition, camera position, extended rule statements
+- [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) — canonical voice calibration passages for key scenes
 - [THEME_DOSSIERS.md](THEME_DOSSIERS.md) — per-chapter construction notes for every chapter
 - [SYNOPSIS.md](SYNOPSIS.md) — the original premise and chapter outlines
 
@@ -92,7 +97,6 @@ When checking existing content for issues:
 - [EMOTIONAL_ARC.md](EMOTIONAL_ARC.md) — reader experience across the chapters
 - [THEME_TRACKER.md](THEME_TRACKER.md) — motif inventory and recurrences
 - [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) — writing process, phases, failure modes
-- [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) — calibration excerpts for voice reference before drafting a difficult chapter
 
 ### Tier 3: Research / Calibration
 - [grief.md](grief.md) — phenomenology of complicated grief
@@ -105,47 +109,62 @@ When checking existing content for issues:
 
 ---
 
+## The Eleven Rules (Summary)
+
+**Governing disposition:** Numb single-mindedness. Determination to not think of anything outside the immediate task. A person holding together by refusing to look up.
+
+1. Default verb form is the bare/infinitive imperative. *Finish the coffee. Take the paper.*
+2. Past participles for completed states. *Cup rinsed. List folded.*
+3. Object-as-subject observations use finite verbs. *The plates are in the cupboard.*
+4. Articles: definite when established, bare nouns when immediate, indefinite almost never.
+5. Connected imperative sentences carried by *and*/*then*/commas are the default. Transitions are elided by landing on a laconic observation at the destination. Fragments are extremely rare.
+6. Section breaks between transitions in activity or attention.
+7. No name, no pronoun for the protagonist. Other characters keep theirs.
+8. Present tense discipline; past only in the italicised inscription passage.
+9. Minimal body-agent (*a hand*, *a thumb*) only when a sentence needs a subject slot.
+10. Glitches placed across sentences, not compressed inside one.
+11. Memory allowed as monofocus action — retrieval of a datum carried by efficiency of motion (*without hesitation*, *without looking*). Never as flashback.
+
+See NARRATOR_VOICE.md and STYLE_GUIDE.md for the extended statements.
+
+---
+
 ## Vital Constraints
 
 ### Absolute Prohibitions
 
 **NEVER use these constructions in the prose:**
 
-- **Interiority verbs:** "Erik thought", "Erik felt", "Erik remembered", "Erik knew", "Erik realised", "Erik wondered", "It occurred to him", "He understood that", "Some part of him"
-- **Naming the abstractions:** grief, mourning, loss (as feeling), guilt, shame, denial, dissociation, memory (as topic), metaphor, simulation, love, longing, regret, forgiveness (one exception on the list)
-- **Interpretation:** "as if", "as though", "almost as if", "for a moment it seemed", "something about the way", "with the air of", "for all the world like"
-- **Em-dash pivots:** "He picks up the cup — the wrong one — and puts it down"
-- **Foreshadowing:** "he had no idea that", "later, he would", "what he did not know was"
-- **Past-tense intrusion:** No "had", "would", "had been" outside dialogue or the italicised inscription passage
-- **Metaphor or simile:** none
-- **Adverbs of intensification:** "very", "really", "almost" (except in physical positioning), "quite"
-- **Authorial flourish:** "suddenly", "of course", "indeed", "somehow", "somewhere" (in cognitive sense)
-
-**NEVER attribute to Erik:**
-- Thoughts or memories described directly
-- Feelings named directly
-- Understanding of what is happening to him
-- Anticipation of what will happen
-- Comment on the glitches
-- Backstory as internal monologue
+- **Protagonist pronouns or names.** *He, him, his, she, her, they, them* (singular-protagonist). No proper name.
+- **Interiority verbs.** *Think, feel, remember, realise, wonder, know, understand, believe, imagine, recognise.*
+- **Naming the abstractions.** *Grief, mourning, loss (as feeling), guilt, shame, denial, dissociation, memory (as topic), love, longing, regret, forgiveness (one exception), metaphor, simulation, glitch.*
+- **Interpretation.** *As if, as though, almost as if, for a moment, something about.*
+- **Em-dash pivots.** *Pick up the cup — the wrong one — and put it down.*
+- **Foreshadowing.** *Had no idea, later would, what was not yet known.*
+- **Past tense** outside the italicised inscription.
+- **Metaphor or simile.** None.
+- **Adverbs of intensification.** *Very, really, almost* (except physical positioning), *quite.*
+- **Authorial flourish.** *Suddenly, of course, indeed, somehow.*
+- **Bare-noun fragments as observations.** *The plates in the cupboard.* (Use *The plates are in the cupboard.*)
+- **Transition fragments.** *Down the stairs. Into the street.* (Land on an observation at the destination instead.)
 
 **NEVER let the camera:**
-- Leave Erik's shoulder
-- Enter his head
-- Leave the room he is in
-- Report anything Erik does not currently perceive
-- Pan to a memory
-- Flash forward
+- Enter a head
+- Leave the room the body is in
+- Report a memory as a scene
+- Pan to a flashback
+- Step outside the present moment
+- Comment on the glitches
 
 ### Required Approaches
 
 **ALWAYS express affect through:**
-- Physical action (wraps, folds, sits, walks, stops)
-- Position (at the counter, at the kitchen table, on the floor, at the window)
-- Eye direction (looking at the elm, looking at the rectangle of light)
-- Duration (a long time, the afternoon)
-- What Erik notices (the cups in the wrong cupboard, without commentary)
-- What Erik does not do (does not answer, does not look back, does not write)
+- Physical action (bare imperatives: *wrap, fold, sit, walk, stop*)
+- Position (*at the counter, at the kitchen table, on the floor*)
+- Eye direction (*looking at the elm, looking at the rectangle of light*)
+- Duration (*for a long time, all afternoon*)
+- What is noticed (the cups in the wrong cupboard, without commentary)
+- What is not done (does not answer, does not look back, does not write)
 
 **ALWAYS ground descriptions in:**
 - Materials (cardboard, tape, newspaper, wool, cotton, wood, glass, paper)
@@ -155,35 +174,34 @@ When checking existing content for issues:
 - View (the elm, the street, the window)
 
 **ALWAYS render glitches at baseline register:**
-- The wrong thing is inside an otherwise normal sentence
-- The prose does not slow down
-- The prose does not speed up
-- The prose does not comment
+- Place across two or three sentences (rule 10)
+- The prose does not slow down or speed up
+- Neither of the contradicting sentences acknowledges the other
 - The next sentence continues normally
 
 ### Terminology Standards
 
-- **Erik:** always "Erik" or "he". Never "our protagonist", "the bereaved", "the man", "the son".
-- **His mother:** "his mother", "his mother's" (flat denotation). Never "Mother", "Mom", "Mama", "the old woman", "the departed".
-- **His father:** never named. Inferable only.
-- **Marianne:** once, on the list, in handwriting that may or may not be Erik's.
-- **The apartment:** "the apartment", "her apartment", "his mother's apartment". Never "the flat", "the place", "the home" (charged term), "the old place".
-- **Erik's own apartment:** "his apartment", "his kitchen", "his window", "home".
-- **The list:** "the list", "the paper", "the folded paper in his coat pocket".
-- **The wall phone:** "the phone on the wall", "the phone on the kitchen wall". Distinct from Erik's mobile, which is "his phone".
+- **The protagonist:** never named, never pronouned. Present through actions, positions, and what the camera sees.
+- **The mother:** *the mother*, *she*, *her*. Never *Mother, Mom, Mama, the old woman, the departed*.
+- **The father:** *the father*, *he*, *his*. Almost never appears.
+- **Marianne:** once, on the list, in a handwriting that may or may not be identifiable.
+- **The apartment:** *the apartment*, *the mother's apartment*. Never *the flat, the place, the home* (charged), *the old place*.
+- **The protagonist's own apartment:** *the protagonist's own apartment*, *the own kitchen*, *home*.
+- **The list:** *the list*, *the paper*, *the folded paper in the inside pocket of the coat*.
+- **The wall phone:** *the phone on the wall*, *the phone on the kitchen wall*. Distinct from the mobile, which is *the mobile*.
 
-### Tense and Point of View
+### Tense and Camera
 
-- **Tense:** Present, always. The one permitted exception is past tense *inside* a thing Erik is physically reading (an inscription, a label, a list entry). The past tense must be contained in italics and must not leak into the narration around it.
-- **POV:** Third person close. Camera at Erik's shoulder. Never inside his head. Never outside his current room (except during transit between rooms or between his apartment and the mother's apartment).
+- **Tense:** Present, always. The one permitted exception is past tense *inside* the italicised inscription passage. The past tense must be contained in italics and must not leak into the narration around it.
+- **Camera:** Fixed position walking with a body. Never inside a head. Never outside the current room except during transits (which are elided by observation at the destination).
 
 ### Rhythm by Phase
 
-- **Phase 1 (Ch. 1-2):** Calm, material, clean. The baseline the reader will later remember. No glitches in Ch. 1. One small gestural glitch in Ch. 2, placed inside an otherwise normal paragraph.
+- **Phase 1 (Ch. 1-2):** Calm, material, clean. The baseline the reader will remember. No glitches in Ch. 1. One small gestural glitch in Ch. 2, placed across three sentences.
 - **Phase 2 (Ch. 3-6):** Same register. Glitches accumulate. The prose does not change.
-- **Phase 3 (Ch. 7-11):** Same register. Glitches cross into Erik's own apartment in Ch. 7. The prose stays calm through the bureaucratic scenes and the documentary discrepancies.
-- **Phase 4 (Ch. 12-15):** The prose's first permitted dissolution. The inscription page in Ch. 12 (italicised, past tense, contained). The plate-cup-plate sentence in Ch. 14. The object-swap sentences in Ch. 15. These are rare and earned. Everywhere else, the prose holds its baseline.
-- **Phase 5 (Ch. 16-17):** Return to Phase 1 cadence. Ch. 17 restores the first chapter's sentences. The rectangle of light that reaches almost to the sink is the anchor.
+- **Phase 3 (Ch. 7-11):** Same register. Glitches cross into the protagonist's own apartment in Ch. 7. The prose stays calm through the bureaucratic scenes and the documentary discrepancies.
+- **Phase 4 (Ch. 12-15):** The prose's first permitted dissolution. The inscription page in Ch. 12 (italicised, past tense, contained). The plate-cup-plate sentence in Ch. 14 (using *and* chains). The object-swap sentences in Ch. 15. These are rare and earned. Everywhere else the prose holds its baseline.
+- **Phase 5 (Ch. 16-17):** Return to Phase 1 cadence. Ch. 17 restores the first chapter's sentences. The rectangle-of-light sentence is the anchor.
 
 ---
 
@@ -194,28 +212,29 @@ When checking existing content for issues:
 ```
 1. Read NARRATOR_VOICE.md "Emergency Reference" section
 2. Read the chapter's entry in THEME_DOSSIERS.md
-3. Read the previous chapter's last paragraph aloud
+3. Read the relevant passages in EXAMPLE_DRAFT.md
 4. Open THEME_TRACKER.md to check required motifs
-5. Draft the chapter in present tense, third person close
+5. Draft in the canonical voice (bare imperatives, no protagonist pronoun)
 6. After drafting, run the six-point sentence checklist
-7. Search for forbidden words and em-dashes
-8. Verify every required glitch is present and unannounced
+7. Search for forbidden words, em-dashes, and protagonist pronouns
+8. Verify every required glitch is present and uncommented, placed across sentences
 9. Verify list state and wall phone state match the dossier
 10. Read the chapter aloud
 ```
 
-### Revising an Existing Chapter for Voice
+### Revising for Voice
 
 ```
-1. Run forbidden-word search on the chapter (see STYLE_GUIDE.md)
-2. Flag every match
-3. Search for em-dashes; almost all should be removed
-4. Flag every interior verb (thought, felt, remembered, realised, wondered)
-5. Flag every metaphor or "as if" / "as though" construction
-6. Flag every abstraction name (grief, guilt, memory, etc.)
-7. Flag every foreshadowing construction
-8. Cut or rebuild each flagged sentence
-9. Re-read the chapter aloud
+1. Run the forbidden-word search (see STYLE_GUIDE.md)
+2. Flag every protagonist pronoun
+3. Flag every interior verb
+4. Flag every metaphor or "as if"
+5. Flag every abstraction name
+6. Flag every em-dash pivot
+7. Flag every indefinite article that can be dropped
+8. Flag every bare-noun fragment used as observation
+9. Cut or rebuild each flagged sentence
+10. Re-read aloud
 ```
 
 ### Checking Glitches
@@ -223,14 +242,12 @@ When checking existing content for issues:
 ```
 1. Open THEME_DOSSIERS.md to the chapter's entry
 2. For each glitch listed, verify it appears in the chapter
-3. For each glitch, verify:
-   - It is not announced
-   - It is not commented on by the prose
-   - Erik does not have an interior reaction described
-   - The next sentence continues without bridge
-4. Verify the list state for the chapter
-5. Verify the wall phone state for the chapter
-6. Verify stable anchors have not glitched (crayon drawings, elm, rectangle of light)
+3. Verify the glitch sits across two or three sentences
+4. Verify neither contradicting sentence acknowledges the other
+5. Verify the next sentence continues without bridge
+6. Verify the list state for the chapter
+7. Verify the wall phone state for the chapter
+8. Verify stable anchors (crayon drawings, elm, rectangle of light) have not glitched
 ```
 
 ### Calibrating Before a Difficult Chapter
@@ -241,6 +258,7 @@ When checking existing content for issues:
 3. Read a page of Han Kang (The White Book)
 4. Read the opening of The Remains of the Day
 5. Read a clearance scene from Knausgaard's A Death in the Family
+6. Re-read EXAMPLE_DRAFT.md all the way through
 ```
 
 These are calibration, not material. Do not paraphrase. Do not imitate at the sentence level. Absorb the posture.
@@ -251,22 +269,24 @@ These are calibration, not material. Do not paraphrase. Do not imitate at the se
 
 Before considering any chapter "complete":
 
-1. ✅ No forbidden words (from STYLE_GUIDE.md list)
-2. ✅ No em-dash pivots
-3. ✅ No interiority verbs
-4. ✅ No abstraction names
-5. ✅ No metaphors or similes
-6. ✅ No foreshadowing
-7. ✅ Present tense throughout (except italicised inscription passages)
-8. ✅ Camera stays at Erik's shoulder
-9. ✅ All required glitches from THEME_DOSSIERS.md are present
-10. ✅ All required glitches are placed at baseline register, not announced
-11. ✅ List state matches the dossier
-12. ✅ Wall phone state matches the dossier
-13. ✅ Stable anchors are still stable
-14. ✅ Chapter ends without resolution
-15. ✅ Chapter does not bridge to the next chapter
-16. ✅ Reads aloud without any sentence drawing attention to itself as "literary"
+1. ✅ No protagonist pronouns or names
+2. ✅ No forbidden words (from STYLE_GUIDE.md)
+3. ✅ No em-dash pivots
+4. ✅ No interiority verbs
+5. ✅ No abstraction names
+6. ✅ No metaphors or similes
+7. ✅ No foreshadowing
+8. ✅ Present tense throughout (except italicised inscription)
+9. ✅ Camera stays at the body's position
+10. ✅ All required glitches from THEME_DOSSIERS.md present, placed across sentences
+11. ✅ Glitches placed at baseline register, not announced
+12. ✅ List state matches the dossier
+13. ✅ Wall phone state matches the dossier
+14. ✅ Stable anchors still stable
+15. ✅ Bare verbs as default; connected sentences as rhythm
+16. ✅ Chapter ends without resolution
+17. ✅ Chapter does not bridge to the next chapter
+18. ✅ Reads aloud as a body holding together by refusing to look up
 
 ---
 
@@ -278,28 +298,28 @@ Before considering any chapter "complete":
 - A reader notices, three chapters in, that something they noticed in chapter two has not been mentioned again, and is afraid to flip back
 - A reader cannot say what the novella is "about" without summarising the entire synopsis
 - A reader, finishing the novella, has to sit with it
-- The voice holds across all 17 chapters without a single slip
+- The voice holds across all 17 chapters without a single pronoun slip
 
 ### This project fails when:
 
-- A sentence tells the reader how to feel
-- A glitch is announced rather than placed
-- A memory is described rather than inferred
-- Erik becomes a vehicle for the writer's commentary on grief
+- A sentence contains a pronoun or name for the protagonist
+- A sentence names an abstraction
+- A sentence interprets with *as if* or *as though*
+- A memory is described as a scene
 - The prose becomes "literary" — flagged by its own beauty rather than by its restraint
-- Any of the forbidden words appear
-- A scene "earns" its emotional weight by having Erik show emotion
+- A scene "earns" its emotional weight by naming emotion
 - The novella patches a chapter break with explanation
 - Sentimentality replaces precision
+- Hysterical fragmentation replaces numb single-mindedness
 - The ethical or psychological content is stated rather than shown
 
 ---
 
 ## Development Philosophy
 
-**Clean prose + refused interpretation + patient camera = emotional power**
+**Bare-verb imperatives + refused interiority + numb single-mindedness + patient camera = emotional power**
 
-The most powerful moments come from what is NOT said. Erik's inability (or refusal) to comment on what is happening to him is what makes the reader carry the weight. The novella's non-naming rules are not limitations — they are the source of the form's unique power.
+The most powerful moments come from what is NOT said and from the absence of a grammatical subject. A body that cannot be named is a body the reader is free to inhabit. The novella's non-naming rules are not limitations — they are the source of the form's unique power.
 
 **Trust the constraints.** If a sentence feels like it needs to say more, the novella needs to say less. The impulse to explain is almost always the impulse to break the form.
 
@@ -309,24 +329,25 @@ The most powerful moments come from what is NOT said. Erik's inability (or refus
 
 If ever uncertain whether a sentence breaks the voice, ask:
 
-1. **Did I just tell the reader how to feel?** If yes, cut the telling.
-2. **Did I just explain a glitch?** If yes, cut the explanation.
-3. **Did I just give Erik a feeling word?** If yes, find the action it's hiding behind.
-4. **Did I just use a metaphor?** If yes, cut. The literal is enough.
-5. **Did I just use an em-dash to be clever?** If yes, use a period or a comma.
-6. **Did the camera just leave the room?** If yes, bring it back.
-7. **Did I just name the abstraction?** If yes, find another way.
-8. **Could this sentence appear on a postcard?** If yes, cut. The novella does not traffic in postcards.
+1. **Is the protagonist pronouned or named?** If yes, cut.
+2. **Is the verb bare/infinitive, finite for an object, or past-participial?** If something else, rewrite.
+3. **Is there an indefinite article that can be dropped?** Usually yes.
+4. **Is a fragment being used where a finite observation or imperative chain belongs?** Usually yes.
+5. **Is a glitch compressed into one clever sentence?** If yes, spread it.
+6. **Is a memory being named rather than carried by efficiency?** If yes, cut the naming.
+7. **Is the camera doing anything other than watching?** If yes, bring it back.
+8. **Is an abstraction being named?** If yes, find the physical particular.
 9. **Would removing the sentence lose anything?** If no, remove it.
 
-**When in doubt, do less.**
+**When in doubt, do less. Then do less.**
 
 ---
 
 ## Version History
 
 - v1.0: Initial CLAUDE.md creation (foundation phase complete, first draft not begun)
+- v2.0: Voice migration. Protagonist pronoun and name dropped. Eleven rules codified. Voice governed by numb single-mindedness disposition. Bare-verb imperatives as default.
 
 ---
 
-*Remember: You are not writing a novel about grief. You are writing about a man clearing an apartment. He does not finish. He leaves anyway.*
+*Remember: this is not a novel about grief. It is a novel about clearing an apartment. The work does not finish. The body leaves anyway.*

@@ -54,7 +54,7 @@ Chapter 1 ("The Key") and Chapter 17 ("Continue") are written first, in that ord
 
 Chapter 12 ("The Inscription") and Chapter 14 ("The Rooms") are the chapters where the form's discipline is hardest to hold. They are drafted second. The inscription text is the central problem of Chapter 12; the syntactic-dissolution sentences are the central problem of Chapter 14. Both are written at length and revised before the surrounding chapters are drafted, because the surrounding chapters need to know what they are calibrated against.
 
-Chapter 7 ("The Neighbour") is drafted in the same group: it is the form's first major rupture and it sets the discipline for "Erik in his own apartment" chapters that follow.
+Chapter 7 ("The Neighbour") is drafted in the same group: it is the form's first major rupture and it sets the discipline for "the protagonist in the protagonist's own apartment" chapters that follow.
 
 **Pass C — Fill in chronologically.**
 
@@ -201,7 +201,7 @@ This pass checks that every glitch is in the right chapter, in the right phase, 
 3. For each glitch, verify:
    - It is at baseline prose register (not announced).
    - It is not commented on by the prose.
-   - Erik does not have an internal reaction described.
+   - the protagonist does not have an internal reaction described.
    - The next sentence continues without bridge.
 4. For each motif, verify it is in the right state for the chapter (the list, the wall phone, the cups, the wardrobe, the bookshelves, etc.).
 5. Verify the stable anchors *have not glitched*. (The crayon drawings, the elm, the rectangle of light, the bakery, the first-chapter cadence in the last chapter.)
@@ -240,7 +240,7 @@ This pass is about the rhythm of the novella as an object the reader holds in th
 - The plate-cup-plate sentence in Chapter 14. Stands alone. Has its own paragraph or near to it.
 - The grocery list moment in Chapter 15. *Milk, bread, fish, oranges.* Italicised. Followed by nothing.
 - The crayon drawings sequence in Chapter 15. Slow.
-- The leaving sequence in Chapter 17. *Front door. Doesn't look back. Doesn't lock it. Stairs.* The fragmentation here is permitted only because Erik's body is moving in sequence.
+- The leaving sequence in Chapter 17. *Walk to the front door. Open it. Do not look back. Do not lock it.* The bare imperatives here carry the leaving; fragments are not needed.
 - The very last sentence of the novella. Should be a sentence about light moving across a floor. Should not be a sentence that calls attention to itself as a final sentence.
 
 ### Pace Quality Gate
@@ -268,8 +268,8 @@ A final consistency pass. Names, dates, room counts, the order of the original l
 - [ ] Every wardrobe state is reflected
 - [ ] Every bookshelves state is reflected
 - [ ] Every photograph state is reflected
-- [ ] The grocery list — *Milk, bread, fish, oranges* — appears in its three required places (Ch. 4 in the drawer, Ch. 13 absent from the drawer, Ch. 15 in his coat pocket)
-- [ ] The crayon drawings appear once, in Ch. 15, and in his coat pocket thereafter (but are not named again)
+- [ ] The grocery list, *Milk, bread, fish, oranges*, appears in its three required places (Ch. 4 in the drawer, Ch. 13 absent from the drawer, Ch. 15 in the coat pocket)
+- [ ] The crayon drawings appear once, in Ch. 15, and in the coat pocket thereafter (but are not named again)
 - [ ] The elm is not glitched at any point
 - [ ] The first-chapter cadence is recognisably restored in the last chapter
 - [ ] *Marianne* appears exactly once
@@ -277,7 +277,7 @@ A final consistency pass. Names, dates, room counts, the order of the original l
 - [ ] No forbidden word remains (final search pass)
 - [ ] No em-dash remains except where explicitly justified
 - [ ] No accidental past tense
-- [ ] No accidental break of camera (no scene Erik is not in)
+- [ ] No accidental break of camera (no scene the protagonist is not physically present in)
 
 ### Final Sweep Quality Gate
 
@@ -296,9 +296,9 @@ The novella is complete when:
 
 ### Failure 1 — Interiority Leakage
 
-The writer adds a sentence telling the reader what Erik is thinking or feeling. The sentence reads like something a careful literary novelist would write. It is wrong for *this* novella.
+The writer adds a sentence telling the reader what the protagonist is thinking or feeling. The sentence reads like something a careful literary novelist would write. It is wrong for *this* novella.
 
-**How to catch:** The forbidden-word search. The read-aloud test. Any sentence that begins with "Erik" and is followed by a feeling verb.
+**How to catch:** The forbidden-word search. The read-aloud test. Any sentence that uses a pronoun for the protagonist or a verb of cognition.
 
 **How to fix:** Cut the interior sentence. Replace with action, position, or nothing.
 
@@ -316,7 +316,7 @@ The writer wants to make sure the reader notices a glitch. They add a sentence e
 
 ### Failure 3 — Em-dash Cleverness
 
-The writer falls into the contemporary-literary tic of em-dash subordinate-clause pivots. ("He picks up the cup — the wrong cup — and puts it down.")
+The writer falls into the contemporary-literary tic of em-dash subordinate-clause pivots. (*Pick up the cup — the wrong cup — and put it down.*)
 
 **How to catch:** Search for em-dashes.
 
@@ -326,7 +326,7 @@ The writer falls into the contemporary-literary tic of em-dash subordinate-claus
 
 ### Failure 4 — Backstory Spillage
 
-The writer wants the reader to know that Erik's father died, that the phone was off, that his mother said *why didn't you answer*. The writer puts a memory passage on the page. This is the failure mode the form was built to refuse.
+The writer wants the reader to know that the father died, that the phone was off, that the mother said *why didn't you answer*. The writer puts a memory passage on the page. This is the failure mode the form was built to refuse.
 
 **How to catch:** Any passage that describes a moment that is not happening on the page right now.
 
@@ -389,7 +389,7 @@ The word *grief* slips into the prose. Or *memory*. Or *guilt*. Or *the loss*.
 - Was there a chapter you put the book down at?
 - Was there a sentence you reread?
 - Did you understand what was happening in the apartment?
-- Did you understand what was happening to Erik?
+- Did you understand what was happening to the protagonist?
 - Was there anything you wanted the book to say that it did not?
 
 ### What not to ask them

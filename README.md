@@ -1,12 +1,12 @@
 # Continue
 
-## A Novella About a Man Clearing His Mother's Apartment
+## A Novella About Clearing a Dead Parent's Apartment
 
 ---
 
 ## Premise
 
-A man clears his dead mother's apartment before the lease expires. The tasks multiply. The apartment shifts. The prose never flinches.
+Someone clears a dead mother's apartment before the lease expires. The tasks multiply. The apartment shifts. The prose never flinches.
 
 See [SYNOPSIS.md](SYNOPSIS.md) for the full synopsis, chapter outlines, and glitch escalation.
 
@@ -14,9 +14,10 @@ See [SYNOPSIS.md](SYNOPSIS.md) for the full synopsis, chapter outlines, and glit
 
 ## Core Principles
 
-- **Third person close, present tense.** The camera stays at Erik's shoulder. It does not enter his head and it does not leave the room he is in.
+- **Third-person position, present tense, no name and no pronoun for the protagonist.** The camera is at a fixed position that walks with a body, watches its hands, registers what it touches. It never enters a head. It never leaves the room.
 - **Calm domestic precision.** The prose is material, patient, and flat. It does not raise its voice. The tone never breaks. The content breaks around it.
-- **Refusal of interiority.** Erik's thoughts and feelings are not on the page. What the reader knows about his interior is what the reader infers from his actions and what he touches.
+- **Numb single-mindedness.** Determination to not think of anything outside the immediate task. Not hysterical, not lyrical, not fragmented-as-breakdown. A person holding together by refusing to look up.
+- **Refusal of interiority.** Thoughts and feelings are not on the page. What the reader knows about the protagonist's interior is what they infer from actions and from what is touched.
 - **Refusal of interpretation.** The prose describes. It does not tell the reader what anything means. No metaphor, no "as if", no em-dash pivots, no naming of the abstractions the novella is about.
 - **Refusal of consolation.** The novella does not soften, reassure, foreshadow, or close. It continues. Then it ends.
 - **Sustained hesitation.** The reader is never told whether the apartment's anomalies are grief, guilt, dissociation, or something structural. The novella refuses to choose.
@@ -27,7 +28,7 @@ See [SYNOPSIS.md](SYNOPSIS.md) for the full synopsis, chapter outlines, and glit
 
 *Grief. Guilt. Mourning. Loss. Memory. Dissociation. Denial. Shame. Regret. Forgiveness. Metaphor. Simulation. Consciousness. Glitch.*
 
-The novella is about a man clearing an apartment. He does not finish. He leaves anyway.
+The novella is about a body clearing an apartment. The work does not finish. The body leaves anyway.
 
 ---
 
@@ -39,13 +40,13 @@ The novella is about a man clearing an apartment. He does not finish. He leaves 
 |---|---|
 | [SYNOPSIS.md](SYNOPSIS.md) | Premise, protagonist, chapter outlines, structural notes |
 | [CONCEPTUAL_MAP.md](CONCEPTUAL_MAP.md) | Story spine, glitch escalation phases, inferable backstories, themes |
-| [NARRATOR_VOICE.md](NARRATOR_VOICE.md) | Camera position, tense discipline, what Erik is and isn't allowed to do |
-| [STYLE_GUIDE.md](STYLE_GUIDE.md) | Forbidden constructions, sentence discipline, glitch register |
+| [NARRATOR_VOICE.md](NARRATOR_VOICE.md) | Camera position, tense discipline, the eleven rules, disposition of numb single-mindedness |
+| [STYLE_GUIDE.md](STYLE_GUIDE.md) | Forbidden constructions, sentence discipline, sample transformations |
 | [THEME_TRACKER.md](THEME_TRACKER.md) | Every motif, object, and device with recurrences and functions |
 | [THEME_DOSSIERS.md](THEME_DOSSIERS.md) | Per-chapter construction notes: sensory palette, glitches, list state, what must not be said |
 | [EMOTIONAL_ARC.md](EMOTIONAL_ARC.md) | Reader experience map across the chapters |
 | [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) | Writing process, phases, quality gates, failure modes |
-| [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Short calibration excerpts from key scenes, testing the voice against the planning documents |
+| [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Short calibration excerpts from key scenes in the canonical voice |
 
 ### Research Dossiers
 
@@ -60,7 +61,7 @@ The novella is about a man clearing an apartment. He does not finish. He leaves 
 
 | Document | Purpose |
 |---|---|
-| [CLAUDE.md](CLAUDE.md) | Working modes, vital files, emergency references for an AI assistant helping on the project |
+| [CLAUDE.md](CLAUDE.md) | Working modes, vital files, emergency reference for an AI assistant helping on the project |
 
 ---
 
@@ -72,9 +73,9 @@ The novella's 17 chapters move through five phases of inconsistency:
 
 1. **Phase 1 — Gestural.** A hand reaching the wrong way. A door that should have been locked. (Chapters 1-2)
 2. **Phase 2 — Spatial and Procedural.** Layout drifts. Completed tasks undo. The list shows inconsistencies. (Chapters 3-6)
-3. **Phase 3 — Relational and Temporal.** Facts about the mother, the history, the documents shift. The glitches cross into Erik's own apartment. (Chapters 7-11)
+3. **Phase 3 — Relational and Temporal.** Facts about the mother, the history, the documents shift. The glitches cross into the protagonist's own apartment. (Chapters 7-11)
 4. **Phase 4 — Syntactic.** Sentences stop cohering. Objects change identity mid-action. The list is no longer a list. (Chapters 12-15)
-5. **Phase 5 — Clarity.** The prose goes clean. He leaves. (Chapters 16-17)
+5. **Phase 5 — Clarity.** The prose goes clean. The body leaves. (Chapters 16-17)
 
 ### Chapters
 
@@ -102,33 +103,35 @@ See [THEME_DOSSIERS.md](THEME_DOSSIERS.md) for per-chapter construction notes.
 
 ## Characters
 
-### Erik
+### The Protagonist
 
-Mid-forties. Methodical, private. Desk job. Lives alone. Has not spoken to his mother in the final years.
+Unnamed. No pronoun. Mid-forties. Methodical, private. Desk job. Lives alone. Has not spoken to the mother in the final years.
 
-The reader's first chapters with Erik should produce the impression: this man is competent, he is going to get through this list, the apartment will be cleared. The novella then dismantles the list while Erik continues to be competent at the work that no longer adds up to anything.
+The reader's first chapters should produce the impression: this body is competent, it is going to get through this list, the apartment will be cleared. The novella then dismantles the list while the body continues to be competent at the work that no longer adds up to anything.
 
-### His Mother
+The protagonist is grammatically absent throughout. Their presence is carried by the camera's position, by bare-verb imperatives, by the occasional minimal body-agent (*a hand*, *a thumb*), and by the efficiency of motions that only someone who once knew this apartment could perform.
 
-Never seen directly. Reachable only through her objects, her handwriting, and the trace of her routines. Present in every chapter as the absence the chapter is organised around.
+### The Mother
 
-### His Father
+Never seen directly. Reachable only through her objects, her handwriting, and the trace of her routines. Present in every chapter as the absence the chapter is organised around. Referred to as *the mother*, *she*, *her*.
 
-Never named. Never seen. Inferable only.
+### The Father
+
+Never named. Never seen. Inferable only. *The father.*
 
 ### Marianne
 
-The name appears exactly once, on the list, in handwriting Erik may or may not have written. See CONCEPTUAL_MAP.md "The Three Inferable Backstories".
+The name appears exactly once, on the list, in a handwriting that may or may not be recognisable. See CONCEPTUAL_MAP.md "The Three Inferable Backstories".
 
 ### Procedural figures
 
-The landlord, the librarian, the neighbour, the lawyer, the bank clerk, the civil registry clerk, the utility operator. Each present in the scene only as long as the scene needs them.
+The landlord, the librarian, the neighbour, the lawyer, the bank clerk, the civil registry clerk, the utility operator. Each present in the scene only as long as the scene needs them. These characters keep their normal pronouns.
 
 ---
 
 ## Status
 
-**Current Phase:** Foundation complete. Synopsis, planning artifacts, and research dossiers in place. First draft not yet begun.
+**Current Phase:** Foundation complete. Synopsis, planning artifacts, research dossiers, and voice calibration in place. First draft not yet begun.
 
 **Next Steps:**
 - Draft Chapter 1 ("The Key") and Chapter 17 ("Continue") first (see IMPLEMENTATION_STRATEGY.md)
@@ -141,8 +144,8 @@ The landlord, the librarian, the neighbour, the lawyer, the bank clerk, the civi
 
 ## Philosophical Intent
 
-The novella does not moralise and does not instruct. It places a reader at the shoulder of a man performing a sequence of physical tasks at a high level of skill while the conditions of those tasks dissolve around him. Whether Erik notices, and what he is doing about what he notices, are things the reader is invited to wonder about and not given the answer to.
+The novella does not moralise and does not instruct. It places a reader at the shoulder of a body performing a sequence of physical tasks at a high level of skill while the conditions of those tasks dissolve around it. Whether the body notices, and what it is doing about what it notices, are things the reader is invited to wonder about and not given the answer to.
 
-The reader who finishes the novella is left with a man who walks home, sits down, and watches light move across his floor.
+The reader who finishes the novella is left with a body that walks home, sits down, and watches light move across its floor.
 
 The reader is asked to sit with this.

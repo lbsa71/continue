@@ -20,7 +20,7 @@ Clearing a deceased parent's apartment is a project with three intertwined dimen
 
 2. **Bureaucratic / Administrative:** The death has triggered a cascade of procedural obligations: utilities, banks, insurance, the estate, the will, taxes, the lease (if rented), the mortgage (if owned), the death certificate copies, the funeral provider, social security or its equivalent, the employer (if employed), pension funds, healthcare providers, possibly the courts.
 
-3. **Relational:** The objects in the apartment are not neutral. They carry the deceased's life. Decisions about what to keep, what to give to whom, what to throw out, are also decisions about what is allowed to survive of the deceased's presence in the world. This is the dimension the novella's surface holds most invisibly: every box Erik tapes is also a decision about what is now permanently gone.
+3. **Relational:** The objects in the apartment are not neutral. They carry the deceased's life. Decisions about what to keep, what to give to whom, what to throw out, are also decisions about what is allowed to survive of the deceased's presence in the world. This is the dimension the novella's surface holds most invisibly: every box the protagonist tapes is also a decision about what is now permanently gone.
 
 The novella foregrounds the physical and the bureaucratic. The relational dimension is everywhere but never named.
 
@@ -37,9 +37,9 @@ Clearing an apartment is almost always done under time pressure. The kinds of pr
 - **Family pressure.** Other family members may have opinions about what should be kept and how quickly things should move.
 - **The bereaved's own pressure.** Some bereaved want to be done. Some bereaved want it never to end. Both push toward unhealthy speeds.
 
-The novella's Erik appears to be working under lease pressure. The synopsis specifies "before the lease expires". The novella does not give a number of days, weeks, or months. The pressure is ambient. Erik knows when the apartment must be empty. The reader is not told.
+The novella's the protagonist appears to be working under lease pressure. The synopsis specifies "before the lease expires". The novella does not give a number of days, weeks, or months. The pressure is ambient. the protagonist knows when the apartment must be empty. The reader is not told.
 
-**For the novella:** The lease pressure is the only external clock the form has. Even this clock is not announced. The reader infers urgency from Erik's continuous work and from the absence of any sign that he is taking time off.
+**For the novella:** The lease pressure is the only external clock the form has. Even this clock is not announced. The reader infers urgency from the protagonist's continuous work and from the absence of any sign that he is taking time off.
 
 ---
 
@@ -54,7 +54,7 @@ The first walkthrough of a deceased parent's apartment is, for many bereaved adu
 - **The sound.** The apartment is quieter than the bereaved expects. No appliance running. No radio. No water in the pipes. The fridge hum.
 - **The familiar that has become strange.** The bereaved recognises everything and recognises that the recognising no longer reaches anyone.
 
-**For the novella:** Chapter 1 is the first walkthrough. The novella renders it without commentary. The reader is given the rooms in the order Erik walks them, the cup he takes down, the coffee at the counter, the elm, the rectangle of light, and the sitting at the kitchen table to write the list. The first chapter is the novella's most stable chapter and contains nothing the reader will later distrust. The walkthrough is the novella's anchor to the rest of the form.
+**For the novella:** Chapter 1 is the first walkthrough. The novella renders it without commentary. The reader is given the rooms in the order the protagonist walks them, the cup he takes down, the coffee at the counter, the elm, the rectangle of light, and the sitting at the kitchen table to write the list. The first chapter is the novella's most stable chapter and contains nothing the reader will later distrust. The walkthrough is the novella's anchor to the rest of the form.
 
 ---
 
@@ -71,7 +71,7 @@ The bereaved typically acquires the following early in the project:
 - **Tools.** A screwdriver (Phillips and flathead). An Allen key. Pliers. For dismantling furniture. Some of these the deceased already had.
 - **A vehicle.** For trips to the charity shop, the dump, the recycling centre, the storage facility, the bereaved's own home.
 
-The novella's Erik buys boxes, tape, newspaper at the start of Chapter 2. He uses his car for the trips. The novella does not enumerate his other supplies; the reader infers them.
+The novella's the protagonist buys boxes, tape, newspaper at the start of Chapter 2. He uses his car for the trips. The novella does not enumerate his other supplies; the reader infers them.
 
 ---
 
@@ -89,7 +89,7 @@ Almost every clearance project develops a working set of categories. The bereave
 
 The categories are leaky. A book moves from "keep" to "donate" to "keep" across multiple revisits. A piece of jewellery is for the bereaved, then for a sibling, then back. The clearance project, in practice, is less linear than a category system suggests.
 
-**For the novella:** The novella does not give Erik a category system in any explicit way. The list is not a category system; it is a sequence of tasks. The reader sees Erik wrap plates, fold clothes, fill bags, tape boxes. The destination of each item is mostly unspecified. The unspecified destination is part of the novella's neutrality: Erik is doing the work; the reader is not asked to track what is going where.
+**For the novella:** The novella does not give the protagonist a category system in any explicit way. The list is not a category system; it is a sequence of tasks. The reader sees the protagonist wrap plates, fold clothes, fill bags, tape boxes. The destination of each item is mostly unspecified. The unspecified destination is part of the novella's neutrality: the protagonist is doing the work; the reader is not asked to track what is going where.
 
 ---
 
@@ -126,7 +126,7 @@ The grocery list is one of the objects bereaved people most often report being s
 
 Many bereaved people keep the grocery list. Some put it in a frame. Some carry it folded in a wallet. Some take a photograph and throw the original away. Some do nothing with it.
 
-**For the novella:** The grocery list is in the drawer in Chapter 4. *Milk, bread, fish, oranges.* (Provisional; see IMPLEMENTATION_STRATEGY.md for the note on whether to revisit.) Erik reads it and puts it back. In Chapter 13, when he opens the same drawer, the grocery list is gone and a phone bill is in its place. In Chapter 15, he reaches into his coat pocket and unfolds the paper that was once his list, and it is her grocery list. The four words are the same. The novella does not say how it got into his pocket. The reader carries the substitution.
+**For the novella:** The grocery list is in the drawer in Chapter 4. *Milk, bread, fish, oranges.* (Provisional; see IMPLEMENTATION_STRATEGY.md for the note on whether to revisit.) the protagonist reads it and puts it back. In Chapter 13, when he opens the same drawer, the grocery list is gone and a phone bill is in its place. In Chapter 15, he reaches into his coat pocket and unfolds the paper that was once his list, and it is her grocery list. The four words are the same. The novella does not say how it got into his pocket. The reader carries the substitution.
 
 ---
 
@@ -154,7 +154,7 @@ Charity shops have requirements that the bereaved learns by trial and error:
 
 The bereaved often makes more trips to the charity shop than expected.
 
-**For the novella:** Chapter 4 is the clothes chapter. Erik discovers he needs hangers (one shop), then that he needs clean clothes (another shop), then decides to wash everything. The washing machine. The drying rack on the balcony (which was not on the balcony in Chapter 1). The chapter contains the first object glitch.
+**For the novella:** Chapter 4 is the clothes chapter. the protagonist discovers he needs hangers (one shop), then that he needs clean clothes (another shop), then decides to wash everything. The washing machine. The drying rack on the balcony (which was not on the balcony in Chapter 1). The chapter contains the first object glitch.
 
 ---
 
@@ -172,7 +172,7 @@ Common features of book clearance:
 
 Books almost always overwhelm the bereaved's planned packing pace.
 
-**For the novella:** Chapter 8 ("The Death Certificate") opens the bookshelves. Erik thinks he packed them. They are full. He finds the book with the inscription. The inscription page is blank. Chapter 12 ("The Inscription") opens them again. The inscription page is full. His handwriting. The novella places the inscription inside an italicised passage and lets it stand. The book goes into the box. The box is taped.
+**For the novella:** Chapter 8 ("The Death Certificate") opens the bookshelves. the protagonist thinks he packed them. They are full. He finds the book with the inscription. The inscription page is blank. Chapter 12 ("The Inscription") opens them again. The inscription page is full. His handwriting. The novella places the inscription inside an italicised passage and lets it stand. The book goes into the box. The box is taped.
 
 ---
 
@@ -187,7 +187,7 @@ Photographs are the slowest objects in any clearance. The bereaved sits down to 
 - **Photographs of the bereaved as a child.** The bereaved sees themselves as the parent saw them.
 - **Photographs of people the bereaved cannot identify.** Friends of the deceased the bereaved did not know about. Holidays the bereaved was not part of. A garden the bereaved has never seen.
 
-**For the novella:** Chapter 6 is the photographs chapter. Erik sits on the floor with the shoebox. The keep pile grows; the discard pile stays empty; he puts them all back. One photograph of him and his mother is found in the bedside drawer and pocketed. By the end of the chapter the photograph is in the shoebox again, and the prose says it has three people in it. Chapter 16 is the photograph (singular) chapter, in which the photograph is held and put down and seen from across the room as one woman in a kitchen.
+**For the novella:** Chapter 6 is the photographs chapter. the protagonist sits on the floor with the shoebox. The keep pile grows; the discard pile stays empty; he puts them all back. One photograph of him and the mother is found in the bedside drawer and pocketed. By the end of the chapter the photograph is in the shoebox again, and the prose says it has three people in it. Chapter 16 is the photograph (singular) chapter, in which the photograph is held and put down and seen from across the room as one woman in a kitchen.
 
 ---
 
@@ -216,7 +216,7 @@ The bereaved is looking for:
 The bereaved learns to keep two distinct piles: documents needed for the procedural work, and documents that are too personal to handle right now and are placed in a box "for later".
 
 **For the novella:**
-- Chapter 3: Erik searches drawers and shelves for the utility account number. He finds old letters, receipts, a warranty, the library book.
+- Chapter 3: the protagonist searches drawers and shelves for the utility account number. He finds old letters, receipts, a warranty, the library book.
 - Chapter 5: He searches for the will. The metal box that should be on top of the wardrobe is not there.
 - Chapter 8: Civil registry office. The form for the death certificate.
 - Chapter 9: The bank. The middle name discrepancy on the birth certificate vs. the death certificate.
@@ -263,7 +263,7 @@ Most bereaved do not know most of this is needed. They learn it. The learning ta
 - The solicitor (Ch. 5, 9, 11)
 - The phone company (Ch. 13)
 
-The other items are present in the world the novella implies but not on the page. The novella does not need to enumerate them. Erik is doing them off-screen, or not doing them, and the reader extrapolates.
+The other items are present in the world the novella implies but not on the page. The novella does not need to enumerate them. the protagonist is doing them off-screen, or not doing them, and the reader extrapolates.
 
 ---
 
@@ -293,7 +293,7 @@ The physical destinations of the cleared objects:
 - For larger clearances, the bereaved hires a skip and fills it. The skip is on the street outside the apartment. The bereaved carries things down to it.
 - Filling a skip is heavy, public, sometimes embarrassing work.
 
-**For the novella:** Erik uses the charity shop. He drives there. In Chapter 15, the charity shop is *where the library was*. The novella does not visit the dump explicitly; if Erik makes those trips, they are off-page. The novella does not visit the storage unit. There is no skip. The clearance is, in the novella, smaller-scale and more domestic than a typical clearance might be — partly because the novella's focus is on the rooms themselves and the objects in them, not on the vehicles in and out.
+**For the novella:** the protagonist uses the charity shop. He drives there. In Chapter 15, the charity shop is *where the library was*. The novella does not visit the dump explicitly; if the protagonist makes those trips, they are off-page. The novella does not visit the storage unit. There is no skip. The clearance is, in the novella, smaller-scale and more domestic than a typical clearance might be — partly because the novella's focus is on the rooms themselves and the objects in them, not on the vehicles in and out.
 
 ---
 
@@ -310,7 +310,7 @@ Most leases require the apartment to be left clean. The bereaved cleans the apar
 
 The final clean is, for many bereaved, the first time the apartment looks like an empty rental rather than the deceased's home. It is the moment when the deceased is, in some sense, removed from the space the deceased lived in.
 
-**For the novella:** Item 13 of the original list is "Final clean". Item 14 is "Return key". The novella does not depict the final clean. Erik does not finish. He leaves the apartment full and the door open. The list's last items are not enacted. The reader who notices the un-enactment understands the entire form's refusal to "complete" the work.
+**For the novella:** Item 13 of the original list is "Final clean". Item 14 is "Return key". The novella does not depict the final clean. the protagonist does not finish. He leaves the apartment full and the door open. The list's last items are not enacted. The reader who notices the un-enactment understands the entire form's refusal to "complete" the work.
 
 ---
 
@@ -338,7 +338,7 @@ The vast majority of the things in a deceased parent's apartment are worth nothi
 
 The bereaved discovers that almost everything is worth nothing. The "worth" is the relational dimension only. A chipped mug from a holiday in 1987 has no value to anyone except the people who were on the holiday, and the people who were on the holiday include one person who is dead and one person who is the bereaved, and the chipped mug now has either total value or no value depending on who is in the room.
 
-**For the novella:** Erik does not seem to be making valuation decisions. He wraps. He folds. He bags. He labels. The novella does not differentiate the valuable from the worthless. The reader is not told which objects matter. The reader assumes, correctly or not, that they all matter.
+**For the novella:** the protagonist does not seem to be making valuation decisions. He wraps. He folds. He bags. He labels. The novella does not differentiate the valuable from the worthless. The reader is not told which objects matter. The reader assumes, correctly or not, that they all matter.
 
 ---
 
@@ -357,13 +357,13 @@ A list of recurring observations from accounts of clearance work, both literary 
 - **"I drove home slowly."** The drive home from the last day at the apartment is, for many bereaved, the moment the project ends.
 
 **For the novella:**
-- Erik learns what she ate (Ch. 2 fridge, Ch. 10 freezer).
-- Erik learns what she kept (Ch. 6 photographs, Ch. 8 inscription, Ch. 15 the child's room).
-- Erik learns what she had not told him (Marianne, possibly Ch. 6).
-- Erik stops, makes coffee, sits at the counter (Ch. 1, Ch. 17).
-- Erik leaves things behind (Ch. 17, where he leaves the apartment full and does not lock the door).
-- Erik takes home something small (the photograph, in Ch. 17 — though by then the small thing has accumulated weight).
-- Erik drives home slowly is replaced by Erik walking home, crossing at the red light (Ch. 17).
+- the protagonist learns what she ate (Ch. 2 fridge, Ch. 10 freezer).
+- the protagonist learns what she kept (Ch. 6 photographs, Ch. 8 inscription, Ch. 15 the child's room).
+- the protagonist learns what she had not told him (Marianne, possibly Ch. 6).
+- the protagonist stops, makes coffee, sits at the counter (Ch. 1, Ch. 17).
+- the protagonist leaves things behind (Ch. 17, where he leaves the apartment full and does not lock the door).
+- the protagonist takes home something small (the photograph, in Ch. 17 — though by then the small thing has accumulated weight).
+- the protagonist drives home slowly is replaced by the protagonist walking home, crossing at the red light (Ch. 17).
 
 ---
 
@@ -374,7 +374,7 @@ The novella's apartment has the following spatial features (collated from SYNOPS
 - **Kitchen** with a window facing an elm. Counter. Sink. Cupboards. Coffee machine. Cups. Plates. Glasses. Cutlery. Drawer with the grocery list. Wall phone on the kitchen wall. Kitchen table. Fridge. Freezer.
 - **Hallway** connecting the front door to the rest of the apartment.
 - **Living room** with bookshelves. Sofa (her sofa, not the glass-topped one that arrives in Ch. 11). Coffee table.
-- **Bedroom** off the hallway in Ch. 1; through the kitchen in Ch. 3 onward. Wardrobe (top of which the metal box should be on). Bedside drawer (where Erik finds one photograph).
+- **Bedroom** off the hallway in Ch. 1; through the kitchen in Ch. 3 onward. Wardrobe (top of which the metal box should be on). Bedside drawer (where the protagonist finds one photograph).
 - **Second room** used for storage in Ch. 1; with a desk in it from Ch. 5; the child's room in Ch. 15.
 - **Bathroom.** Visited briefly in Ch. 1; barely in the novella thereafter.
 - **Balcony.** Dead plants and a chair in Ch. 1. Drying rack from Ch. 4.
@@ -411,9 +411,9 @@ The writer should know where the apartment is, what the city looks like, how lon
 - **The father.** Not mentioned by name. Not seen. Inferable only.
 - **The hospital.** Not visited.
 - **The undertaker.** Not visited.
-- **Any moment of breakdown by Erik.** Not depicted.
-- **Any moment of breakthrough by Erik.** Not depicted.
-- **Anyone helping Erik.** Not depicted.
+- **Any moment of breakdown by the protagonist.** Not depicted.
+- **Any moment of breakthrough by the protagonist.** Not depicted.
+- **Anyone helping the protagonist.** Not depicted.
 - **A friend, partner, sibling, child.** None of these.
 - **A pet.** No dog. No cat. The apartment has no animal life.
 - **A plant indoors.** The plants on the balcony are dead. There are no living plants in the apartment.
@@ -427,7 +427,7 @@ The novella's surface is austere by design. The austerity is part of what allows
 | Practical surface | Where the glitch lives in it |
 |---|---|
 | The cups in the kitchen | The wrong cupboard (Ch. 6). One cup (Ch. 9). Restored (Ch. 17). |
-| The boxes Erik packs | He moved them to his car (Ch. 4). |
+| The boxes the protagonist packs | He moved them to his car (Ch. 4). |
 | The wardrobe | Refilled (Ch. 5). Truly empty (Ch. 9). |
 | The bookshelves | Full again (Ch. 8). Full again (Ch. 12). |
 | The will | Not in the metal box (Ch. 5). Held by the solicitor (Ch. 11). |
@@ -441,12 +441,12 @@ The novella's surface is austere by design. The austerity is part of what allows
 | The second room | Storage (Ch. 1). Has a desk (Ch. 5). Is the child's room (Ch. 15). |
 | The balcony | Dead plants and a chair (Ch. 1). Drying rack (Ch. 4). Dry rack (Ch. 9). |
 | The walls | The crayon drawings on the wall of the child's room (Ch. 15). Stable. |
-| The civil registry form | Erik writes her date of birth without hesitating (Ch. 8). |
+| The civil registry form | the protagonist writes her date of birth without hesitating (Ch. 8). |
 | The death certificate | Date that the novella does not give. |
 | The birth certificate | Middle name discrepancy with the death certificate (Ch. 9). |
 | The bank | "They need the original will" (Ch. 9). |
 | The solicitor | Pauses on the phone (Ch. 9). Has the will (Ch. 11). |
-| The phone (mobile) | Erik makes calls. Functional. |
+| The phone (mobile) | the protagonist makes calls. Functional. |
 | The phone (wall) | Silent (Ch. 1). Picked up, dial tone (Ch. 6). Rings, not answered (Ch. 8). Rings, picked up, silence then dial tone (Ch. 10). Dead per the operator (Ch. 13). On the wall, silent, in Ch. 17. |
 
 ---
