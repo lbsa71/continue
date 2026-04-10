@@ -14,7 +14,7 @@ Someone clears a dead mother's apartment before the lease expires. The tasks mul
 
 The novella is *about* (in the sense that nothing in it can be summarised without summarising the whole synopsis):
 
-- A specific bereavement: an estranged adult child clearing the home of a parent they failed to be present for at the end of her life and at the end of the father's.
+- A specific bereavement: an estranged adult child clearing the home of a parent they failed to be present for at the end of her life and at the end of father's.
 - A specific kind of guilt that has never been spoken aloud and now never will be.
 - A specific failure mode of grief, in which the bereaved continues to be functional, methodical, and effective, while the surrounding world begins to lose internal consistency.
 - The simple physical and procedural reality of clearing a home: kitchens, wardrobes, banks, solicitors, charity shops, library books.
@@ -74,7 +74,7 @@ The novella's central architecture is the gradual escalation of inconsistency in
 
 **Where:** "The Utility Company" through "The Photographs" (3-6)
 
-**What:** Layouts shift. The bedroom is through the kitchen, contradicting the first chapter's mapping of rooms. A desk appears in the second room that had not been there. The wardrobe refills after it has been emptied. The list shows items crossed off in the same handwriting but by no hand that moved. The bills have a name that is almost but not quite the mother's. The utility company is "looking into it". The photograph that was in the bedside drawer is in the shoebox, and the prose says it now has three people in it.
+**What:** Layouts shift. The bedroom is through the kitchen, contradicting the first chapter's mapping of rooms. A desk appears in the second room that had not been there. The wardrobe refills after it has been emptied. The list shows items crossed off in the same handwriting but by no hand that moved. The bills have a name that is almost but not quite mother's. The utility company is "looking into it". The photograph that was in the bedside drawer is in the shoebox, and the prose says it now has three people in it.
 
 **Effect on reader:** The unease is no longer ignorable. The reader starts paying attention to the prose at a different pitch — looking for the wrongness, anticipating it. This is the phase in which the novella's contract with the reader changes: from "this is a slow domestic novel" to "something is happening here that the prose will not name".
 
@@ -88,7 +88,7 @@ The novella's central architecture is the gradual escalation of inconsistency in
 
 **Where:** "The Neighbour" through "The Solicitor" (7-11)
 
-**What:** The drift moves from objects and rooms to *facts*. Documents do not match other documents. The mother's middle name on the birth certificate differs from her middle name on the death certificate. Or the same. The solicitor says there is a will that leaves everything in the apartment to the person sitting across the desk, and the return to the apartment finds the furniture is no longer the mother's. The freezer contains something labelled with a date *after* she died. A glass is wrapped in newspaper, and the newspaper is today's. The phone rings. The phone is picked up. There is silence and then a dial tone. A call to the telephone company: they say the line was disconnected four months ago.
+**What:** The drift moves from objects and rooms to *facts*. Documents do not match other documents. Mother's middle name on the birth certificate differs from her middle name on the death certificate. Or the same. The solicitor says there is a will that leaves everything in the apartment to the person sitting across the desk, and the return to the apartment finds the furniture is no longer mother's. The freezer contains something labelled with a date *after* she died. A glass is wrapped in newspaper, and the newspaper is today's. The phone rings. The phone is picked up. There is silence and then a dial tone. A call to the telephone company: they say the line was disconnected four months ago.
 
 This is also the phase in which the glitches cross into the protagonist's own apartment, in the chapter "The Neighbour". The own kitchen, the own counter, the own plates, wrapped in the own newspaper and put in the own box. The neighbour comes to the door because movement has been heard at night. The prose does not remark on this.
 
@@ -114,7 +114,7 @@ The inscription page in the book that was blank is now full, and the inscription
 
 **Effect on prose:** First permitted dissolution. Sentences allow the wrongness inside themselves. *Wrap a plate and the plate is a cup and wrap the cup and the cup is a plate.* This is the only register-shift the novella has, and it is earned by 14 chapters of refusing it.
 
-**The list in Phase 4:** A paragraph in the same handwriting. Some words legible, some not. In the second "The Boxes" chapter, the paper comes out of the coat pocket unfolded into the mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
+**The list in Phase 4:** A paragraph in the same handwriting. Some words legible, some not. In the second "The Boxes" chapter, the paper comes out of the coat pocket unfolded into mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
 
 ---
 
@@ -124,7 +124,7 @@ The inscription page in the book that was blank is now full, and the inscription
 
 **What:** The dissolution does not deepen. It clears. The penultimate chapter is at the protagonist's own apartment with the photograph, which has now stopped shifting. From across the room it is one woman in a kitchen, not smiling, face open, patient, looking at whoever holds the camera. The photograph goes into the coat pocket.
 
-The final chapter returns to the mother's apartment one last time. The prose is clean. The first chapter's cadence returns. The rooms are the rooms from the first chapter. Her things are present. The wardrobe holds her clothes. The cups are in the cupboard. The phone is on the wall. Light falls across the counter in a rectangle that reaches almost to the sink. Coffee at the counter. The paper, the key, and the photograph on the counter. Leaving. The door unlocked. Across the road. Home. Sitting down. Light across the floor.
+The final chapter returns to mother's apartment one last time. The prose is clean. The first chapter's cadence returns. The rooms are the rooms from the first chapter. Her things are present. The wardrobe holds her clothes. The cups are in the cupboard. The phone is on the wall. Light falls across the counter in a rectangle that reaches almost to the sink. Coffee at the counter. The paper, the key, and the photograph on the counter. Leaving. The door unlocked. Across the road. Home. Sitting down. Light across the floor.
 
 **Effect on reader:** Quiet devastation that the reader cannot place. The novella does not deliver an explanation, a catharsis, or a reconciliation. It simply ends in clean prose, with the apartment full and the door open and a body sitting in its own apartment as the afternoon passes.
 
@@ -143,7 +143,7 @@ The list is the only artefact in the novella that runs from the first chapter to
 3. **Pluralised.** New items appear. Old items disappear or are rewritten.
 4. **Other-handed.** Items appear in a handwriting that is loosely the same, or that can no longer be identified.
 5. **Non-task.** Items become instructions (*answer the phone*), then a single word (*forgive*), then a paragraph that is part legible and part not.
-6. **Replaced.** The paper in the pocket is no longer a list. It is the mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
+6. **Replaced.** The paper in the pocket is no longer a list. It is mother's grocery list, in her handwriting: *Milk, bread, fish, oranges.*
 7. **Blank.** The paper comes out at home. It is blank. A pen is picked up. Nothing is written.
 8. **Left.** Placed on the counter in the final chapter beside the key and the photograph. Not consulted again.
 
@@ -157,7 +157,7 @@ The novella never tells the reader any of the following directly. The reader ass
 
 ### Backstory 1 — The Father's Death
 
-Several years before the novella begins, the father died. On that day the protagonist's phone was off for a business meeting. The mother tried to reach them. She could not. She called her friend Marianne, who came and was with her for the last hours of the father's life. When the protagonist called back, the mother said (in words that the novella never quotes): *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
+Several years before the novella begins, father died. On that day the protagonist's phone was off for a business meeting. Mother tried to reach them. She could not. She called her friend Marianne, who came and was with her for the last hours of father's life. When the protagonist called back, mother said (in words that the novella never quotes): *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
 
 **How it surfaces in the novella:**
 - The name *Marianne* appears, exactly once, on the list, in a handwriting that is not clearly identifiable.
@@ -167,12 +167,12 @@ Several years before the novella begins, the father died. On that day the protag
 
 ### Backstory 2 — The Estrangement
 
-In the years between the father's death and the mother's death, the protagonist and the mother drifted. The phone calls became less frequent. The protagonist's phone was off increasingly often, not for meetings but because it was left off. The mother stopped trying. They never spoke about the day of the father's death, neither to repair it nor to renew the wound. They simply did not.
+In the years between father's death and mother's death, the protagonist and mother drifted. The phone calls became less frequent. The protagonist's phone was off increasingly often, not for meetings but because it was left off. Mother stopped trying. They never spoke about the day of father's death, neither to repair it nor to renew the wound. They simply did not.
 
 **How it surfaces in the novella:**
 - The efficiency of the clearing work. Every drawer opened without looking. Every cupboard known. The intimacy of someone who has not been here in years and still has the apartment in the hand. Rule 11.
 - Objects held and put down without comment.
-- The grocery list in the mother's handwriting in the kitchen drawer (chapter "The Clothes"), read once and put back.
+- The grocery list in mother's handwriting in the kitchen drawer (chapter "The Clothes"), read once and put back.
 - The bookshelves and the inscription. The inscription, when it finally comes, is in the same handwriting as the list.
 
 ### Backstory 3 — The Apology That Was Not Made

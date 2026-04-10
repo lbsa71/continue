@@ -74,7 +74,7 @@ A blank line between paragraphs marks a transition in activity or attention. Not
 
 Other characters keep their pronouns:
 
-- ✓ *The mother left the handset on its cradle.*
+- ✓ *Mother left the handset on its cradle.*
 - ✓ *She left the handset on its cradle.*
 
 ### 8. Present tense discipline
@@ -265,7 +265,7 @@ The memory lives in *without hesitation*, *without looking*, *without pause*, *w
 **✗** *Remember where the cups are kept and open the cupboard.*
 **✓** *The cups are in the cupboard above the coffee machine. Open it without looking.*
 
-### Erik and his mother → Nothing and the mother
+### Erik and his mother → Nothing and mother
 
 **✗** *Erik writes his mother's date of birth on the form without hesitating.*
 **✓** *The form on the counter. Name, date of birth, place of birth, mother's maiden name, cause of death. Each line filled without pause. The pen does not stop.*

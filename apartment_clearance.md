@@ -187,7 +187,7 @@ Photographs are the slowest objects in any clearance. The bereaved sits down to 
 - **Photographs of the bereaved as a child.** The bereaved sees themselves as the parent saw them.
 - **Photographs of people the bereaved cannot identify.** Friends of the deceased the bereaved did not know about. Holidays the bereaved was not part of. A garden the bereaved has never seen.
 
-**For the novella:** Chapter 6 is the photographs chapter. the protagonist sits on the floor with the shoebox. The keep pile grows; the discard pile stays empty; he puts them all back. One photograph of him and the mother is found in the bedside drawer and pocketed. By the end of the chapter the photograph is in the shoebox again, and the prose says it has three people in it. Chapter 16 is the photograph (singular) chapter, in which the photograph is held and put down and seen from across the room as one woman in a kitchen.
+**For the novella:** Chapter 6 is the photographs chapter. the protagonist sits on the floor with the shoebox. The keep pile grows; the discard pile stays empty; he puts them all back. One photograph of him and mother is found in the bedside drawer and pocketed. By the end of the chapter the photograph is in the shoebox again, and the prose says it has three people in it. Chapter 16 is the photograph (singular) chapter, in which the photograph is held and put down and seen from across the room as one woman in a kitchen.
 
 ---
 
@@ -400,7 +400,7 @@ Specific notes:
 - **The solicitor's office.** Bookshelves, lamp, framed certificates. Universally recognisable.
 - **The bakery.** Open. The light at the crossing. The street outside the apartment building. The walk home. The novella's only depiction of the city's continuing life.
 
-The writer should know where the apartment is, what the city looks like, how long the walk to the bakery is, what the bakery sells, what the elm looks like at this latitude, what the crossing looks like, what the bereaved's own apartment looks like in relation to the mother's apartment. The reader does not need to know any of this. The writer must.
+The writer should know where the apartment is, what the city looks like, how long the walk to the bakery is, what the bakery sells, what the elm looks like at this latitude, what the crossing looks like, what the bereaved's own apartment looks like in relation to mother's apartment. The reader does not need to know any of this. The writer must.
 
 ---
 

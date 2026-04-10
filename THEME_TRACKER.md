@@ -18,7 +18,7 @@ This document tracks every motif, object, and structural device that recurs in t
 | The bookshelf | Ch. 8, Ch. 12 | Empty, full again, full again | Same as wardrobe |
 | The inscription | Ch. 8 (blank), Ch. 12 (full) | The book that contains the closest thing to speech | The unspoken apology surfacing in the only place the novella allows it |
 | The photograph | Ch. 6, Ch. 17 | Two people, three people, one woman | The relational glitch's sole repository in Phase 5 |
-| The grocery list | Ch. 4 (in drawer), Ch. 13, Ch. 16 | The mother's handwriting: *Milk, bread, fish, oranges* | What replaces the list at the bottom of the slope |
+| The grocery list | Ch. 4 (in drawer), Ch. 13, Ch. 16 | Mother's handwriting: *Milk, bread, fish, oranges* | What replaces the list at the bottom of the slope |
 | The crayon drawings | Ch. 15 | Single appearance, stable | The anchor; the only thing in Phase 4 that does not glitch |
 | The key | Ch. 1, Ch. 17 | Picked up; placed beside the list and the photograph and left | The opening and closing object |
 | The freezer | Ch. 10 | Single appearance | The date after she died; the temporal glitch made physical |
@@ -67,9 +67,9 @@ This document tracks every motif, object, and structural device that recurs in t
 | Person | First Appearance | Recurrences | Function |
 |---|---|---|---|
 | The protagonist | Every chapter | | Unnamed, no pronoun; present through actions and the camera's position |
-| The mother | Never directly | Throughout, by proxy | She is in every chapter as the absence the chapter is organised around |
-| The father | Never directly | Inferable in Ch. 1 (one sentence too many about the phone), Ch. 13 (the phone call), Ch. 12 (the inscription) | The deeper absence; never named |
-| Marianne | Ch. 6 | Single appearance | The name on the list; the friend the mother called |
+| Mother | Never directly | Throughout, by proxy | She is in every chapter as the absence the chapter is organised around |
+| Father | Never directly | Inferable in Ch. 1 (one sentence too many about the phone), Ch. 13 (the phone call), Ch. 12 (the inscription) | The deeper absence; never named |
+| Marianne | Ch. 6 | Single appearance | The name on the list; the friend mother called |
 | The landlord | Ch. 1 | Single appearance | Hands over the key |
 | The librarian | Ch. 3 | Single appearance | Waives the fine |
 | The neighbour | Ch. 7 | Single appearance | "We've heard you moving around at night" |
@@ -120,7 +120,7 @@ This document tracks every motif, object, and structural device that recurs in t
 - Ch. 12 (The Inscription): Items reordered. Some recognisable, some not. One says: *the summer with the door.*
 - Ch. 13 (The Phone Call): At the own kitchen table. Some items crossed off, some not, some not understood. Near the bottom: *forgive.* The handwriting cannot be identified.
 - Ch. 14 (The Rooms): A paragraph in the same handwriting. Some words legible, some not.
-- Ch. 15 (The Boxes, second time): The paper comes out of the coat pocket unfolded into the mother's handwriting. *Milk, bread, fish, oranges.*
+- Ch. 15 (The Boxes, second time): The paper comes out of the coat pocket unfolded into mother's handwriting. *Milk, bread, fish, oranges.*
 - Ch. 16 (The Photograph): The paper comes out. Blank. A pen is picked up. Nothing is written.
 - Ch. 17 (Continue): Placed on the counter beside the key and the photograph. Not consulted again. Left.
 
@@ -133,7 +133,7 @@ This document tracks every motif, object, and structural device that recurs in t
 
 ### The Wall Phone
 
-**First appearance:** Chapter 1. The phone on the kitchen wall. The first chapter ends with one sentence too many about it — a long observational sentence naming the cord coiled once around the hook below the handset, the handset on its cradle where the mother left it. The novella's only tell that the kitchen contains something that will recur.
+**First appearance:** Chapter 1. The phone on the kitchen wall. The first chapter ends with one sentence too many about it — a long observational sentence naming the cord coiled once around the hook below the handset, the handset on its cradle where mother left it. The novella's only tell that the kitchen contains something that will recur.
 
 **Recurrences:**
 - Ch. 6 (The Photographs): The phone on the wall is picked up. Dial tone. Put back.
@@ -141,15 +141,15 @@ This document tracks every motif, object, and structural device that recurs in t
 - Ch. 10 (The Freezer): The phone rings. The glass is put down. The phone on the wall is picked up. Silence. Then a dial tone.
 - Ch. 13 (The Phone Call): A call to the telephone company. The operator says the line was disconnected four months ago. *It rang. It was picked up.* The operator says the line was disconnected four months ago. The phone on the wall is picked up. Dead. Put back.
 
-**What the wall phone is doing:** It is the unanswered call from the day of the father's death, transposed into the present and refusing to be either present or absent. The reader who has assembled the backstory recognises it. The reader who has not, feels it without recognising it.
+**What the wall phone is doing:** It is the unanswered call from the day of father's death, transposed into the present and refusing to be either present or absent. The reader who has assembled the backstory recognises it. The reader who has not, feels it without recognising it.
 
-**What the wall phone must never do:** Be named. There is no sentence in which the protagonist thinks about the father, thinks about the day of the call, thinks about the mother saying *why didn't you answer.* The phone is the phone. It rings or it doesn't. It is picked up or it isn't.
+**What the wall phone must never do:** Be named. There is no sentence in which the protagonist thinks about father, thinks about the day of the call, thinks about mother saying *why didn't you answer.* The phone is the phone. It rings or it doesn't. It is picked up or it isn't.
 
 ---
 
 ### The Cups
 
-**First appearance:** Chapter 1. Coffee made at the counter with the mother's machine and her cups. Drunk at the counter looking at the street.
+**First appearance:** Chapter 1. Coffee made at the counter with mother's machine and her cups. Drunk at the counter looking at the street.
 
 **Recurrences:**
 - Ch. 6 (The Photographs): The cups are in a different cupboard. The right cupboard is opened without hesitation.
@@ -205,11 +205,11 @@ This document tracks every motif, object, and structural device that recurs in t
 
 ### The Grocery List
 
-**First appearance:** Chapter 4 ("The Clothes"). The kitchen drawer with the grocery list in the mother's handwriting. Read. Put back.
+**First appearance:** Chapter 4 ("The Clothes"). The kitchen drawer with the grocery list in mother's handwriting. Read. Put back.
 
 **Recurrences:**
 - Ch. 13 (The Phone Call): The phone bill is in the kitchen drawer where the grocery list was. The grocery list is gone.
-- Ch. 15 (The Boxes, second time): The paper from the inside pocket of the coat, unfolded. The mother's handwriting. *Milk, bread, fish, oranges.*
+- Ch. 15 (The Boxes, second time): The paper from the inside pocket of the coat, unfolded. Mother's handwriting. *Milk, bread, fish, oranges.*
 
 **What the grocery list is doing:** It is the novella's most economical demonstration of the slope. The grocery list begins as a small object in a drawer that is briefly read and put back. It ends by replacing the list. The reader who notices the symmetry — that the grocery list disappeared from the drawer in Ch. 13 and reappeared in the coat pocket in Ch. 15 — feels the form closing.
 
@@ -233,7 +233,7 @@ This document tracks every motif, object, and structural device that recurs in t
 
 **Recurrences:** None. The name appears once. It is never spoken aloud. No one of that name is ever called. The reader who has assembled the backstory recognises it. The reader who has not, sees a name on a list that does not match anything else and assumes it must connect to something they missed.
 
-**What Marianne is doing:** She is the proper noun the novella allows itself for the deepest backstory. She is the friend the mother called when she could not reach her child on the day of the father's death. The novella will not name this. The list does, and then never does again.
+**What Marianne is doing:** She is the proper noun the novella allows itself for the deepest backstory. She is the friend mother called when she could not reach her child on the day of father's death. The novella will not name this. The list does, and then never does again.
 
 **What Marianne must never do:** Be explained. Be called. Be a character in the present action.
 
@@ -286,7 +286,7 @@ This document tracks every motif, object, and structural device that recurs in t
 ### Documentary glitches (records that don't match)
 - Ch. 3: The name on the bill with an extra initial.
 - Ch. 8: The blank inscription page.
-- Ch. 9: The mother's middle name on the birth certificate vs. the death certificate.
+- Ch. 9: Mother's middle name on the birth certificate vs. the death certificate.
 - Ch. 12: The inscription page full, in the handwriting of the list.
 
 ### Procedural glitches (bureaucracy contradicting itself)
@@ -295,7 +295,7 @@ This document tracks every motif, object, and structural device that recurs in t
 - Ch. 13: The operator says the line was disconnected four months ago.
 
 ### Temporal glitches (time that doesn't fit)
-- Ch. 8: The mother's date of birth, given to the registry, will appear later differently.
+- Ch. 8: Mother's date of birth, given to the registry, will appear later differently.
 - Ch. 10: The freezer item labelled with a date after she died.
 - Ch. 10: The newspaper wrapped around a glass is today's.
 

@@ -182,10 +182,10 @@ See NARRATOR_VOICE.md and STYLE_GUIDE.md for the extended statements.
 ### Terminology Standards
 
 - **The protagonist:** never named, never pronouned. Present through actions, positions, and what the camera sees.
-- **The mother:** *the mother*, *she*, *her*. Never *Mother, Mom, Mama, the old woman, the departed*.
-- **The father:** *the father*, *he*, *his*. Almost never appears.
+- **Mother:** *mother*, *she*, *her*. Never *Mother, Mom, Mama, the old woman, the departed*.
+- **Father:** *the father*, *he*, *his*. Almost never appears.
 - **Marianne:** once, on the list, in a handwriting that may or may not be identifiable.
-- **The apartment:** *the apartment*, *the mother's apartment*. Never *the flat, the place, the home* (charged), *the old place*.
+- **The apartment:** *the apartment*, *mother's apartment*. Never *the flat, the place, the home* (charged), *the old place*.
 - **The protagonist's own apartment:** *the protagonist's own apartment*, *the own kitchen*, *home*.
 - **The list:** *the list*, *the paper*, *the folded paper in the inside pocket of the coat*.
 - **The wall phone:** *the phone on the wall*, *the phone on the kitchen wall*. Distinct from the mobile, which is *the mobile*.

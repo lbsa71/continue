@@ -73,7 +73,7 @@ The novella's 17 chapters move through five phases of inconsistency:
 
 1. **Phase 1 — Gestural.** A hand reaching the wrong way. A door that should have been locked. (Chapters 1-2)
 2. **Phase 2 — Spatial and Procedural.** Layout drifts. Completed tasks undo. The list shows inconsistencies. (Chapters 3-6)
-3. **Phase 3 — Relational and Temporal.** Facts about the mother, the history, the documents shift. The glitches cross into the protagonist's own apartment. (Chapters 7-11)
+3. **Phase 3 — Relational and Temporal.** Facts about mother, the history, the documents shift. The glitches cross into the protagonist's own apartment. (Chapters 7-11)
 4. **Phase 4 — Syntactic.** Sentences stop cohering. Objects change identity mid-action. The list is no longer a list. (Chapters 12-15)
 5. **Phase 5 — Clarity.** The prose goes clean. The body leaves. (Chapters 16-17)
 
@@ -105,7 +105,7 @@ See [THEME_DOSSIERS.md](THEME_DOSSIERS.md) for per-chapter construction notes.
 
 ### The Protagonist
 
-Unnamed. No pronoun. Mid-forties. Methodical, private. Desk job. Lives alone. Has not spoken to the mother in the final years.
+Unnamed. No pronoun. Mid-forties. Methodical, private. Desk job. Lives alone. Has not spoken to mother in the final years.
 
 The reader's first chapters should produce the impression: this body is competent, it is going to get through this list, the apartment will be cleared. The novella then dismantles the list while the body continues to be competent at the work that no longer adds up to anything.
 
@@ -113,11 +113,11 @@ The protagonist is grammatically absent throughout. Their presence is carried by
 
 ### The Mother
 
-Never seen directly. Reachable only through her objects, her handwriting, and the trace of her routines. Present in every chapter as the absence the chapter is organised around. Referred to as *the mother*, *she*, *her*.
+Never seen directly. Reachable only through her objects, her handwriting, and the trace of her routines. Present in every chapter as the absence the chapter is organised around. Referred to as *mother*, *she*, *her*.
 
 ### The Father
 
-Never named. Never seen. Inferable only. *The father.*
+Never named. Never seen. Inferable only. *Father.*
 
 ### Marianne
 

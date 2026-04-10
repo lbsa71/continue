@@ -171,7 +171,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader notices:** The list, at the protagonist's own kitchen table, with *forgive* near the bottom in handwriting the protagonist cannot identify.
 
-**What is happening in the reader:** A specific kind of horror, calmly delivered. The reader has been listening to a phone that does not exist, picked up by a man who is alone in the mother's apartment, and the operator says it has been gone for four months. The reader does not know how long the protagonist has been doing this. The novella has refused, since the first chapter, to give the reader any external timeline.
+**What is happening in the reader:** A specific kind of horror, calmly delivered. The reader has been listening to a phone that does not exist, picked up by a man who is alone in mother's apartment, and the operator says it has been gone for four months. The reader does not know how long the protagonist has been doing this. The novella has refused, since the first chapter, to give the reader any external timeline.
 
 ---
 
@@ -193,7 +193,7 @@ The crayon drawings sequence is the chapter's small island. The reader registers
 
 The grocery list is the chapter's final blow. *Milk, bread, fish, oranges.* The reader, who has seen the grocery list once before in Chapter 4 and registered its disappearance from the drawer in Chapter 13, recognises that the paper in the protagonist's coat pocket has been replaced.
 
-**What the reader notices:** That something the protagonist made when small is in the coat pocket and the list is gone and the mother's grocery list is in the coat pocket instead.
+**What the reader notices:** That something the protagonist made when small is in the coat pocket and the list is gone and mother's grocery list is in the coat pocket instead.
 
 **What is happening in the reader:** A reader who has been carrying the novella's load is now somewhere they cannot describe to anyone who has not read the book. The reader is doing the work.
 
@@ -229,7 +229,7 @@ The book ends.
 
 ### Movement 1 — Trust (Chapters 1-3)
 
-The reader trusts the book. They are reading a calm, careful, slightly strange novella about a man clearing the mother's apartment. The first glitches arrive but the reader can dismiss them.
+The reader trusts the book. They are reading a calm, careful, slightly strange novella about a man clearing mother's apartment. The first glitches arrive but the reader can dismiss them.
 
 ### Movement 2 — Suspicion (Chapters 4-6)
 
@@ -250,11 +250,11 @@ The reader is set down. The novella has not resolved anything. The reader is on 
 The novella owes the reader many things and pays none of them:
 
 - **An explanation of the glitches.** Not paid.
-- **A reconciliation between the protagonist and the mother.** Not paid.
+- **A reconciliation between the protagonist and mother.** Not paid.
 - **A scene in which the protagonist weeps.** Not paid.
 - **A scene in which the protagonist calls Marianne.** Not paid.
 - **The story of the day the protagonist's father died.** Not paid.
-- **The text of any conversation between the protagonist and the mother.** Not paid.
+- **The text of any conversation between the protagonist and mother.** Not paid.
 - **A confirmation that the apartment is "real" or "imagined".** Not paid.
 - **A confirmation that the protagonist is "all right" or "not all right".** Not paid.
 - **A scene in which the protagonist is helped.** Not paid.

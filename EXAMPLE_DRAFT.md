@@ -35,7 +35,7 @@ Take paper from the drawer and a pen from the jar on the counter. Sit down at th
 
 Fold the list once and then once again and put it in the inside pocket of the coat on the back of the chair. Put the coat on and walk to the door.
 
-The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where the mother left it.
+The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where mother left it.
 
 Open the front door, step out, and turn the key in the lock. Put the key in a pocket.
 
@@ -138,7 +138,7 @@ These are the calibration choices in the excerpts above. They are revisable; if 
 ### Chapter 1
 
 - **The list is quoted in full.** Every later deviation (crossed off without being crossed off, reordered, rewritten, replaced) needs the original 14 items to be legible. An abbreviated list would weaken every subsequent list glitch.
-- **The "one sentence too many" is the phone sentence** with the coiled cord and the final clause *where the mother left it*. Denotative rather than emotional — it states facts about the phone's physical configuration — but it is the only sentence in the closing that lingers on a detail the chapter did not need to linger on. It is the tell.
+- **The "one sentence too many" is the phone sentence** with the coiled cord and the final clause *where mother left it*. Denotative rather than emotional — it states facts about the phone's physical configuration — but it is the only sentence in the closing that lingers on a detail the chapter did not need to linger on. It is the tell.
 - **The chapter ends on *The street is empty.*** This is the canonical form of rule 5's transition-by-observation: the walk down the stairs is not narrated; the observation at the destination implies the going. The emptiness is neutral — a quiet street in the afternoon — not a glitch. Chapter 1 has no glitches.
 
 ### Chapter 2

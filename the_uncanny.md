@@ -221,7 +221,7 @@ Fisher's frame is more useful for the novella than Freud's because Fisher is int
 
 Gordon's argument is that haunting is a social phenomenon, not a supernatural one. A haunting is what happens when a society or a person has not addressed something it should have addressed. The ghost is the unaddressed.
 
-**For the novella:** the protagonist's apartment is haunted in Gordon's sense. The haunting is not by the mother. It is by everything that was not addressed in the relationship. The wall phone is the haunting; the inscription is the haunting; the photograph that runs through its variations is the haunting. None of this requires the supernatural.
+**For the novella:** the protagonist's apartment is haunted in Gordon's sense. The haunting is not by mother. It is by everything that was not addressed in the relationship. The wall phone is the haunting; the inscription is the haunting; the photograph that runs through its variations is the haunting. None of this requires the supernatural.
 
 ### Jacques Derrida, *Specters of Marx* (1993)
 

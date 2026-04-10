@@ -47,12 +47,12 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **List state:** Written for the first time, at the kitchen table. Fourteen items, in order, in the handwriting of the list. Folded once. Coat pocket. Quoted in full in this chapter. (The reader needs to know the original list precisely so that subsequent degradations are recognisable.)
 
-**Wall phone state:** Silent. On the wall. The chapter ends with one sentence too many about it. Canonical version (see EXAMPLE_DRAFT.md): *The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where the mother left it.* The principle: it is one beat too many, and it does not name what it is doing.
+**Wall phone state:** Silent. On the wall. The chapter ends with one sentence too many about it. Canonical version (see EXAMPLE_DRAFT.md): *The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where mother left it.* The principle: it is one beat too many, and it does not name what it is doing.
 
 **What must NOT be said:**
 - That the protagonist has not been here for a long time. (The reader will infer this from his ease and his ignorance both — see "infer" below.)
-- That the cups were the mother's. ("Her cups" is allowed in flat denotation; the prose does not lean on it.)
-- Anything about the mother's death except as the practical condition of being here. There is no funeral scene in the chapter. There is no obituary scene. There is no thinking-about-her scene.
+- That the cups were mother's. ("Her cups" is allowed in flat denotation; the prose does not lean on it.)
+- Anything about mother's death except as the practical condition of being here. There is no funeral scene in the chapter. There is no obituary scene. There is no thinking-about-her scene.
 - That the list is a survival mechanism, an attempt at control, etc. The list is a list.
 - That the apartment "feels" anything (silent, empty, abandoned, watching, etc.). It is an apartment. the protagonist walks through it.
 
@@ -259,7 +259,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 1. **Object/spatial:** The cups are in a different cupboard. He opens the right one without hesitating.
 
-2. **Relational:** The photograph of him and the mother, found in the bedside drawer in this chapter and pocketed, *is now in the shoebox*, and the prose describes three people in it. (Construction: at the beginning of the photograph sequence, the protagonist finds the photograph in the bedside drawer and puts it in the coat pocket. Later in the same chapter, while going through the shoebox, the prose lists what is in the shoebox and includes "the photograph of him and the mother and a woman". The reader who is paying attention catches it. The reader who is not, will catch it next chapter or not at all.)
+2. **Relational:** The photograph of him and mother, found in the bedside drawer in this chapter and pocketed, *is now in the shoebox*, and the prose describes three people in it. (Construction: at the beginning of the photograph sequence, the protagonist finds the photograph in the bedside drawer and puts it in the coat pocket. Later in the same chapter, while going through the shoebox, the prose lists what is in the shoebox and includes "the photograph of him and mother and a woman". The reader who is paying attention catches it. The reader who is not, will catch it next chapter or not at all.)
 
 3. **List glitch:** Below Item 6 (Sort photographs), in handwriting that is his but looser, the line: *call Marianne.*
 
@@ -271,7 +271,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - Who Marianne is. The name is on the list once. The novella does not explain it.
 - That the protagonist recognised the name. (He may or may not. The prose does not say.)
 - That the third person in the photograph could be Marianne. (Possibly. The prose does not say.)
-- Any thought about the father.
+- Any thought about father.
 
 **What the reader should infer:**
 - That the photographs are intimate and that the protagonist is going through them without (visible) emotion.
@@ -289,7 +289,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 **Camera focus:** the protagonist at home. The protagonist's own kitchen. The protagonist's own window. The protagonist's own street. The packing of *the protagonist's own plates*. The doorbell. The neighbour. The conversation. The street detail that doesn't match. Bed.
 
 **Sensory palette:**
-- the protagonist's kitchen: cleaner, brighter, less full than the mother's kitchen.
+- the protagonist's kitchen: cleaner, brighter, less full than mother's kitchen.
 - The protagonist's own breakfast — what he eats, how he eats it.
 - The protagonist's own street: the buildings opposite, the cars, a corner shop, a tree (not the elm).
 - The protagonist's own kitchen cupboards: the plates, the wrapping paper or newspaper, the box on the counter.
@@ -297,7 +297,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - The neighbour: described in physical terms, age, posture, the way they fill the doorframe, the way they stand back when they speak.
 - The protagonist's own bed.
 
-**Procedural detail:** None of clearing-the-mother's-apartment kind. The chapter is *not* in the mother's apartment. This is the form's first major rupture: a clearing chapter that does not contain the apartment being cleared.
+**Procedural detail:** None of clearing-the-mother's-apartment kind. The chapter is *not* in mother's apartment. This is the form's first major rupture: a clearing chapter that does not contain the apartment being cleared.
 
 **Glitches:**
 
@@ -309,7 +309,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **List state:** *The list stays in the coat by the door.* The only chapter in which the list is not consulted at all. The prose may name this once: *The list stays in the coat by the door.* That is the entire treatment.
 
-**Wall phone state:** Not present. (the protagonist is not in the mother's apartment in this chapter.)
+**Wall phone state:** Not present. (the protagonist is not in mother's apartment in this chapter.)
 
 **What must NOT be said:**
 - That the protagonist is unsettled by the neighbour's question.
@@ -365,13 +365,13 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **What must NOT be said:**
 - That he could not pick up the phone.
-- That the ringing reminded him of the day the father died. (The novella's central forbidden sentence.)
+- That the ringing reminded him of the day father died. (The novella's central forbidden sentence.)
 - That the inscription must have been written and erased.
 - That the bookshelves being full was strange. (They are. The prose says they are.)
 - That her date of birth came easily to him. (It did. The prose says he writes them without hesitating.)
 
 **What the reader should infer:**
-- That the protagonist knows the mother's birthdate without thinking.
+- That the protagonist knows mother's birthdate without thinking.
 - That the wall phone is doing something the novella will not name.
 - That the inscription matters. (The reader does not yet know what it is.)
 - That the apartment is undoing the work as fast as he can do it.
@@ -493,7 +493,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - The folder on the desk. The pages.
 - The will: a few sentences. *She left everything in the apartment to him. All of it.*
 - The street, briefly, between office and apartment.
-- The apartment's living room: the new sofa, the coffee table, the absence of the mother's furniture.
+- The apartment's living room: the new sofa, the coffee table, the absence of mother's furniture.
 - The floor.
 
 **Procedural detail:**
@@ -501,7 +501,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **Glitches:**
 
-1. **Object/relational:** The furniture in the apartment is completely different. A sofa that is not the mother's. A glass-topped coffee table. *Sit on the floor next to the sofa. The apartment is legally the protagonist's now. None of the furniture in the apartment is the mother's.* Three flat sentences; the contradiction (the apartment has been inherited; its contents are no longer recognisable) is not named.
+1. **Object/relational:** The furniture in the apartment is completely different. A sofa that is not mother's. A glass-topped coffee table. *Sit on the floor next to the sofa. The apartment is legally the protagonist's now. None of the furniture in the apartment is mother's.* Three flat sentences; the contradiction (the apartment has been inherited; its contents are no longer recognisable) is not named.
 
 2. The list is not consulted. This is the second chapter (after The Neighbour) in which the list is not used. The list is in the coat pocket; the absence of consultation is itself the chapter's smallest tell.
 
@@ -563,7 +563,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - That *the summer with the door* meant something specific.
 
 **What the reader should infer:**
-- That the protagonist (somehow, somewhere, at some point) wrote those words on the inscription page of a book the mother kept on her shelf, and that the words are an apology, and that the apology is one the novella has been organised around.
+- That the protagonist (somehow, somewhere, at some point) wrote those words on the inscription page of a book mother kept on her shelf, and that the words are an apology, and that the apology is one the novella has been organised around.
 - That the membrane between the protagonist's interior and the page has been broken once, in a contained, italicised, past-tense passage, and the prose around the passage stays calm.
 - That a phrase from a part of his life the novella will never describe (*the summer with the door*) has just appeared on the list.
 
@@ -603,7 +603,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 **Wall phone state:** Dead. (Confirmed.)
 
 **What must NOT be said:**
-- That the line being disconnected four months ago meant the mother had been dead for four months. (The reader assembles this. The prose does not.)
+- That the line being disconnected four months ago meant mother had been dead for four months. (The reader assembles this. The prose does not.)
 - That *forgive* was a command.
 - That the protagonist's own kitchen, after the apartment, was different.
 - That sitting at the kitchen table was sitting with her.
@@ -701,7 +701,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 4. **Stable anchor:** The drawings. *Take the drawings down carefully and roll them up. Put the roll in the inside pocket of the coat.* The drawings do not glitch. They are stable. They are the chapter's anchor.
 
-5. **List → grocery list substitution:** *Reach into the coat pocket and take out the folded paper. The paper is in the mother's handwriting.* *Milk, bread, fish, oranges.*
+5. **List → grocery list substitution:** *Reach into the coat pocket and take out the folded paper. The paper is in mother's handwriting.* *Milk, bread, fish, oranges.*
 
 **List state:** Replaced. The paper in the coat pocket is no longer the list. It is her grocery list, in her handwriting. *Milk, bread, fish, oranges.*
 
@@ -750,7 +750,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **List state:** Blank. The paper that was once the list, then the grocery list, then a paragraph, is now blank. He picks up a pen. He doesn't write.
 
-**Wall phone state:** Silent. (the protagonist is not in the mother's apartment.)
+**Wall phone state:** Silent. (the protagonist is not in mother's apartment.)
 
 **What must NOT be said:**
 - Who the one woman in the kitchen is.
@@ -761,7 +761,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **What the reader should infer:**
 - That the relational glitch has resolved into a single image of a woman, looking at whoever holds the camera.
-- That whoever holds the camera is, presumably, the protagonist or the father, and that the novella will not say which.
+- That whoever holds the camera is, presumably, the protagonist or father, and that the novella will not say which.
 - That the protagonist is not yet finished but the form is approaching stillness.
 - That the list is blank and he is not going to write on it.
 

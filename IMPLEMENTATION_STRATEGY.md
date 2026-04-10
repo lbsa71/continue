@@ -326,7 +326,7 @@ The writer falls into the contemporary-literary tic of em-dash subordinate-claus
 
 ### Failure 4 — Backstory Spillage
 
-The writer wants the reader to know that the father died, that the phone was off, that the mother said *why didn't you answer*. The writer puts a memory passage on the page. This is the failure mode the form was built to refuse.
+The writer wants the reader to know that the father died, that the phone was off, that mother said *why didn't you answer*. The writer puts a memory passage on the page. This is the failure mode the form was built to refuse.
 
 **How to catch:** Any passage that describes a moment that is not happening on the page right now.
 

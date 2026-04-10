@@ -22,9 +22,9 @@ This is not omniscience. It is not interiority. It is a *position*, and the posi
 
 **The protagonist has no pronoun.** Never *he*, never *she*, never *they* as singular. The grammar is built around actions, not agents.
 
-**The mother has her pronoun.** She is *the mother*, *she*, *her*. The mother has a gender because the reader can know her gender from the apartment, from the handwriting of the grocery list, from the photograph that eventually stabilises. The protagonist does not, because the reader cannot reach them.
+**Mother has her pronoun.** She is *mother*, *she*, *her*. Mother has a gender because the reader can know her gender from the apartment, from the handwriting of the grocery list, from the photograph that eventually stabilises. The protagonist does not, because the reader cannot reach them.
 
-**The father has his pronoun, if he ever appears in the grammar.** He is *the father*, *he*, *his*, and he almost never appears at all.
+**Father has his pronoun, if he ever appears in the grammar.** He is *father*, *he*, *his*, and he almost never appears at all.
 
 **Other characters keep their normal pronouns.** The landlord, the librarian, the neighbour, the lawyer, the bank clerk, the utility operator, the solicitor — their gender is knowable and is used.
 
@@ -107,7 +107,7 @@ A blank line between paragraphs marks a transition in activity or attention. Not
 
 Already stated; repeated here as a rule because it is the grammar's central constraint. Everything else follows from it.
 
-Other characters keep their pronouns. *The mother* is *she*. *The landlord* is *he*. *The neighbour* is whoever they are. Only the protagonist has the pronoun removed.
+Other characters keep their pronouns. *Mother* is *she*. *The landlord* is *he*. *The neighbour* is whoever they are. Only the protagonist has the pronoun removed.
 
 ### Rule 8 — Present tense discipline
 
@@ -170,8 +170,8 @@ What the camera does NOT see:
 3. Memories as scenes.
 4. Anything the body does not currently perceive.
 5. Anything outside the apartment, the protagonist's own apartment, or the transit between them.
-6. The mother directly (alive or dead). Reachable only through her objects, her handwriting, the trace of her routines.
-7. The father directly. Reachable only through inference.
+6. Mother directly (alive or dead). Reachable only through her objects, her handwriting, the trace of her routines.
+7. Father directly. Reachable only through inference.
 8. Marianne directly. Her name appears once on the list.
 
 ---

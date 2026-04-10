@@ -49,7 +49,7 @@ Earlier grief models, including Freud's, emphasised "letting go" and "decathexis
 
 Contemporary research has largely supported this view. Continuing bonds are not pathological; they are the norm. People talk to dead parents for the rest of their lives. People keep a coat in the closet. People walk into a room and notice the chair.
 
-**For the novella:** the protagonist's continuing bond with the mother is unspoken and unobservable. The novella does not give him a scene of talking to her. It gives him a wall phone that rings. It gives him a grocery list in his coat pocket. The continuing bond exists in the apartment's refusal to be cleared.
+**For the novella:** the protagonist's continuing bond with mother is unspoken and unobservable. The novella does not give him a scene of talking to her. It gives him a wall phone that rings. It gives him a grocery list in his coat pocket. The continuing bond exists in the apartment's refusal to be cleared.
 
 ### Prolonged Grief Disorder (PGD)
 
@@ -159,7 +159,7 @@ A bereaved person, especially in the first months, reports:
 
 ## The Specific Configuration: Loss of an Estranged Parent
 
-The novella's grief is specifically the grief of an adult son for the mother, after a period of estrangement, in the absence of any reconciliation.
+The novella's grief is specifically the grief of an adult son for mother, after a period of estrangement, in the absence of any reconciliation.
 
 This configuration carries specific features:
 
@@ -191,7 +191,7 @@ The therapeutic literature on this is large. The literary tradition is larger. (
 
 One specific configuration that recurs in the literature on complicated grief: the bereaved missed the deceased's last call, last text, last attempted contact. The bereaved was busy. Or the bereaved was avoiding. Or the bereaved did not know what the call would be. The deceased then died, and the missed contact becomes the bereaved's central artefact of guilt.
 
-This is the configuration the novella is built around, displaced one generation backward. the protagonist's guilt about *the mother* is structured by his earlier failure to answer the phone on the day his *father* died. The novella never says this. The reader assembles it from: the wall phone, the one sentence too many in Chapter 1, the name *Marianne* on the list, the operator's *the line was disconnected four months ago*, the inscription's *I should have come*.
+This is the configuration the novella is built around, displaced one generation backward. the protagonist's guilt about *mother* is structured by his earlier failure to answer the phone on the day his *father* died. The novella never says this. The reader assembles it from: the wall phone, the one sentence too many in Chapter 1, the name *Marianne* on the list, the operator's *the line was disconnected four months ago*, the inscription's *I should have come*.
 
 **For the novella:** This configuration is the deepest backstory. The novella has been built so that the reader *can* assemble it and is never told it. See CONCEPTUAL_MAP.md "The Three Inferable Backstories".
 
@@ -301,7 +301,7 @@ These are the kinds of works the writer should have at least passed through befo
 - Max Porter, *Grief is the Thing with Feathers.* (Grief depicted with formal invention; the opposite formal solution to the one *Continue* takes, but worth knowing.)
 - Denise Riley, *Time Lived, Without Its Flow.* (On grief and time after the death of a son. Particularly important for the time-distortion section.)
 - Anne Carson, *Nox.* (Grief for a brother. The form is the carrying.)
-- Roland Barthes, *Mourning Diary.* (Daily fragments after the death of the mother. The closest stylistic neighbour to *Continue* in the literature on bereaved cognition.)
+- Roland Barthes, *Mourning Diary.* (Daily fragments after the death of mother. The closest stylistic neighbour to *Continue* in the literature on bereaved cognition.)
 
 ### Medical Anthropology / Sociology
 

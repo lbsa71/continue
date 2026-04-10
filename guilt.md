@@ -6,7 +6,7 @@
 
 ## Overview
 
-This document compiles research and reading on the kinds of guilt the novella is built around. Specifically: the guilt of an adult child whose parent has died after a period of estrangement, in the absence of reconciliation, and after an earlier failure (the unanswered phone on the day of the father's death) that cast its shadow forward.
+This document compiles research and reading on the kinds of guilt the novella is built around. Specifically: the guilt of an adult child whose parent has died after a period of estrangement, in the absence of reconciliation, and after an earlier failure (the unanswered phone on the day of father's death) that cast its shadow forward.
 
 The novella never names guilt. The dossier exists so that the writer knows what they are not naming.
 
@@ -44,7 +44,7 @@ Survivor guilt is particularly intense when:
 - The bereaved had a difficult relationship with the deceased.
 - The bereaved had been distancing themselves from the deceased.
 
-**For the novella:** the protagonist's guilt is not, technically, survivor guilt in the original clinical sense — the mother's death is not the kind of mass-event survival that the term originally described. But it is in the same family. The configuration is "I am here and they are not, and I had been increasingly absent from their life, and I had a specific earlier failure that I have never spoken about." The novella does not require the term. The configuration is what matters.
+**For the novella:** the protagonist's guilt is not, technically, survivor guilt in the original clinical sense — mother's death is not the kind of mass-event survival that the term originally described. But it is in the same family. The configuration is "I am here and they are not, and I had been increasingly absent from their life, and I had a specific earlier failure that I have never spoken about." The novella does not require the term. The configuration is what matters.
 
 ---
 
@@ -62,7 +62,7 @@ In a normal life, the not-having-called is something one can repair: one calls. 
 
 The adult child was not present at the death. (Either could not be — distance, timing, the death's suddenness — or chose not to be.) Many cultures and many bereaved people place enormous weight on presence at the moment of death. The bereaved who was not present often feels they failed in a primary filial duty, even when no such duty was reasonably owed.
 
-The configuration in the novella is one step removed: the protagonist was not present at his *father's* death several years before the novella's events, because his phone was off. His mother was the one who was present, alone, until she called Marianne. The filial-presence failure is displaced from mother to father, but it casts forward over the protagonist's later relationship with the mother and over the novella as a whole.
+The configuration in the novella is one step removed: the protagonist was not present at his *father's* death several years before the novella's events, because his phone was off. His mother was the one who was present, alone, until she called Marianne. The filial-presence failure is displaced from mother to father, but it casts forward over the protagonist's later relationship with mother and over the novella as a whole.
 
 ### 3. The not-having-been-good-enough shape
 
@@ -80,7 +80,7 @@ If the parent was difficult — abusive, demanding, controlling, or simply hard 
 
 The adult child feels guilty for not feeling guilty enough, or sad enough, or moved enough, or anything enough. Numbness becomes the source of its own guilt.
 
-**For the novella:** the protagonist's filial guilt has elements of #1 (he had stopped calling), #2 (displaced to the father), #4 (the inscription), and possibly #5 and #6 (which the novella does not adjudicate). The novella does not place him in any single shape. It places him in a clearing-task in an apartment that does not stay cleared.
+**For the novella:** the protagonist's filial guilt has elements of #1 (he had stopped calling), #2 (displaced to father), #4 (the inscription), and possibly #5 and #6 (which the novella does not adjudicate). The novella does not place him in any single shape. It places him in a clearing-task in an apartment that does not stay cleared.
 
 ---
 
@@ -92,16 +92,16 @@ The novella's deepest backstory is described in CONCEPTUAL_MAP.md ("The Three In
 2. On that day the protagonist had his phone off for a business meeting.
 3. His mother tried to reach him. She could not.
 4. She called Marianne, who came and was with her for the last hours.
-5. When the protagonist called back, the mother said, in some words that the novella never quotes: *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
+5. When the protagonist called back, mother said, in some words that the novella never quotes: *why didn't you answer, I needed you, you missed his last breath, I had to call Marianne.*
 6. the protagonist absorbed this. He also resented it — being told this by his bereaved mother, in her grief, when he could not yet defend himself or repair what had happened. He never said either thing to her.
 7. The years that followed: drift. Phone calls fewer. the protagonist's phone off increasingly often, not for meetings but because he was avoiding her. His mother stopped trying.
-8. They never spoke about the day of the father's death.
+8. They never spoke about the day of father's death.
 9. His mother died. the protagonist was not there at the end of *her* life either. The death certificate's date is the date the novella never explicitly gives.
-10. Now the protagonist is clearing the apartment. The wall phone on the kitchen wall is the phone the mother used to call him from. The unanswered call is everywhere in the apartment and is never named.
+10. Now the protagonist is clearing the apartment. The wall phone on the kitchen wall is the phone mother used to call him from. The unanswered call is everywhere in the apartment and is never named.
 
-**The structural feature:** The original guilt (the unanswered call on the day of the father's death) was never addressed. the protagonist's strategy was to drift away from the relationship in which the guilt could have been addressed. The drift created its own additional guilt (the years of not calling). When the mother died, both layers became permanently unaddressable.
+**The structural feature:** The original guilt (the unanswered call on the day of father's death) was never addressed. the protagonist's strategy was to drift away from the relationship in which the guilt could have been addressed. The drift created its own additional guilt (the years of not calling). When mother died, both layers became permanently unaddressable.
 
-**The compounding structure:** Each layer makes the previous layer harder to address. The father-day guilt drove the estrangement. The estrangement made the father-day guilt even harder to acknowledge. By the time the mother died, neither layer could be approached without approaching the other, and both had become so dense that any approach to one would be an approach to both.
+**The compounding structure:** Each layer makes the previous layer harder to address. The father-day guilt drove the estrangement. The estrangement made father-day guilt even harder to acknowledge. By the time mother died, neither layer could be approached without approaching the other, and both had become so dense that any approach to one would be an approach to both.
 
 **For the novella:** This is the "iron wedge" of the form. The novella refuses to introduce either layer directly. The reader who has assembled the configuration sees the entire structure pressing on every chapter. The reader who has not, sees a man in an apartment.
 
@@ -175,9 +175,9 @@ Guilt and anger are often paired in the bereaved, particularly in the bereavemen
 
 The bereaved is angry at the deceased — for things the deceased did, for things the deceased failed to do, for the unfinished conversation, for the death itself. The anger is, in many cases, more accurate to the bereaved's relationship than they are willing to admit. But the deceased is dead. Anger at the dead is socially proscribed. The bereaved often suppresses it and replaces it with guilt: *I should not be angry; I should miss them; I am a bad person for feeling what I feel.*
 
-The novella's specific shape: the protagonist has cause to be angry at the mother. The thing she said to him on the day of the father's death — the *why didn't you answer* — was, in the moment she said it, an act of pain, but it was also a cruelty. She placed her grief on her son and never came back to repair the placing. The years of estrangement were partly the protagonist's withdrawal and partly his refusal to be the recipient of an unrepaired blame.
+The novella's specific shape: the protagonist has cause to be angry at mother. The thing she said to him on the day of father's death — the *why didn't you answer* — was, in the moment she said it, an act of pain, but it was also a cruelty. She placed her grief on her son and never came back to repair the placing. The years of estrangement were partly the protagonist's withdrawal and partly his refusal to be the recipient of an unrepaired blame.
 
-The novella will not say any of this. The novella will not give the protagonist a moment of anger. But the writer should know that the protagonist's apparent guilt is not a simple story of a son who failed the mother. It is a story of a son who failed the mother, *and* of a mother who placed an unsupportable load on her son, *and* of both of them choosing not to address it, and of the death making any address permanently impossible.
+The novella will not say any of this. The novella will not give the protagonist a moment of anger. But the writer should know that the protagonist's apparent guilt is not a simple story of a son who failed mother. It is a story of a son who failed mother, *and* of a mother who placed an unsupportable load on her son, *and* of both of them choosing not to address it, and of the death making any address permanently impossible.
 
 The form's refusal to depict the anger is one of its most important refusals. A lesser version of the novella would give the protagonist a scene of fury. The novella's discipline is that no such scene is on the page. The reader who has been on either side of this configuration understands.
 
@@ -223,11 +223,11 @@ The novella does not pick a side. The word *forgive* appears once, on the list, 
 - It will not give the protagonist a confessor, a therapist, a priest, a friend, or a stranger to confess to.
 - It will not give the protagonist a moment of self-forgiveness.
 - It will not give the protagonist a moment of being forgiven by anyone.
-- It will not narrate the day of the father's death.
-- It will not quote the mother's words on the phone after the father's death.
+- It will not narrate the day of father's death.
+- It will not quote mother's words on the phone after father's death.
 - It will not name the configuration "guilt".
 - It will not adjudicate whether the protagonist is a bad person.
-- It will not adjudicate whether the mother was a bad person.
+- It will not adjudicate whether mother was a bad person.
 - It will not let the wall phone be answered.
 - It will not let the inscription be repeated outside the italicised passage.
 - It will not let the word *forgive* appear outside the one allowed instance.
@@ -240,14 +240,14 @@ The dossier is for the writer's confidence. The reader experiences the configura
 
 | Surface | Guilt-content it carries (which the novella does not name) |
 |---|---|
-| The wall phone | The unanswered call on the day of the father's death |
+| The wall phone | The unanswered call on the day of father's death |
 | The phone ringing in chapters 6-13 | The original missed call repeating itself |
 | The phone the operator says is dead | The fact that the call cannot be answered now and could not have been answered then either |
 | Marianne on the list | The friend who did what the protagonist did not |
 | The inscription, blank in Ch. 8 | The unmade apology |
 | The inscription, full in Ch. 12 | The apology, as he would have written it |
 | *forgive* on the list, Ch. 13 | The single permitted naming of the abstraction, contained inside the list |
-| The grocery list in his coat pocket, Ch. 15 | The intimate residue of the mother's daily life, in his pocket |
+| The grocery list in his coat pocket, Ch. 15 | The intimate residue of mother's daily life, in his pocket |
 | The crayon drawings | The childhood version of him, kept on the wall of a room he did not know existed |
 | the protagonist's competence at clearing | The proxy-action shape of the guilt: he is doing what he can do because what he cannot do is unaddressable |
 | The apartment refusing to be cleared | The work refusing to release the worker |
