@@ -8,7 +8,10 @@ Living document. Updated as drafting proceeds.
 
 ## Version History
 
-- **v0.1** (current): **First full draft complete.** All 17 chapters drafted. Total ~15,977 words (56% of the 28,500 target; compression is form-appropriate but several chapters are candidates for expansion in revision).
+- **v0.1.3** (current): Sweep audit across all 17 chapters. Nine passages fixed with texture landings or structural restructures. Total 16,294 words.
+- **v0.1.2**: Rule 3a reframed around the mind's-eye sweep metaphor. Five chapters touched (Ch 1, 14, 15, 17) with texture landings.
+- **v0.1.1**: Initial rule 3a added (no A-stacks). Eleven passages consolidated across six chapters.
+- **v0.1**: **First full draft complete.** All 17 chapters drafted. Total ~15,977 words.
 
 Pre-draft planning and voice migration completed before drafting began. See README.md for the full project structure.
 

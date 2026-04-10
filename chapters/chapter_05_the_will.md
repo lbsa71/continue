@@ -52,7 +52,7 @@ Walk back through the hallway to the bedroom to the wardrobe.
 
 The wardrobe is full.
 
-The rail is full of hanging clothes: the coats, the dresses, the blouses, the cardigans. The shelves above are full of folded sweaters and trousers. The two pairs of shoes are on the floor of the wardrobe.
+The rail is full of hanging clothes: the coats, the dresses, the blouses, the cardigans. The cardigan at the end of the rail still has the sleeves worn thin at the cuffs. The shelves above are full of folded sweaters and trousers. The two pairs of shoes are on the floor of the wardrobe.
 
 The three bin bags are not on the floor of the wardrobe and not by the door of the apartment and not in the boot of the car.
 

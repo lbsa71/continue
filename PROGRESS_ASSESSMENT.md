@@ -79,6 +79,63 @@ This framing reconciles rule 3a with the governing disposition of numb single-mi
 
 **Ch 14 small study trimmed in v0.1.2:** the study passage had two texture landings (coffee cup and book) before the canonical cup description. Under the sweep framing, two texture landings in one short passage is one too many. The book landing was cut to a clean scan (*On the chair, a book lies open, face down*), leaving the coffee cup as the sole texture landing before the chapter's glitch beats.
 
+### Finding 3 — Full sweep audit across all 17 chapters (v0.1.3)
+
+After the sweep framing was codified in v0.1.2, a full audit was run across all 17 chapters to find descriptive passages that had been written under the old rule (finite-verb observational sentences) without a sweep structure. The audit identified nine passages that needed either a texture landing, a structural restructure, or both.
+
+**Passages fixed in v0.1.3:**
+
+1. **Ch 1 / Ch 17 kitchen** — Originally a sweep of the kitchen with no landing. Added *The surface of the table is marked with two pale rings where hot pans have been set down and left for years.* The kitchen table becomes the landing item, and the rings carry years of meals at this table without naming them. Other items (coffee machine, cups, jar of pens, phone) were compressed into cascaded clauses.
+
+2. **Ch 1 / Ch 17 second room** — Originally four brief sentences with two "A" starts. Consolidated into two sentences: one locating, one combined observation (boxes, camp bed, three cardboard boxes on the floor). No landing added — the second room is deliberately nondescript in Ch 1 because it will become the child's room in Ch 15, and the initial lack of attention is the point.
+
+3. **Ch 3 folder contents** — The v0.1.1 fix (cascaded single sentence) was still a list in a different shape. Restructured into four sentences: locating, middle items, the library notice, and a small landing on the library notice (*The title is not one that stops the hand.*).
+
+4. **Ch 5 wardrobe refilled** — The glitch scene where the wardrobe returns to full. Added a landing sentence that echoes Ch 4's cardigan moment: *The cardigan at the end of the rail still has the sleeves worn thin at the cuffs.* The "still" carries the horror — the same cardigan, the same wear, as if the Ch 4 clearance had never happened.
+
+5. **Ch 11 solicitor inner office** — Originally a cascaded list of office furniture. Added a landing on the visitor chairs: *The leather of the visitor chairs is worn smooth at the arms.*
+
+6. **Ch 11 changed furniture** — Originally a sequence of "this is not mother's X" observations without a landing. Added *The upholstery of the sofa is still tight on the frame, new.* The *new* is load-bearing — the landing is not on wear but on the absence of wear, the contrast with everything else in the apartment.
+
+7. **Ch 12 stairwell half-flight** — The glitch moment where the extra half-flight appears. Added texture to the narrow landing: *the paint worn in a small patch at the middle where feet have stood and turned for years.* This makes the impossible landing feel like it has always been there, which deepens the glitch rather than softens it.
+
+8. **Ch 14 piano room** — Originally eight brief sentences scanning the room at equal rate. Consolidated into six sentences with a landing on the piano keys: *The keys are yellowed and uneven, some worn whiter where fingers have pressed them for years.* As with the stairwell, the texture makes the impossible room feel like it has always been there.
+
+9. **Ch 15 opening kitchen** — Originally a stack of bare-noun fragments (*The counter. The coffee machine. The cupboard above the coffee machine. The small round table under the window. A stack of flat boxes against the wall. The newspaper on the chair.*). Restructured into three sentences with a landing on the half-assembled box: *Against the wall leans a stack of flat boxes with one already pulled from the top and half-assembled on the floor beside it.* The half-assembled box carries a subtle continuity glitch — work that has been started and abandoned.
+
+**Passages audited and left unchanged:**
+
+- **Ch 1 living room, bedroom, bathroom, balcony** — already revised in v0.1.2 with landings on rug, book, mirror, chair.
+- **Ch 2 fridge inventory** — already has a landing (*the milk slops thickly against the carton*).
+- **Ch 2 hardware shop** — brief, does not need a landing.
+- **Ch 4 wardrobe folding scene** — already has the cardigan landing mid-action.
+- **Ch 4 grocery list drawer** — already has texture (*the handwriting is careful and slightly slanted*).
+- **Ch 5 metal box top of wardrobe** — already has a landing (*a rectangle of slightly less dust where something used to sit*).
+- **Ch 6 photograph sequence** — the deliberate anaphoric enumeration of photographs is its own kind of landing architecture (each notable photograph slows the reader); the flat-rate scanning of the generic photographs is meaningful against the landings. Left untouched.
+- **Ch 6 mother-and-child photograph** — already has six sentences of progressive landing.
+- **Ch 7 own kitchen** — already has the cup landing (*The cup is thicker, a darker shape, a band of blue around the rim.*).
+- **Ch 7 street observations** — already have specific detail; the window count glitch itself is the landing.
+- **Ch 8 registry office bench** — already has landing (*The bench is wood with a worn varnish.*).
+- **Ch 8 inscription book** — already has landing (*The cover is dark cloth, no dust jacket.*).
+- **Ch 9 bank** — brief procedural scene; the middle-name wobble is its own landing.
+- **Ch 9 empty wardrobe** — the cascade of "no" statements IS the landing (emptiness observed in detail).
+- **Ch 10 freezer labels** — already has landing (*The labels are in mother's handwriting.*).
+- **Ch 10 foil package dates** — the *23/3* glitch is its own landing.
+- **Ch 12 inscription book cover** — already has landing (*The spine is worn and slightly bowed where the pages have been held open more than once.*).
+- **Ch 13 kitchen drawer** — already has the phone-bill landing.
+- **Ch 14 small study** — already revised in v0.1.2 with the coffee cup landing.
+- **Ch 15 child's room and crayon drawings** — already revised in v0.1.2.
+- **Ch 16 photograph scene** — multiple landings on the shifting photograph.
+- **Ch 16 neighbouring flat voices** — already has specific texture.
+
+**Word count after v0.1.3 audit:** 16,294 (was 16,195). Net +99 words across nine landing additions, averaging ~11 words per addition. The rule is working correctly: landings are small, specific, and additive without bloating the prose.
+
+**Status check on voice discipline after v0.1.3:** Zero forbidden-word matches. Zero past-tense slips. Zero protagonist pronouns. All fixes passed the verification grep.
+
+**What the audit confirmed:** Most of the draft was already doing the sweep correctly — the fixes needed were concentrated in (a) the Ch 1 / Ch 17 walkthroughs where the early drafting didn't have the rule in place, (b) a handful of descriptive passages that got compressed into lists under time pressure in Session 6's Pass 3/4 drafting, and (c) the Ch 14 piano room and Ch 12 stairwell where adding texture strengthens rather than softens the glitch (the impossible rooms/flights feel like they have always been there).
+
+**What the audit did not fix:** The broader structural questions (compression vs expansion, inscription text revision, Ch 9 middle-name wobble level, Ch 11 legal statement, Ch 13 tense decision, etc.) are separate concerns and were not touched. The sweep audit was focused on rule 3a specifically.
+
 ### (future findings to be added here as the read-through continues)
 
 ---

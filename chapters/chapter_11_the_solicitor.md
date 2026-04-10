@@ -4,7 +4,7 @@ The solicitor's office is in an older building five streets from the apartment, 
 
 Push the door open and climb a narrow flight of stairs to the first floor. A secretary sits at a desk in the reception room. The secretary looks up and nods and presses a button on the desk intercom.
 
-The solicitor comes out from an inner office and shows the way back in. The inner office has bookshelves on two walls, a lamp on the desk, a framed certificate on the wall behind the desk, two leather chairs on the visitor side of the desk.
+The solicitor comes out from an inner office and shows the way back in. The inner office has bookshelves on two walls, a lamp on the desk, a framed certificate on the wall behind the desk, and two leather chairs on the visitor side. The leather of the visitor chairs is worn smooth at the arms.
 
 Sit in one of the leather chairs. The solicitor sits behind the desk and opens a folder on the blotter.
 
@@ -36,7 +36,7 @@ The bookshelves run along the long wall.
 
 The bookshelves are empty. The shelves are dusty. A square of lighter paint where the spines used to touch the back of each shelf.
 
-The sofa against the window wall is not mother's sofa. The sofa that is there is a low grey three-seater with a glass-topped coffee table in front of it. The coffee table has nothing on it. A lamp on the floor beside the sofa, not one of mother's lamps. A rug on the floor, not mother's rug.
+The sofa against the window wall is not mother's sofa. The sofa that is there is a low grey three-seater with a glass-topped coffee table in front of it. The upholstery of the sofa is still tight on the frame, new. The coffee table has nothing on it. A lamp on the floor beside the sofa, not one of mother's lamps. A rug on the floor, not mother's rug.
 
 Walk across the living room to the sofa. Put a hand on the back of the sofa. The fabric is not familiar.
 

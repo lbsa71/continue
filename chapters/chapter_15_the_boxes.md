@@ -2,7 +2,7 @@
 
 Unlock the apartment door with the key from the right pocket of the coat and go in. The hallway runs the length of it, doors to left and right. Drop the key back into the pocket. Hang the coat on the hook by the door.
 
-Walk through to the kitchen. The counter. The coffee machine. The cupboard above the coffee machine. The small round table under the window. A stack of flat boxes against the wall. The newspaper on the chair.
+Walk through to the kitchen. The coffee machine on the counter, the cupboard above it, the small round table under the window. Against the wall leans a stack of flat boxes with one already pulled from the top and half-assembled on the floor beside it. The newspaper is on the chair.
 
 Assemble two boxes on the floor.
 

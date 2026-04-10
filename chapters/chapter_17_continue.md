@@ -6,13 +6,13 @@ The apartment is quiet. The hallway runs the length of it, doors to left and rig
 
 Walk through the rooms.
 
-The kitchen is on the right at the end of the hall. The window above the sink faces the elm. The counter is clean. The coffee machine sits on the counter to the left of the sink. The cups are in the cupboard above the coffee machine. A jar of pens sits on the counter next to the sink. The phone is on the wall beside the door to the hall. A small round table with two chairs sits under the window opposite the counter.
+The kitchen is on the right at the end of the hall. The window above the sink faces the elm. The counter is clean. The coffee machine sits on the counter to the left of the sink, the cups in the cupboard above it, a jar of pens beside the sink. The phone is on the wall beside the door to the hall. Under the window opposite the counter stands a small round table with two chairs. The surface of the table is marked with two pale rings where hot pans have been set down and left for years.
 
 The living room is at the far end of the hall, past the kitchen door. The bookshelves run along the long wall, full. Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track. The television is not on.
 
 The bedroom is off the hallway to the left. The wardrobe stands against the back wall, closed. The bed is made: a white cover, two pillows. Beside the bed stands a bedside table with a lamp and a book on it. The book is a paperback, the spine creased, a slip of paper marking a place about a third of the way through. The dressing table is by the window, a small bottle of perfume on it.
 
-The second room is next to the bedroom. Boxes are stacked along one wall. A folded camp bed leans in the corner. Three cardboard boxes sit on the floor, taped shut, unlabelled.
+The second room is next to the bedroom. Boxes are stacked along one wall, a folded camp bed in the corner, three cardboard boxes on the floor, taped shut, unlabelled.
 
 The bathroom is off the hallway on the right. White tiles cover the walls to half-height. Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.
 

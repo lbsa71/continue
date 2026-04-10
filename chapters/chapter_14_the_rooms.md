@@ -14,7 +14,7 @@ From the hallway, left into the bedroom. The wardrobe stands against the back wa
 
 The other room has a piano.
 
-The piano is an upright in dark wood. The lid is closed. The stool is tucked in under the keys. A music stand is against the wall, empty. The room is small. The ceiling is higher than the ceiling of the bedroom behind. The walls are painted the same off-white as the walls of the bedroom. A small window in the back wall looks onto a courtyard.
+The piano is an upright in dark wood. The lid is closed, the stool tucked in under the keys. The keys are yellowed and uneven, some worn whiter where fingers have pressed them for years. Against the far wall stands a music stand, empty. The room is small, the ceiling higher than the bedroom's, the walls painted the same off-white. A small window in the back wall looks onto a courtyard.
 
 The apartment has no courtyard.
 

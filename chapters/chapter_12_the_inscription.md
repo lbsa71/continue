@@ -50,7 +50,7 @@ Carry the first two boxes to the stairwell and start down.
 
 The third-floor landing. The stairs down. The second-floor landing with the potted plant. The stairs below the second-floor landing.
 
-A half-flight between the second-floor landing and the ground floor. The half-flight ends at a narrow landing painted the same brown as the rest of the stairwell. From the narrow landing, another half-flight continues down to the ground floor.
+A half-flight between the second-floor landing and the ground floor. The half-flight ends at a narrow landing painted the same brown as the rest of the stairwell, the paint worn in a small patch at the middle where feet have stood and turned for years. From the narrow landing, another half-flight continues down to the ground floor.
 
 Walk down the half-flight. Stand on the narrow landing with the boxes in hand. Walk down the other half-flight. The ground floor.
 
