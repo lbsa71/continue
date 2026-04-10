@@ -41,28 +41,101 @@ Bare verbs as the primary action mode. Not *-ing*, not *he does X*, not passive.
 - ✗ *The plates in the cupboard above the coffee machine.* *(bare-noun fragment — out)*
 - ✗ *The phone on the kitchen wall.*
 
-**3a. Do not stack "A ___" sentences.** Rule 3 requires object-as-subject observations to have finite verbs, but this does not license stacking multiple sentences that each begin with an indefinite article and a noun. Stacks of *A ___ is / has / stands / hangs ___* quickly read as an inventory list and break the flow the voice requires.
+**3a. Descriptive passages are the trace of a mind's-eye sweeping the scene.**
 
-When enumerating multiple items in a single location, combine them into one flowing sentence through connectors (commas, *and*, prepositional phrases) under a single finite verb. Inverted-verb sentences (*Above the sink hangs a mirror*) are often the cleanest form for spatial observations with multiple items, because the main verb comes early and the items can cascade after it.
+The controlling image for any descriptive passage is **a mind's eye sweeping**, not a catalogue being filled. When the camera enters a room, the eye moves across the space with direction, with varied speed, and with one or two landing points — the items that catch attention. The prose should read the way that sweep feels: forward movement, a mostly fast scan, one beat where the eye stops and holds on a specific material texture, then onward.
 
-- ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.* *(four "A" sentences in a row — trite)*
-- ✓ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.* *(one flowing sentence, inverted verb, cascade of items)*
+Stacks of *A ___ verb ___* sentences are forbidden because they read as a list (four items glanced at one by one at equal weight). Long cascaded single sentences are also forbidden because they read as a list in a different shape (four items chained under one verb at equal weight). Both patterns fail because they flatten the sweep's varied speed into a single rate.
 
-- ✗ *A sofa sits against the window wall with a coffee table in front of it. A lamp stands beside the sofa. A rug is on the floor.* *(three "A" sentences in a row)*
-- ✓ *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa, and a rug on the floor.* *(one sentence with inverted verb and three cascaded observations)*
+**The monofocus is at the level of attention, not grammar.** The camera's narrow focus means *the eye picks what to look at closely*, not that the prose forces all observation into one sentence shape.
 
-- ✗ *A chair is by the wall under the window. A reading lamp is on a side table beside the chair. A book is on the chair, open, face down.* *(three "A" sentences)*
-- ✓ *By the wall under the window stands a chair with a side table beside it, and on the side table a reading lamp and a cup of coffee, and on the chair a book, open, face down.* *(one sentence, inverted verb, three cascaded observations under the main verb)*
+### What the sweep implies
 
-The rule is about the **stack**, not the individual sentence. A single *A ___* sentence surrounded by differently-structured sentences is fine. Two in a row, on the edge, should be combined or separated. Three or more in a row is trite and forbidden.
+1. **A sweep has a direction.** The eye enters through a doorway or from a vantage point, moves across the space along a path (doorway → back wall → window wall → floor, or sink → above the sink → shelf below), and exits. The sentences should track that directional movement so that the reader can reconstruct the path the eye took. The prose should not double back unless the eye doubles back.
 
-**Alternative patterns to escape the stack:**
-- **Inverted verb:** *Above the sink hangs a mirror... / Beside the bed stands a bedside table... / Through the doorway opens a small study...*
-- **Main-verb enumeration:** *The sink has a mirror above it, a shelf beside it, and a toothbrush in a glass on the shelf...*
-- **Colon + list:** *The bedroom has the usual things: a wardrobe, a bed, a bedside table with a lamp and a book on it...*
-- **Single sentence with cascaded prepositional phrases:** *Inside is a small room with a single window, a small bed against the wall, a wooden desk by the window, and above the desk a shelf with a few books and a model of a ship.*
+2. **A sweep has a speed.** Most of the sweep is fast because the body already knows the room (rule 11 applied to description: the cupboards are where the cupboards are). One or two points slow the sweep to a stop. The stops are the texture sentences.
 
-All of these flow better than stacks of *A ___ verb ___* sentences. Choose based on rhythm, not rule.
+3. **A sweep has a vantage.** The eye is somewhere specific when it sweeps — standing in the doorway, walking through, looking up from a book. The prepositional anchor (*above the sink, against the back wall, on the other side of the room*) names the vantage. The sentence that follows moves from the vantage outward or forward.
+
+4. **One item catches the eye.** The texture item is the one that breaks the sweep's default speed. It gets its own sentence (or its own clause set off by punctuation) with specific material detail: *frayed, spotted, creased, clouded, worn, cracked, yellowed, chipped, dried, split, dog-eared*. The other items are glanced at and passed.
+
+5. **The sweep does not interpret.** The eye catches material qualities before it catches meaning. The prose stays at the level of physical fact: *the rug is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track* — nothing about loneliness, nothing about time. The reader translates.
+
+6. **The sweep moves on.** After the landing point, the eye resumes speed and exits the room (or continues to a closing observation). The texture sentence is not a destination; it is a beat.
+
+### Forbidden
+
+**(a) A-stack (the eye at equal rate, fragment shape):**
+> ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
+
+**(b) Cascaded list (the eye at equal rate, flowing shape):**
+> ✗ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+Both patterns scan four items at equal weight. There is no sweep, no landing point, no beat.
+
+### Required
+
+**(c) The sweep with one landing point:**
+> ✓ *Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+The eye enters (*above the sink*), scans the mirror and window quickly, drops to the silvering and stops there, rises again, moves to the shelf below, passes the toothbrush and soap, exits. Three sentences, varied rhythm, one landing.
+
+> ✓ *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track.*
+
+The eye sweeps the window wall (sofa, coffee table, lamp), drops to the floor, stops on the rug, notices the track of wear from the sofa to the door. The stop is specific and load-bearing: the track of wear is how the camera shows years of a body walking from the sofa to the door without ever naming years or body or walking.
+
+### The texture vocabulary
+
+Texture sentences use **factual material details** — not emotional adjectives, not metaphors. The apartment's history lives in these words:
+
+*frayed, creased, spotted, clouded, chipped, cracked, yellowed, faded, worn, split, warped, stained, dented, scratched, dried, smoothed, dog-eared, indented, rubbed, polished, sunken, peeling, bleached, darkened*
+
+The reader translates the physical fact into the life that produced it. The prose just reports. This is the same discipline as rule 11 (memory as efficiency) applied to description instead of action — the efficient eye knows where to stop, the same way the efficient hand knows where the cups are.
+
+### How often to use a texture sentence
+
+Roughly **once per descriptive passage of three or more items.** The beat lands *because* it stands out against the brief scans around it. Overusing texture (every item getting its own lingering sentence) flattens the voice just as much as the A-stack does. The principle is *one thing worth looking at*, not *everything looked at slowly*.
+
+### Forbidden (two ways)
+
+**(a) A-stacks (inventory):**
+
+- ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
+
+**(b) Cascaded lists (inventory in a single flowing sentence):**
+
+- ✗ *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa, and a rug on the floor.*
+- ✗ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+Both of these compress multiple items at equal weight. The camera is not *looking*; it is listing.
+
+### Required
+
+**(c) Varied shapes with a texture sentence lingering on one item:**
+
+- ✓ *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track.*
+
+- ✓ *Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+- ✓ *Beside the bed stands a bedside table with a lamp and a book on it. The book is a paperback, the spine creased, a slip of paper marking a place about a third of the way through.*
+
+- ✓ *Inside is a small room with a single window. Against the wall stands a small bed, made up with a blue cover. A wooden desk sits on the other side of the room with a shelf above it. The shelf holds a few books and a model of a ship. The ship is three-masted, the rigging made of thread, one of the sails torn.*
+
+Each passage has at least one sentence that slows down to observe specific material texture on a single item. The other items are scanned briefly. The rhythm varies because the looking varies.
+
+### The texture vocabulary
+
+Texture sentences should use **factual material details** — not emotional adjectives, not metaphors. The apartment's history lives in these words:
+
+- *frayed, creased, spotted, clouded, chipped, cracked, yellowed, faded, worn, split, warped, stained, dented, scratched, dried, split, smoothed, dog-eared, indented*
+
+- *the track worn in the rug, the silvering clouded where the water has risen, the wood darker at the handles from years of opening, the spine creased, the corners of the pages dog-eared, the slats split where the wood has dried*
+
+Each of these is a present-tense physical fact. None names an emotion. The reader translates the physical fact into the life that produced it. That translation is the reader's work. The prose just reports.
+
+### How often to use a texture sentence
+
+**Roughly once per descriptive passage of three or more items.** Not every sentence needs texture — the texture lands because it stands out against the brief scans around it. Overusing texture (every item getting its own lingering sentence) flattens the voice just as much as the A-stack does. The principle is *one thing worth looking at*, not *everything described at equal slowness*.
 
 ### 4. Articles: definite, bare, almost never indefinite
 
@@ -303,16 +376,28 @@ Every chapter's refrain-ending must be the same six words, in the same order, wi
 **✗** *The plates in the cupboard above the coffee machine. Stacks of four on the counter.*
 **✓** *The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.*
 
-### "A ___" stack → Flowing single sentence
+### Description passage → Varied rhythm with a texture sentence
 
-**✗** *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
-**✓** *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+**✗ (A-stack — inventory):**
+*A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
 
-**✗** *A chair is by the wall. A reading lamp is on a side table. A cup of coffee is on the side table next to the lamp. A book is on the chair.*
-**✓** *By the wall stands a chair with a side table beside it, and on the side table a reading lamp and a cup of coffee, and on the chair a book, open, face down.*
+**✗ (cascaded list — still inventory, just one sentence):**
+*Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
 
-**✗** *A small bed against the wall. A small wooden desk by the window. A shelf with a few books.*
-**✓** *Inside is a small room with a single window, a small bed against the wall, a wooden desk by the window, and above the desk a shelf with a few books.*
+**✓ (varied rhythm + texture on the mirror):**
+*Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+---
+
+**✗ (cascaded list):** *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa, and a rug on the floor.*
+
+**✓ (split, texture on the rug):** *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track.*
+
+---
+
+**✗ (fragment stack):** *A small bed against the wall. A small wooden desk by the window. A shelf with a few books and a model of a ship.*
+
+**✓ (varied sentences + texture on the ship):** *Inside is a small room with a single window. Against the wall stands a small bed, made up with a blue cover. A wooden desk sits on the other side of the room with a shelf above it. The shelf holds a few books and a model of a ship. The ship is three-masted, the rigging made of thread, one of the sails torn.*
 
 ### Transition fragment → Observation at destination
 

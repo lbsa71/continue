@@ -23,30 +23,61 @@ This document is the *what did we actually do, and what is questionable about it
 
 Items surfaced after reading the draft in PDF form. These are addressed inline in the revised chapters and, where they reveal a rule gap, codified in the style documents.
 
-### Finding 1 — "A X / A Y / A Z" description stacks (fixed in v0.1.1)
+### Finding 1 — Descriptive passages need varied rhythm and material texture, not lists (fixed in v0.1.2)
 
-**What:** The bathroom in Ch 1 closed on four consecutive sentences each beginning with an indefinite article:
+**What:** The bathroom in Ch 1 closed on four consecutive sentences each beginning with an indefinite article. Read in the PDF, the rhythm was trite.
 
-> *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
-
-Read in the PDF, the rhythm is trite — a list of inventory items rather than the flowing observational voice the rest of the novella uses.
-
-**Root cause:** Rule 3 (*object-as-subject observations use finite verbs*) was applied without a constraint against stacking. The sentences individually pass the rule — they have finite verbs, they observe objects, they are concrete — but the pattern of consecutive *A ___ verb ___* constructions had not been explicitly forbidden.
-
-**Fix:** Added **rule 3a** to both NARRATOR_VOICE.md and STYLE_GUIDE.md. The new rule explicitly forbids stacks of three or more *A ___* sentences in a row, requires flowing single-sentence enumeration for multi-item descriptions, and names the three alternative patterns: inverted verb, main-verb enumeration, and cascaded prepositional phrases.
-
-**Chapters touched in v0.1.1:**
-- **Ch 1** — bathroom, living room, bedroom descriptions rewritten
-- **Ch 3** — folder contents rewritten from fragment-stack into one flowing sentence
-- **Ch 14** — small study description rewritten (chair/side table/lamp/cup/book cascaded into one sentence)
-- **Ch 15** — child's room description and first/third crayon drawing descriptions rewritten
-- **Ch 17** — bathroom, living room, bedroom descriptions rewritten to match Ch 1's new forms
-
-**Canonical rewrite for the bathroom passage:**
-
+**First fix attempt (v0.1.1):** Combined the stack into one flowing cascaded sentence:
 > *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
 
-One sentence, inverted verb (*hangs*), four items cascading under the verb through commas and *and*. Reads as flowing observation rather than inventory.
+This solved the A-stack problem but introduced a different problem: a cascaded single-sentence list is still an inventory, just with a different shape. The camera is still scanning everything at equal rate.
+
+**Second fix (v0.1.2) — correct insight:** The real problem was not grammatical (stacked sentences) but *perceptual*: the camera should linger on one item with specific material texture, and scan the others briefly. The monofocus is at the level of attention, not at the level of grammar.
+
+**User's model rewrite:**
+> *Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed and has lost color.*
+
+The first sentence scans three items (sofa, coffee table, lamp). The second sentence lingers on one item (rug) with specific texture (*frayed*, *lost color*). The rhythm varies because the looking varies. The camera picks one thing to look at closely.
+
+**Canonical rewrite for the bathroom passage (v0.1.2):**
+> *Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+
+One texture sentence on the mirror, flanked by brief scans of the surroundings. The rhythm is varied. The camera lingers on one thing.
+
+**Rule revision:** Rule 3a in both NARRATOR_VOICE.md and STYLE_GUIDE.md was rewritten (not merely added to). The rule now says that **both** A-stacks **and** cascaded single-sentence lists are forbidden, and that descriptive passages require at least one texture sentence lingering on a specific item with material specificity. The new rule also includes a texture vocabulary (frayed, spotted, creased, clouded, worn, split, yellowed, faded, chipped, cracked, etc.) and guidance on frequency (*roughly once per descriptive passage of three or more items*).
+
+**The emotional engine of the texture rule:** The apartment's history — the years of mother's living there — lives entirely in these texture sentences. The prose never names the grief, guilt, time passing, or mother's absence. But the rug is worn to a track from the sofa to the door, the mirror is spotted where hot water has risen for years, the book has a slip of paper marking a place about a third of the way through. The reader translates the physical facts into a life that produced them. The prose just reports. This is the same discipline as rule 11 (memory as efficiency) applied to description instead of action.
+
+**Chapters touched in v0.1.2:**
+- **Ch 1** — living room (rug texture), bedroom (book-and-paper-slip texture), bathroom (mirror-silvering texture), balcony (chair-slat texture)
+- **Ch 14** — small study rewritten: coffee cup gets texture (*the coffee the colour of old coffee with a thin skin across the surface*) as a quiet anticipation of the glitch that follows
+- **Ch 15** — child's room rewritten from cascaded list into five varied sentences, with the model ship getting the texture (*three-masted, the rigging made of thread, one of the sails torn*)
+- **Ch 17** — living room, bedroom, bathroom, balcony matched to Ch 1's new textured versions
+
+**Chapters NOT touched but flagged for future revision:**
+- Ch 3 folder contents (v0.1.1 fix holds: one flowing sentence with main-verb enumeration is appropriate because the folder is being inventoried as a single object, not a room with items in it)
+- Ch 15 first and third crayon drawings (v0.1.1 fix holds: the drawings are being described as images, not as a room; the enumeration is content of the drawing)
+- Many other descriptive passages across the draft — to be addressed as the read-through surfaces them
+
+### Finding 2 — The sweep framing (v0.1.2 clarification)
+
+The rule 3a work in Finding 1 arrived at the right answer ("vary the sentence shapes and put a texture sentence in there") but the framing was still grammatical. The cleaner framing came afterward:
+
+**The narrator is sweeping the scene with their mind's eye.**
+
+Under this framing, the rules fall out naturally:
+- A sweep has a direction — sentences should track the eye's movement across the space
+- A sweep has a speed — mostly fast, with one or two landings on items that catch attention
+- A sweep has a vantage — the prepositional anchor (*above the sink, against the back wall*) names where the eye is looking from
+- One item catches the eye — gets the texture sentence; the others are glanced at and passed
+- The sweep does not interpret — only material qualities at the level of physical fact
+- The sweep moves on — the texture sentence is a beat, not a destination
+
+This framing reconciles rule 3a with the governing disposition of numb single-mindedness. The sweep is not hysterical (it is controlled, directional, efficient) and not lyrical (it does not pause to interpret). It is the eye of a body that knows this room moving through it at the speed of that knowing, stopping when something catches it, moving on.
+
+**Rule 3a in both STYLE_GUIDE.md and NARRATOR_VOICE.md was rewritten with the sweep framing as the controlling metaphor.** The numbered principles of the sweep (direction, speed, vantage, the catch, no interpretation, moving on) are now the positive statement of the rule; the forbidden patterns (A-stacks, cascaded lists) are presented as failures of the sweep rather than as grammatical infractions in isolation.
+
+**Ch 14 small study trimmed in v0.1.2:** the study passage had two texture landings (coffee cup and book) before the canonical cup description. Under the sweep framing, two texture landings in one short passage is one too many. The book landing was cut to a clean scan (*On the chair, a book lies open, face down*), leaving the coffee cup as the sole texture landing before the chapter's glitch beats.
 
 ### (future findings to be added here as the read-through continues)
 

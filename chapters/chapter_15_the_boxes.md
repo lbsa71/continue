@@ -48,7 +48,7 @@ At the end of the hallway on the left, past the bedroom door, is another door th
 
 Open the door.
 
-Inside is a small room with a single window, a small bed against the wall made up with a blue cover, a wooden desk by the window, and above the desk a shelf with a few books and a model of a ship.
+Inside is a small room with a single window. Against the wall stands a small bed, made up with a blue cover. A wooden desk sits on the other side of the room with a shelf above it. The shelf holds a few books and a model of a ship. The ship is three-masted, the rigging made of thread, one of the sails torn.
 
 On the wall above the desk are three sheets of paper, stuck to the wall with tape at the corners. Crayon drawings.
 

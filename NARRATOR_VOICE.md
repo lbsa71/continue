@@ -72,12 +72,23 @@ When the camera is looking rather than moving, the sentence uses an object-as-su
 
 Bare-noun observations (*The plates in the cupboard.*) are out. They read as list-making or shopping-list shorthand, and that is not the voice.
 
-**3a — Do not stack "A ___" sentences.** The finite-verb requirement of rule 3 does not license stacking multiple sentences that each begin with an indefinite article. *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf.* — three in a row reads as inventory and breaks the voice's flow. When enumerating items in a single location, combine them into one flowing sentence (inverted verb, main-verb enumeration, or cascaded prepositional phrases), or reduce the enumeration.
+**3a — Descriptive passages are the trace of a mind's-eye sweeping the scene.** Not a catalogue being filled. Not a list of objects in a room. The eye enters through a doorway, moves across the space with direction and varied speed, stops on one item that catches the attention, and then exits.
 
-> ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.*
-> ✓ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.*
+The sweep is fast by default because the body knows the room. One item — the item that catches the eye — gets its own sentence with specific material texture. The others are glanced at and passed. The prose should read the way the sweep feels: forward movement, mostly fast, one beat of stopping, then onward.
 
-Single *A ___* sentences inside otherwise varied prose are fine. Two in a row is on the edge. Three or more in a row is trite and forbidden. See STYLE_GUIDE.md for sample transformations.
+Stacks of *A ___ verb ___* sentences and long cascaded single sentences are both forbidden because they scan every item at equal weight — no sweep, no landing, no beat.
+
+**The monofocus is at the level of attention, not grammar.** The narrow focus is about *what the eye lingers on*, not about forcing every description into a single sentence shape.
+
+> ✗ *A small window sits above the sink. A mirror hangs beside the window. A toothbrush is in a glass on the shelf. A bar of soap has dried on a dish.* *(A-stack: four items scanned at equal rate)*
+> ✗ *Above the sink hangs a mirror beside a small window, and on the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.* *(cascaded list: still four items at equal rate, just in one sentence)*
+> ✓ *Above the sink hangs a mirror beside a small window. The silvering of the mirror is spotted at the edges and clouded where the hot water has risen against it for years. On the shelf below stand a toothbrush in a glass and a bar of soap dried on a dish.* *(sweep: the eye enters above the sink, scans the mirror and window, stops on the silvering, moves on to the shelf)*
+
+The texture sentence is where the apartment's history lives. The prose never says "this is an old woman's apartment lived in for decades"; it shows the rug worn to a track, the mirror clouded where hot water rises, the book with a folded slip of paper a third of the way through. The reader translates. The prose just reports.
+
+This is the same discipline as rule 11 (memory as efficiency) applied to description: the efficient eye knows where to stop, the same way the efficient hand knows where the cups are.
+
+See STYLE_GUIDE.md for the full rule, the sweep principles (direction, speed, vantage, the one-item catch), the texture vocabulary, and sample transformations.
 
 ### Rule 4 — Articles: definite preferred, bare common, indefinite almost never
 

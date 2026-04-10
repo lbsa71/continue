@@ -20,7 +20,7 @@ The apartment has no courtyard.
 
 Walk across the piano room. At the far corner, another doorway.
 
-Through the piano-room doorway into a small study. By the wall under the window stands a chair with a side table beside it, and on the side table a reading lamp and a cup of coffee, half-full, and on the chair a book, open, face down. The cup is white, thick at the rim, a chip on the underside of the handle. The window of the study looks onto the same courtyard. The courtyard has a tree in it, and a row of bins against a brick wall, and a patch of gravel.
+Through the piano-room doorway into a small study. By the wall under the window stands a chair, and beside the chair a side table with a reading lamp on it. On the side table next to the lamp sits a cup of coffee, half-full, the coffee the colour of old coffee with a thin skin across the surface. On the chair, a book lies open, face down. The cup is white, thick at the rim, a chip on the underside of the handle. The window of the study looks onto the same courtyard. The courtyard has a tree in it, and a row of bins against a brick wall, and a patch of gravel.
 
 Put a hand on the cup. The coffee is warm.
 
