@@ -107,6 +107,36 @@ Both sentences state their fact flatly. Neither acknowledges the other.
 
 The memory lives in *without hesitation*, *without looking*, *without pause*, *without counting*, and in the simple accuracy of the hand reaching to the known place.
 
+### Positional specificity (extension of rules 4 and 11)
+
+Whenever an object is placed into a container or a location, the specific container or location is named. The body knows which. Vague placement is not single-minded — it is authorial laziness.
+
+- ✓ *Drop the key into the right pocket of the coat.*
+- ✓ *Put the folded paper in the inside pocket of the coat.*
+- ✓ *Set the cup on the counter to the left of the sink.*
+- ✗ *Put the key in a pocket.* *(which pocket?)*
+- ✗ *Put the paper somewhere.* *(no)*
+
+The novella has two established coat-pocket locations:
+- **The inside pocket of the coat** — the list. And, later, the grocery list that replaces it. And, in Ch. 16, the photograph before it goes on the counter.
+- **The right pocket of the coat** — the key.
+
+These should be named every time the object enters or leaves them. The repetition is not redundancy; it is the body's knowing the exact location, every time.
+
+### Chapter-ending refrain (extension of rule 5)
+
+Most chapters end with the body leaving mother's apartment and stepping out into the world. The canonical transition-by-observation landing is:
+
+> *The street is empty.*
+
+**Strict repetition, not variation.** The same sentence at the end of every chapter where the body leaves. By chapter 8 or 9 the reader will have registered that the street is empty *every single time*, which is itself a subtle accumulated glitch the prose never flags.
+
+**Exceptions:**
+- **Chs 7 and 16** are set at the protagonist's own apartment. They end on a different laconic beat — *Bed.*, *Dark.*, *The room is dark.*, or similar. Two of the rarest permitted fragment closings. These two breaks in the refrain become themselves a tell.
+- **Ch 17** contains the refrain one last time mid-chapter (after the leaving, before the bakery) and then continues past it to its specific final sentence (*The light through the window moves across the floor.*). The refrain is honoured and transcended.
+
+Every chapter's refrain-ending must be the same six words, in the same order, with no period-level variation.
+
 ---
 
 ## The Forbidden Categories

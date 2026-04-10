@@ -319,6 +319,38 @@ This document tracks every motif, object, and structural device that recurs in t
 - The light through the elm on the kitchen counter (Ch. 1, Ch. 17; mostly stable in between).
 - The bakery (Ch. 17).
 - The first chapter's cadence in the last chapter.
+- **The closing refrain *The street is empty.***
+
+### The Chapter-Ending Refrain
+
+**First appearance:** Chapter 1, closing.
+
+**Recurrences:** Every chapter that ends with leaving mother's apartment. Strict repetition, six words, no variation.
+- Ch. 1: *The street is empty.*
+- Ch. 2: *The street is empty.*
+- Ch. 3: *The street is empty.*
+- Ch. 4: *The street is empty.*
+- Ch. 5: *The street is empty.*
+- Ch. 6: *The street is empty.*
+- Ch. 7 (The Neighbour): **Broken.** Ends at home. *Bed.* or equivalent.
+- Ch. 8: *The street is empty.*
+- Ch. 9: *The street is empty.*
+- Ch. 10: *The street is empty.*
+- Ch. 11: *The street is empty.*
+- Ch. 12: *The street is empty.*
+- Ch. 13 (The Phone Call): ends at the protagonist's own kitchen table after the apartment scene; the refrain may appear as the transition between apartment and home, but the chapter continues past it to *Home. Dinner. Counter. Plate. Bed.*
+- Ch. 14: *The street is empty.*
+- Ch. 15: *The street is empty.*
+- Ch. 16 (The Photograph): **Broken.** Ends at home. *Bed.* or equivalent.
+- Ch. 17 (Continue): **Transcended.** The refrain appears mid-chapter as an echo of all the previous chapters, then the chapter continues past it to *The light through the window moves across the floor.*
+
+**What the refrain is doing:** Strict repetition. The reader will accumulate its weight. By chapter 8 or 9 the reader will have registered that the street is empty *every single time*, which is itself a subtle glitch the prose never flags. The refrain is the novella's clearest carrier of the numb single-mindedness: the days are the same, the observation is the same, the body leaves the same empty street every day.
+
+**What the refrain must never do:**
+- Vary. No *The streets were quiet.* / *The street was almost empty.* / *An empty street.* Strict repetition, exact words.
+- Be commented on. The prose does not say *as it always is* or *the same empty street again*.
+- Appear where the body is not leaving mother's apartment. (Chs 7 and 16 break the refrain because they are not in mother's apartment.)
+- Appear in Chapter 17 as the closing. Chapter 17 contains the refrain as a mid-chapter echo and then continues past it.
 
 ### Reverse glitches (the protagonist's own apartment)
 - Ch. 7 (The Neighbour): Plates wrapped in newspaper and put in a box on the own counter. The neighbour comes to the door.

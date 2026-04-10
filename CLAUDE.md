@@ -125,6 +125,10 @@ When checking existing content for issues:
 10. Glitches placed across sentences, not compressed inside one.
 11. Memory allowed as monofocus action — retrieval of a datum carried by efficiency of motion (*without hesitation*, *without looking*). Never as flashback.
 
+**Positional specificity** (extends rules 4 and 11): Every placement names its specific location. *A pocket* is forbidden; *the right pocket of the coat* is required. The body knows which.
+
+**Chapter-ending refrain** (extends rule 5): Most chapters end with *The street is empty.* — strict repetition, six words, no variation. Exceptions: Chs 7 and 16 (at the protagonist's own apartment) end on *Bed.* or similar; Ch 17 contains the refrain mid-chapter as echo and then continues to its own specific ending.
+
 See NARRATOR_VOICE.md and STYLE_GUIDE.md for the extended statements.
 
 ---

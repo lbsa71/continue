@@ -37,7 +37,7 @@ Fold the list once and then once again and put it in the inside pocket of the co
 
 The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where mother left it.
 
-Open the front door, step out, and turn the key in the lock. Put the key in a pocket.
+Open the front door, step out, and turn the key in the lock. Drop the key into the right pocket of the coat.
 
 The street is empty.
 
@@ -119,7 +119,7 @@ The elm is at the window. The light from the window falls across the counter in 
 
 Drink the coffee at the counter.
 
-Put the cup in the sink. Take the folded paper from the inside pocket of the coat and put it on the counter. Take the key from a pocket and put it beside the paper. Take the photograph from the inside pocket of the coat and put it beside the key.
+Put the cup in the sink. Take the folded paper from the inside pocket of the coat and put it on the counter. Take the key from the right pocket of the coat and put it beside the paper. Take the photograph from the inside pocket of the coat and put it beside the key.
 
 Walk to the front door. Open it. Do not look back. Do not lock it.
 

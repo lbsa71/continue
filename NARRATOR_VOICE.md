@@ -133,6 +133,29 @@ The first sentence is an observation (the tape is here). The second is the actio
 
 Single-sentence contradictions (*picking it up on the counter from the table*) read as clever writing. The inter-sentence placement reads as single-mindedness registering a small wrongness and not stopping.
 
+### Positional specificity (extends rules 4 and 11)
+
+Every placement names its specific location. *A pocket* is forbidden; *the right pocket of the coat* is required. The body knows which pocket, which shelf, which side of the counter, which drawer, which hook. The camera names it.
+
+Established locations the novella will use repeatedly:
+- **The inside pocket of the coat** — the list (and, later, the grocery list and the photograph).
+- **The right pocket of the coat** — the key.
+- **The cupboard above the coffee machine** — the cups.
+- **The jar on the counter** — the pens.
+- **The hook in the hall** — the coat, at the protagonist's own apartment.
+
+These locations must be named every time the object enters or leaves. Repetition is not redundancy; it is the body's knowing the exact location, always.
+
+### Chapter-ending refrain (extends rule 5)
+
+Most chapters end with leaving mother's apartment. The canonical closing observation is:
+
+> *The street is empty.*
+
+This refrain is repeated exactly — six words, no variation — across every chapter that ends with a departure from the apartment. The reader accumulates its weight. By the middle of the book the repetition becomes its own subtle glitch: no city street is empty every afternoon.
+
+**Exceptions:** Chapters 7 and 16 (at the protagonist's own apartment) end on a different laconic fragment — *Bed.* or *Dark.* or *The room is dark.* — which breaks the refrain and is itself a tell. Chapter 17 contains the refrain one last time as a mid-chapter echo, then continues to its own specific ending.
+
 ### Rule 11 — Memory as monofocus action
 
 Memory is allowed — but only as the retrieval of a specific datum (date, name, number, direction, location, method) in service of the current task. The memory is rendered as the efficiency of the motion, not as a reflective thought.
