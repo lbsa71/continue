@@ -47,6 +47,8 @@ The novella is about a body clearing an apartment. The work does not finish. The
 | [EMOTIONAL_ARC.md](EMOTIONAL_ARC.md) | Reader experience map across the chapters |
 | [IMPLEMENTATION_STRATEGY.md](IMPLEMENTATION_STRATEGY.md) | Craft process: writing phases, revision passes, forbidden-word search, failure modes |
 | [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) | Project-level plan: artistic assessment, reader position, drafting timeline, beta readers, decisions deferred |
+| [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) | Living tracker: draft status, chapter progress, session log, milestones |
+| [PROGRESS_ASSESSMENT.md](PROGRESS_ASSESSMENT.md) | Retrospective: session history, revision candidates, outstanding issues, weaknesses, what is working |
 | [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Short calibration excerpts from key scenes in the canonical voice |
 
 ### Research Dossiers
