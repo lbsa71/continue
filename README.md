@@ -49,6 +49,8 @@ The novella is about a body clearing an apartment. The work does not finish. The
 | [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) | Project-level plan: artistic assessment, reader position, drafting timeline, beta readers, decisions deferred |
 | [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) | Living tracker: draft status, chapter progress, session log, milestones |
 | [PROGRESS_ASSESSMENT.md](PROGRESS_ASSESSMENT.md) | Retrospective: session history, revision candidates, outstanding issues, weaknesses, what is working |
+| [FEEDBACK_RESPONSE.md](FEEDBACK_RESPONSE.md) | Extracted analysis of early publisher feedback: validated elements, convergent concerns, concrete revision priorities, positioning intelligence |
+| [EXPANSION_PLAN.md](EXPANSION_PLAN.md) | Emotional density diagnosis and per-chapter expansion plan — the seven permitted techniques and how to deploy them to reach the 28,500-word target without breaking the form |
 | [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Short calibration excerpts from key scenes in the canonical voice |
 
 ### Research Dossiers

@@ -51,6 +51,66 @@ The default action form is the bare / infinitive verb used as an impersonal comm
 
 This is English improvising what Swedish does with the *att*-form and French with the nominalised infinitive. It functions as an impersonal present that is neither imperative (the reader is not being told what to do) nor indicative (no subject is named). It is the grammar of a person going through the motions.
 
+**1a — The bare-verb imperative is for visible physical acts, not for verbal acts directed at another consciousness.** The mind's-eye sweep can describe the body picking up a key, walking to a door, pouring water, lifting a cup — these are visible motions. It cannot describe the body *saying yes* or *telling the operator to hold on* or *reading the account number to the operator*, because verbal production is not what the mind's eye sees. Speech is an act of language directed at a hearer, and the mind's eye does not visualise the production of language the way it visualises the motion of a hand.
+
+When the body must speak in a scene (a phone call, a transaction, a brief exchange with a clerk or a librarian), render the speech indirectly. Do not use *say*, *tell*, *speak*, *read aloud*, *reply*, *answer* (as imperative), or *ask* (the body asking) — these are all verbs that try to make the bare-verb voice produce speech, which it cannot.
+
+**Four ways to render the body's speech indirectly:**
+
+1. **As the listener's experience** — describe what the operator/clerk/librarian hears.
+   > *The operator hears the digits one at a time and types each one in turn.*
+   > *The librarian hears the answer and nods.*
+
+2. **As the state of the answer** — describe what the answer is, not who said it.
+   > *The answer is yes. The number is correct. The forwarding address is the apartment.*
+
+3. **As a functional gesture** — verbs that name the communicative function without specifying the words. *Confirm, acknowledge, thank, agree, decline* are abstract enough to describe the gesture without rendering the speech.
+   > *Confirm. Thank the operator. Acknowledge the librarian.*
+
+4. **By implication** — let the conversation continue as if the response had been given. The operator's next sentence implies the affirmation that came before it.
+   > *The operator asks whether this is the right account. The operator says the notice of death has been received.*
+   > (The yes is implied by the operator continuing.)
+
+**Forbidden in the imperative voice (when directed at the body):**
+
+| Forbidden | Why |
+|---|---|
+| *Say [yes / no / X]* | Most direct verbal production |
+| *Tell the operator* | Direct vocal communication |
+| *Read [X] to [hearer]* | Vocal performance |
+| *Read [X] off the bill to the operator* | Vocal performance with object source |
+| *Speak* | Vocal production |
+| *Reply* | Verbal response |
+| *Answer* (as imperative directed at the body) | Verbal response |
+| *Ask the operator* | Verbal production |
+
+**Permitted (functional / abstract verbs that describe the gesture without rendering speech):**
+
+- *Confirm*
+- *Acknowledge*
+- *Thank*
+- *Agree*
+- *Decline*
+
+**Sample transformation:**
+
+> ✗ *Tell the operator to hold on. Put the mobile face down on the counter and walk through the hallway to find the folder.*
+> ✓ *Put the mobile face down on the counter. The operator waits on the line. Walk through the hallway to find the folder.*
+
+> ✗ *Read the account number off the bill to the operator. The operator types.*
+> ✓ *Lift the mobile. The account number is at the top of the bill. The operator hears the digits one at a time and types each one in turn.*
+
+> ✗ *Read the name at the top of the bill to the operator. The name has an initial...*
+> ✓ *The name is at the top of the bill. The operator hears it. The name has an initial...*
+
+> ✗ *Say yes.*
+> ✓ *The answer is yes.*
+
+> ✗ *Say no.*
+> ✓ *The answer is no.*
+
+The principle: **the mind's eye sees gestures, surfaces, and physical motions. It does not directly visualise speech.** When the body must speak in a scene, the prose describes the speech as the listener's experience, or as the state of the answer, or as a functional gesture, or by letting the conversation continue past the gap where the body's reply belongs.
+
 ### Rule 2 — Past participles for completed states
 
 When the focus is on the result of an action rather than the action itself, past participles carry the state without an agent.

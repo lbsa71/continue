@@ -24,7 +24,7 @@ Look at the two documents on the counter. Mother's name on the birth certificate
 
 The teller waits.
 
-Tell the teller that the discrepancy must be a typing error at the registry office and that a corrected death certificate can be obtained.
+The discrepancy is a typing error at the registry office. A corrected death certificate can be obtained. The teller hears this and waits.
 
 The teller says to come back with the corrected death certificate and with a letter from the solicitor confirming the estate. The teller slides the birth certificate back across the counter.
 

@@ -136,6 +136,76 @@ After the sweep framing was codified in v0.1.2, a full audit was run across all 
 
 **What the audit did not fix:** The broader structural questions (compression vs expansion, inscription text revision, Ch 9 middle-name wobble level, Ch 11 legal statement, Ch 13 tense decision, etc.) are separate concerns and were not touched. The sweep audit was focused on rule 3a specifically.
 
+### Finding 4 — Early publisher feedback received (two responses)
+
+Two publisher-side responses were received on the v0.1 draft. Both take the work seriously, identify the lineage accurately, and converge on a small set of specific editorial concerns. Extracted analysis, concrete revision priorities, positioning intelligence, and the list of elements to preserve in revision are in the dedicated file [FEEDBACK_RESPONSE.md](FEEDBACK_RESPONSE.md).
+
+**Summary of the extraction:**
+
+- **Three convergent editorial concerns:** (1) middle chapter engagement, (2) one emotional throughline anchoring, (3) ending landing vs. drift risk
+- **Seven validated elements** that must not be damaged in revision (voice discipline, list metaphor, grief-through-procedure, Ch 17 structural echo, inscription passage, specific glitches, Marianne's intentional ambiguity)
+- **Seven concrete revision priorities** ordered by value/risk, with the Ch 13 photograph beat and rule 11 amplification in Chs 3-4 as the two softest high-return interventions
+- **Confirmed publisher targets** converging on Fitzcarraldo, Dalkey Archive, And Other Stories, New Directions, Galley Beggar, Graywolf
+- **Prize candidacy validated** (Goldsmiths Prize, Booker longlist, European juried awards)
+- **The novella-length industry concern** (both publishers flag) — informs the compression-vs-expansion decision by leaning toward expansion
+- **The editorial fragility warning** (publisher 2: *Bad edits could destroy the rhythm entirely*) — informs how revision passes should be approached
+
+**Items NOT to act on** (noted in FEEDBACK_RESPONSE.md): publisher 1's "second-person imperative" reading (a projection), publisher 2's category-resolution requests (grief? dementia? simulation? — the form refuses), the "too experimental" sales concern (a marketing problem, not a craft problem).
+
+The feedback confirms that most of the revision work already flagged in this document (inscription revision, word-count decision, Ch 9 middle-name wobble, Ch 11 legal statement, Ch 13 tense decision, etc.) is still the right set of items to address, and adds a small set of specific new interventions (Ch 13 photograph beat, rule 11 amplification, Ch 4 grocery list landing).
+
+### Finding 5 — Emotional density diagnosis and the path to ~28,500 words (EXPANSION_PLAN.md)
+
+Following Finding 4 (publisher feedback) and a craft discussion on whether the form is inherently too emotionally restrained or whether it can be salvaged, the diagnosis crystallised into a specific observation: **the form is not failing emotionally; the landing density is too sparse for a short novella**. Both publishers confirmed the form works *at* the landing points (inscription, forgive, crayon drawings) but not *between* them.
+
+The salvage path is: **deploy seven already-permitted techniques more densely across all chapters.** None of the seven breaks the form; all seven are underused. See [EXPANSION_PLAN.md](EXPANSION_PLAN.md) for full discussion.
+
+**The seven techniques (summary):**
+1. Rule 11 (memory as efficiency) — deployed once per chapter, not once every six chapters
+2. Texture landings — two or three per chapter, with small-object landings added to the existing room-level landings
+3. Physical sensation — the body as a sensing thing; currently almost absent
+4. Micro-pauses — physical hesitation without interior content
+5. Stable anchors referenced more often across the middle chapters
+6. Self-maintenance beats — the body keeping itself alive
+7. Learned rituals from the mother — procedural specificity as intimacy
+
+**The key insight:** the emotional engagement concern and the word-count concern turn out to be the same problem. Deploying the seven techniques at target density naturally expands the draft toward ~28,500 words, addressing both publisher concerns simultaneously. Part 3 of EXPANSION_PLAN.md contains the per-chapter word-count targets and technique distribution.
+
+**Two paths forward** (EXPANSION_PLAN.md Part 4):
+- **Path A:** small revision only (three priority items from FEEDBACK_RESPONSE.md + inscription revision); draft stays at ~16-17k words; target novella-friendly publishers only
+- **Path B:** full expansion to ~28,500 words using the seven techniques; addresses both publisher concerns; broader publisher target set
+
+EXPANSION_PLAN.md recommends Path B with Ch 3 (The Utility Company) as the test expansion chapter.
+
+### Finding 6 — Speech imperatives violate the mind's-eye sweep (rule 1a)
+
+After Ch 3 was test-expanded for the EXPANSION_PLAN test, the sentence *Look at the bill. The forwarding address is the apartment. Say yes.* was flagged. *Say yes* feels formulaic in a way that *Take the key* does not — and the diagnosis crystallised into a new principle:
+
+**The bare-verb imperative voice is for visible physical acts that the mind's eye can see the body do. It is not for verbal acts directed at another consciousness, because the mind's eye does not visualise speech.** Picking up a key is a motion the mind's eye sees. Saying yes is an act of language directed at a hearer; the mind's eye cannot visualise the production of speech the way it visualises the motion of a hand. *Say* is, in the user's words, "a real-world imperative" that does not belong inside the form's grammar.
+
+When the body must speak in a scene (a phone call, a transaction, an exchange with a clerk or a librarian), the speech is rendered indirectly through one of four techniques:
+
+1. **As the listener's experience:** *The operator hears the digits one at a time and types each one in turn.*
+2. **As the state of the answer:** *The answer is yes. The number is correct. The question is whether the middle name discrepancy can be addressed.*
+3. **As a functional gesture:** *Confirm. Thank the operator. Acknowledge.* (Functional verbs name the gesture without rendering speech.)
+4. **By implication:** the conversation continues as if the response had been given.
+
+**Rule 1a was added to NARRATOR_VOICE.md and STYLE_GUIDE.md** with the forbidden vocabulary (*say, tell, speak, read aloud, read [X] to [hearer], reply, answer, ask*) and the permitted functional vocabulary (*confirm, acknowledge, thank, agree, decline*).
+
+**Chapters fixed in v0.1.4:**
+- **Ch 3** — three speech imperatives removed (*Tell the operator to hold on*, *Read the account number off the bill to the operator*, *Say yes* twice). Replaced with the operator's hearing, the state of the answer, and a single functional *Confirm*.
+- **Ch 7** — *Tell the neighbour that all is well. Tell the neighbour that sleep is fine.* → *The answer is that all is well. The answer is that sleep is fine.*
+- **Ch 8** — *Ask for three extra copies* → *Three extra copies are needed. The clerk hears this and prints three more sheets.*
+- **Ch 9** — *Tell the teller that the discrepancy must be a typing error* → *The discrepancy is a typing error at the registry office. A corrected death certificate can be obtained. The teller hears this and waits.*
+- **Ch 11** — *Ask whether the middle name discrepancy can be addressed* → *The question is whether the middle name discrepancy can be addressed.*
+- **Ch 13** — *Tell the operator that the phone has rung* (×3) → *The phone on the kitchen wall has rung. The receiver has been picked up and there has been silence and then a dial tone. The phone has rung more than once. The operator hears all of this.* And *Say it again* → *The same thing again*. And *Say no* → *The answer is no*. And *Ask about the line at the apartment* → *The question is about the line at the apartment*.
+
+Total speech-imperative removals across the draft: 13 instances across 6 chapters. The grep verified zero remaining instances of the forbidden vocabulary.
+
+**Why this rule matters:** The form's whole bet is that the mind's-eye sweep can carry emotion without naming it. The sweep is observational; it sees the body's physical motions and the world's physical surfaces. When the prose tries to make the sweep produce speech (*Say yes*), the sweep breaks character — it stops being observational and starts being instructional. Instructional voice is what self-help books and recipes use, and the form is not those things. By rendering the body's speech indirectly (through the listener's hearing or the state of the answer), the form preserves the observational discipline while still permitting the body to function in scenes that require speech.
+
+**Validation:** the new pattern (*The answer is yes*, *the operator hears the digits*, *the question is whether*) is consistent with the form's other observational patterns (rule 3's object-as-subject, rule 11's memory-as-efficiency). It is not a new register; it is the existing register applied to a place the form had been violating itself.
+
 ### (future findings to be added here as the read-through continues)
 
 ---

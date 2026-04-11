@@ -12,7 +12,7 @@ Name of the deceased. Date of birth. Place of birth. Mother's full name. Father'
 
 Each line filled without pause. The pen does not stop.
 
-Carry the clipboard back to the window. The clerk takes the clipboard, reads the form, types at a keyboard, prints a sheet, stamps the sheet, and slides it across the counter. Ask for three extra copies. The clerk prints three more sheets, stamps each, and slides them across.
+Carry the clipboard back to the window. The clerk takes the clipboard, reads the form, types at a keyboard, prints a sheet, stamps the sheet, and slides it across the counter. Three extra copies are needed. The clerk hears this and prints three more sheets, stamps each, and slides them across.
 
 Pay the fee in cash from the inside pocket of the coat. Thank the clerk. Fold the four sheets together and put them in the inside pocket of the coat with the list.
 

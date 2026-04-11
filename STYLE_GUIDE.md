@@ -27,6 +27,30 @@ Bare verbs as the primary action mode. Not *-ing*, not *he does X*, not passive.
 - ✗ *Finishing the coffee at the counter.*
 - ✗ *The coffee is finished at the counter.* *(unless the focus is the state, in which case it becomes a rule 2 sentence)*
 
+**1a. Bare-verb imperatives are for visible physical acts only, not for verbal acts directed at another consciousness.** The mind's-eye sweep can see the body picking up a key, walking to a door, lifting a cup. It cannot see the body *saying yes*, because verbal production is not a visible motion — it is an act of language directed at a hearer.
+
+When the body must speak in a scene, render the speech indirectly. Four options:
+
+- **As the listener's experience:** *The operator hears the digits one at a time.*
+- **As the state of the answer:** *The answer is yes.*
+- **As a functional gesture:** *Confirm. Thank the operator.* *(abstract verbs that name the function without rendering speech)*
+- **By implication:** the conversation continues as if the response had been given.
+
+**Forbidden when directed at the body:** *say, tell, read aloud, read [X] to [hearer], speak, reply, answer, ask*.
+
+**Permitted (functional verbs):** *confirm, acknowledge, thank, agree, decline*.
+
+- ✗ *Say yes.*
+- ✓ *The answer is yes.*
+- ✗ *Tell the operator to hold on.*
+- ✓ *Put the mobile face down on the counter. The operator waits on the line.*
+- ✗ *Read the account number off the bill to the operator.*
+- ✓ *The account number is at the top of the bill. The operator hears the digits one at a time and types each one in turn.*
+
+The principle: the mind's eye sees gestures and surfaces. It does not directly visualise speech. Speech reaches the prose either through the listener's hearing or through the state of the answer, never through an imperative addressed to the body's mouth.
+
+See NARRATOR_VOICE.md rule 1a for the extended statement and additional sample transformations.
+
 ### 2. Past participles for completed states
 
 - ✓ *Cup rinsed under the tap then put back in the cupboard above the coffee machine.*

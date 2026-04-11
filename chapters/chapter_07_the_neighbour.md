@@ -54,7 +54,7 @@ Walk to the door of the apartment and open it. A neighbour from downstairs is on
 
 The neighbour asks if all is well. The neighbour says that movement has been heard at night from this flat, by the neighbour on the floor below and by the flat above, and that the neighbours are asking after it.
 
-Tell the neighbour that all is well. Tell the neighbour that sleep is fine.
+The answer is that all is well. The answer is that sleep is fine.
 
 The neighbour looks past the door and into the hall of the apartment and then back.
 

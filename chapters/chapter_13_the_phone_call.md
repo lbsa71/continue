@@ -16,21 +16,21 @@ Take the mobile from the inside pocket of the coat and dial the number of the te
 
 The operator is a woman with a kind voice. The operator asks how to help.
 
-Ask about the line at the apartment. The operator asks for the account number. Read it from the bill. The operator types.
+The question is about the line at the apartment. The operator asks for the account number. The account number is on the bill. The operator hears the digits and types them in.
 
 The operator says the line has been disconnected for four months.
 
-Stop. Tell the operator that the phone on the kitchen wall has rung. Tell the operator that the receiver has been picked up and there has been silence and then a dial tone. Tell the operator that the phone has rung more than once.
+Stop. The phone on the kitchen wall has rung. The receiver has been picked up and there has been silence and then a dial tone. The phone has rung more than once. The operator hears all of this.
 
 The operator says the line has been disconnected for four months.
 
-Say it again: the phone has rung, and the receiver has been picked up.
+The same thing again: the phone has rung, and the receiver has been picked up.
 
 The operator says the line has been disconnected for four months and asks whether there is another account number. Give the account number again. The operator types. The operator reads the account number back. Confirm.
 
 The operator says that under the account number the line has been disconnected for four months, that no signal has been routed to this line since the disconnection, and that the final bill is the one in hand. The operator asks whether there is anything else.
 
-Say no.
+The answer is no.
 
 Thank the operator. End the call. Put the mobile on the counter.
 

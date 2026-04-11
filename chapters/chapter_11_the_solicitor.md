@@ -18,7 +18,7 @@ Confirm.
 
 The solicitor says that a copy of the will can be prepared for the bank. The solicitor says the estate can be transferred to the beneficiary's name once the death certificate discrepancy is resolved at the civil registry office. The solicitor says that the matter of the utility account will be handled by the estate. The solicitor asks whether there are questions.
 
-Ask whether the middle name discrepancy can be addressed.
+The question is whether the middle name discrepancy can be addressed.
 
 The solicitor says that the civil registry office should be visited on the way back to the apartment, that a corrected death certificate can usually be issued within the hour if the original is a typographical error. The solicitor says that a copy of mother's birth certificate should be brought along.
 
