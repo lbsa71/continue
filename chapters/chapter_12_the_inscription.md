@@ -4,7 +4,7 @@ Unlock the apartment door with the key from the right pocket of the coat and go 
 
 Walk through to the kitchen. The counter is clean. The cups are in the cupboard above the coffee machine. The phone is on the wall beside the door to the hall. The elm is at the window. The rectangle of afternoon light on the counter reaches almost to the sink.
 
-Take the list out of the inside pocket of the coat and read it at the kitchen counter. The items are in a different order. Item 5 is now above Item 4. Item 9 is below Item 11. Item 7 has been rewritten again, in smaller letters: *answer the phone*. Near the bottom, in the same handwriting, another entry: *the summer with the door*. Read the list to the end. Fold the paper once and then once again and put it back in the inside pocket of the coat.
+Take the list out of the inside pocket of the coat and read it at the kitchen counter. Item 5 is above Item 4. Item 9 is below Item 11. Item 7 reads in smaller letters: *answer the phone*. Near the bottom, in the same handwriting, another entry: *the summer with the door*. Read the list to the end. Fold the paper once and then once again and put it back in the inside pocket of the coat.
 
 Walk through the hallway to the living room.
 
@@ -28,7 +28,7 @@ Take it down. The cover is dark cloth, no dust jacket. The spine is worn and sli
 
 On the page before the title page is an inscription. The handwriting is the handwriting of the list in the inside pocket of the coat.
 
-*I meant to come in the summer. I did not come. I know you waited. I don't know how to be in that room with you and I didn't know then either. I am writing this on the page because I cannot say it. I am sorry I could not say it. I should have come.*
+*I meant to come in the summer. I did not come. I know you waited. I could not sit across from you at the table. I did not know how to then either. I am writing this on the page because I cannot say it. I am sorry I could not say it. I should have come.*
 
 Close the book. Wrap it in a sheet of newspaper and put it in the box with the others. Run a strip of tape across the seam of the sheet.
 
@@ -40,7 +40,7 @@ Assemble the next box.
 
 Finish the long wall of the bookshelves. The short wall by the window. The top shelves, reached by the chair from the kitchen table. The bottom shelves, kneeling on the rug.
 
-At the end of the afternoon, six boxes stand in two stacks by the front door. The shelves are empty. A square of lighter paint where the spines used to touch the back of each shelf.
+At the end of the afternoon, six boxes stand in two stacks by the front door. The shelves are empty. At the back of each shelf, the paint is lighter where the spines have stood.
 
 Take a glass from the cupboard above the coffee machine and fill it at the kitchen tap. Drink the water at the counter. The elm is at the window. The light from the window falls across the counter in a rectangle that reaches almost to the sink. The rectangle moves as the clouds shift and then holds. The elm's higher branches make small shadows across the rectangle.
 
@@ -48,7 +48,7 @@ Finish the water. Rinse the glass and put it back in the cupboard above the coff
 
 Carry the first two boxes to the stairwell and start down.
 
-The third-floor landing. The stairs down. The second-floor landing with the potted plant. The stairs below the second-floor landing.
+The third-floor landing. The stairs down. The second-floor landing with the potted plant. The stairs below the second-floor landing. Then more stairs.
 
 A half-flight between the second-floor landing and the ground floor. The half-flight ends at a narrow landing painted the same brown as the rest of the stairwell, the paint worn in a small patch at the middle where feet have stood and turned for years. From the narrow landing, another half-flight continues down to the ground floor.
 

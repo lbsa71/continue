@@ -8,7 +8,7 @@ The solicitor comes out from an inner office and shows the way back in. The inne
 
 Sit in one of the leather chairs. The solicitor sits behind the desk and opens a folder on the blotter.
 
-The solicitor says that a will has been found in the office files after the call on Friday morning. The solicitor says the will is dated six years ago and is the last version on file. The solicitor says the terms of the will are simple: mother's entire estate, including everything in the apartment, is left to the single named beneficiary.
+The solicitor says that a will has been found in the office files after the call on Friday morning. The leather at the arm of the chair is worn smooth. The solicitor says the will is dated six years ago and is the last version on file. The lamp on the desk is lit against the grey of the window. The solicitor says the terms of the will are simple: mother's entire estate, including everything in the apartment, is left to the single named beneficiary.
 
 Wait.
 
@@ -18,7 +18,7 @@ Confirm.
 
 The solicitor says that a copy of the will can be prepared for the bank. The solicitor says the estate can be transferred to the beneficiary's name once the death certificate discrepancy is resolved at the civil registry office. The solicitor says that the matter of the utility account will be handled by the estate. The solicitor asks whether there are questions.
 
-The question is whether the middle name discrepancy can be addressed.
+The middle name on the death certificate is different from the middle name on the birth certificate. The solicitor hears this.
 
 The solicitor says that the civil registry office should be visited on the way back to the apartment, that a corrected death certificate can usually be issued within the hour if the original is a typographical error. The solicitor says that a copy of mother's birth certificate should be brought along.
 
@@ -34,11 +34,11 @@ Walk into the living room.
 
 The bookshelves run along the long wall.
 
-The bookshelves are empty. The shelves are dusty. A square of lighter paint where the spines used to touch the back of each shelf.
-
-The sofa against the window wall is not mother's sofa. The sofa that is there is a low grey three-seater with a glass-topped coffee table in front of it. The upholstery of the sofa is still tight on the frame, new. The coffee table has nothing on it. A lamp on the floor beside the sofa, not one of mother's lamps. A rug on the floor, not mother's rug.
+The bookshelves are empty. The shelves are dusty. At the back of each shelf, the paint is lighter where the spines have stood.
 
 Walk across the living room to the sofa. Put a hand on the back of the sofa. The fabric is not familiar.
+
+The sofa is not mother's sofa. It is a low grey three-seater with a glass-topped coffee table in front of it. The upholstery is still tight on the frame, new. The coffee table has nothing on it. A lamp stands on the floor beside the sofa, not one of mother's lamps. A rug is on the floor, not mother's rug.
 
 Sit down on the floor next to the sofa. The rug under the legs is thin and dark, not mother's rug.
 

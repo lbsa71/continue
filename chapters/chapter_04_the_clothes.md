@@ -22,7 +22,9 @@ Three bags by the open wardrobe. The shelves are bare.
 
 Walk through the hallway to the kitchen drawer under the counter. Open the drawer to find scissors to cut the tags off the bags before delivery. The drawer has the scissors, a ball of kitchen twine, a roll of masking tape, a small notebook, a fold-down pair of reading glasses, two pens, a box of matches, a packet of seeds, and a folded piece of paper.
 
-The folded piece of paper is a grocery list in mother's handwriting. *Milk, bread, fish, oranges.* The handwriting is careful and slightly slanted.
+The folded piece of paper is a grocery list in mother's handwriting. *Milk, bread, fish, oranges.* The handwriting is careful and slightly slanted. The paper is thin where the pen has pressed the letters.
+
+Stand at the drawer with the list in a hand.
 
 Read the grocery list once and put it back in the drawer.
 
@@ -34,7 +36,7 @@ Take the mobile from the inside pocket of the coat on the hook and call a charit
 
 Put the mobile back in the inside pocket of the coat.
 
-Untie the first bag. Take the clothes out one at a time and sort them into a pile by the washing machine in the bathroom. The washing machine is small, will take one bag's worth at a time. Load the first batch into the washing machine. Measure powder. Close the door. Turn the dial to the usual setting. Press the button.
+Untie the first bag. Take the clothes out one at a time and sort them into a pile by the washing machine in the bathroom. The washing machine is small, will take one bag's worth at a time. Load the first batch into the washing machine. Measure powder. Close the door. Turn the dial to the usual setting without looking. Press the button.
 
 The washing machine starts.
 
@@ -44,7 +46,7 @@ The washing machine cycles through its programme. The sound of water. The sound 
 
 At the end of the cycle, take the clothes out and carry them to the balcony to dry. Through the living room to the glass door of the balcony. Unlatch the door and step out.
 
-A drying rack stands folded behind the wooden chair by the railing. Unfold the drying rack and stand it in the middle of the balcony. Hang the wet clothes on it one at a time: the dresses first, then the blouses, then the cardigans. Leave the heavier things for the next batch.
+A drying rack stands folded behind the wooden chair by the railing. Unfold the drying rack and stand it in the middle of the balcony. Hang the wet clothes on it one at a time: the dresses first, then the blouses, then the cardigans. The clothes are heavy and cold where the water has soaked through. Leave the heavier things for the next batch.
 
 Back to the bathroom. Load the second batch into the washing machine. Start the machine. Sit in the kitchen at the small round table under the window and wait.
 
@@ -63,8 +65,6 @@ Walk through the hallway to the bedroom. The bags are no longer by the wardrobe.
 Walk back through the hallway to the front door. Open the door to leave.
 
 The three bags are stacked by the front door.
-
-The three bags are in the boot of the car parked at the kerb.
 
 Put the coat on from the hook. Take the key from the right pocket of the coat. Pull the apartment door closed and turn the key in the lock. Drop the key back into the pocket.
 

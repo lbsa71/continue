@@ -6,19 +6,19 @@ Take the list from the inside pocket of the coat and read it in the hallway. A p
 
 Walk through the apartment.
 
-The kitchen is on the right at the end of the hall. The window above the sink faces the elm. The counter is clean. The cups are in the cupboard above the coffee machine. The phone is on the wall beside the door to the hall. On the kitchen counter, beside the coffee machine, a cup of coffee. The cup is half-full.
+The kitchen is on the right at the end of the hall. The window above the sink faces the elm. The counter is clean. The cups are in the cupboard above the coffee machine. The phone is on the wall beside the door to the hall. On the kitchen counter, beside the coffee machine, stands a cup of coffee, half-full.
 
 Continue down the hallway.
 
-From the hallway, left into the bedroom. The wardrobe stands against the back wall, closed. The bed is made. The dressing table is by the window, the small bottle of perfume on it. Through the bedroom, at the back corner, a doorway that leads into another room.
+From the hallway, left into the bedroom. The wardrobe stands against the back wall, closed. The bed is made. The dressing table is by the window, the small bottle of perfume on it. Through the bedroom, at the back corner, a doorway leads into another room.
 
-The other room has a piano.
+Walk through the doorway.
+
+Inside, a piano.
 
 The piano is an upright in dark wood. The lid is closed, the stool tucked in under the keys. The keys are yellowed and uneven, some worn whiter where fingers have pressed them for years. Against the far wall stands a music stand, empty. The room is small, the ceiling higher than the bedroom's, the walls painted the same off-white. A small window in the back wall looks onto a courtyard.
 
-The apartment has no courtyard.
-
-Walk across the piano room. At the far corner, another doorway.
+Walk across the piano room. At the far corner is another doorway.
 
 Through the piano-room doorway into a small study. By the wall under the window stands a chair, and beside the chair a side table with a reading lamp on it. On the side table next to the lamp sits a cup of coffee, half-full, the coffee the colour of old coffee with a thin skin across the surface. On the chair, a book lies open, face down. The cup is white, thick at the rim, a chip on the underside of the handle. The window of the study looks onto the same courtyard. The courtyard has a tree in it, and a row of bins against a brick wall, and a patch of gravel.
 
@@ -30,9 +30,9 @@ Turn around.
 
 The doorway back to the piano room is there. Walk through the doorway. The piano room is not there. The doorway opens into the bedroom. The wardrobe stands against the back wall, closed. The bed is made. The dressing table is by the window.
 
-Walk through the bedroom into the hallway. The hallway runs the length of the apartment, doors to left and right. Along the hallway to the living room. Along the other side of the hallway to the kitchen.
+Walk through the bedroom into the hallway. The hallway runs the length of the apartment, doors to left and right. Walk along the hallway to the living room, then back along the other side of the hallway to the kitchen.
 
-On the kitchen counter, beside the coffee machine, a cup of coffee, half-full. Put a hand on it. The coffee is warm.
+On the kitchen counter, beside the coffee machine, stands a cup of coffee, half-full. Put a hand on it. The coffee is warm.
 
 Put the cup down. Walk to the cupboard above the coffee machine and open it.
 
@@ -44,7 +44,7 @@ The boxes are stacked beside the counter. The newspaper is in a pile on the smal
 
 Take a plate down from the cupboard. Tear a sheet of newspaper from the pile and lay it flat on the counter.
 
-Wrap a plate and the plate is a cup and wrap the cup and the cup is a plate and put the plate in the box. Take a cup from the cupboard above the coffee machine, wrap it in a sheet of newspaper, and put it in the box. Take another plate down. Wrap it. Put it in the box. The plate is a shirt. Fold the shirt and stack the shirt in the box.
+Wrap a plate and the plate is a cup and wrap the cup and the cup is a plate and put the plate in the box. Take a cup from the cupboard above the coffee machine, wrap it in a sheet of newspaper, and put it in the box. Take another plate down. Wrap it. Put it in the box. The plate is a shirt. Fold and stack it in the box.
 
 Take another cup from the cupboard. The cupboard has more cups in it than it did before. Wrap the cup and put it in the box.
 
@@ -52,9 +52,7 @@ Close the box. Run a strip of tape along the seam. Label the side with the marke
 
 The word on the side of the box is WARDROBE.
 
-Assemble the next box. Take the photographs from the shoebox on the living room shelf and carry them back to the kitchen. Put the photographs in the box. Close the box and run a strip of tape along the seam. Label the side with the marker.
-
-The word on the side of the box is KITCHEN.
+Assemble the next box. Take the photographs from the shoebox on the living room shelf and carry them back to the kitchen. Put the photographs in the box. Close the box and run a strip of tape along the seam. Label the side.
 
 Two boxes by the counter.
 

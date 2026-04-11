@@ -28,11 +28,7 @@ Stand up. Walk to the table and pick up the photograph. Hold it close.
 
 Two people in the photograph. Mother on the low wall with her arm around the child's shoulders. The garden with long grass. The sun on mother's face.
 
-Put the photograph down on the table again. Walk back to the chair and sit.
-
-Three people in the photograph. The woman in the grass behind.
-
-Stand up. Walk to the window and look out. The bakery on the corner is open. A man with a dog crosses the street. The street is wet from a rain that has stopped. The elm in the small park at the end of the street is moving in a wind.
+Put the photograph down on the table again. Walk to the window and look out. The bakery on the corner is open. A man with a dog crosses the street. The street is wet from a rain that has stopped. The elm in the small park at the end of the street is moving in a wind.
 
 Turn around.
 
@@ -42,7 +38,7 @@ Mother, the child, the woman behind. Three people. The woman is out of focus and
 
 Put the photograph on the table and walk to the kitchen. Drink a glass of water at the sink. Wash a bowl from the morning. Walk back through the hall to the living room.
 
-The photograph is on the small table by the window. From the doorway of the living room, the photograph shows one woman in a kitchen. She is not smiling. Her face is open and patient and she is looking at whoever holds the camera. The kitchen is not mother's kitchen. The kitchen is somewhere else, somewhere that cannot be placed. The woman is not mother and not the woman in the grass and not the child grown up. The woman is one specific person.
+The photograph is on the small table by the window. From the doorway of the living room, the photograph shows one woman in a kitchen. She is not smiling. Her face is open and patient and she is looking at whoever holds the camera. The kitchen is not mother's kitchen. The kitchen is somewhere else, somewhere that cannot be placed. The woman is not mother and not the woman in the grass and not the child grown up.
 
 Walk across the room to the table.
 
@@ -65,8 +61,6 @@ In the middle of the afternoon, walk back to the hall and take a blank sheet of 
 Take a pen from a jar on the bookshelf.
 
 Sit in the chair across from the table with the pen in one hand and the blank paper on the table.
-
-Do not write.
 
 After a long time, put the pen down on the paper on the table.
 

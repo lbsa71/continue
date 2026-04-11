@@ -4,7 +4,7 @@ The landlord's office is on the ground floor of the building. Sign the paper on 
 
 Climb the stairs to the third floor. The landings have brown tile, worn in the middle. A potted plant stands outside a neighbour's door on the second floor. At the top of the third-floor landing, put the key in the lock and turn it. The lock turns without resistance. Open the door and go in.
 
-The apartment is quiet. The hallway runs the length of it, doors to left and right. The smell is the smell of an apartment that has not been opened for a few days. Underneath is the smell of the person who lived here.
+The apartment is quiet. The hallway runs the length of it, doors to left and right. The smell is the smell of an apartment that has not been opened for a few days. Underneath is the smell of old wool and soap.
 
 Walk through the rooms.
 
@@ -12,7 +12,7 @@ The kitchen is on the right at the end of the hall. The window above the sink fa
 
 The living room is at the far end of the hall, past the kitchen door. The bookshelves run along the long wall, full. Against the window wall sits a sofa with a coffee table in front of it, a lamp beside the sofa. The rug on the floor is frayed at the edges and has lost its colour at the centre where the path from the sofa to the door has worn a track. The television is not on.
 
-The bedroom is off the hallway to the left. The wardrobe stands against the back wall, closed. The bed is made: a white cover, two pillows. Beside the bed stands a bedside table with a lamp and a book on it and a drawer set into its face. The book is a paperback, the spine creased, a slip of paper marking a place about a third of the way through. The dressing table is by the window, a small bottle of perfume on it.
+The bedroom is off the hallway to the left. The wardrobe stands against the back wall, closed. The bed is made: a white cover, two pillows. Beside the bed stands a bedside table with a lamp and a book on it. The book is a paperback, the spine creased, a slip of paper at about a third of the way through. The slip is a torn corner of newspaper. The dressing table is by the window, a small bottle of perfume on it.
 
 The second room is next to the bedroom. Boxes are stacked along one wall, a folded camp bed in the corner, three cardboard boxes on the floor, taped shut, unlabelled. A window at the back looks onto the inner courtyard.
 
@@ -26,7 +26,7 @@ Fill the kettle from the tap and put it on the hob. Turn the dial for the front 
 
 Drink the coffee at the counter.
 
-The elm is at the window. The light from the window falls across the counter in a rectangle that reaches almost to the sink. A cyclist passes on the street below. A woman with a shopping bag passes the other way, then a man with a dog. The rectangle of light moves as the clouds shift and then holds. The elm's higher branches make small shadows across the rectangle. The cup is warm in a hand.
+The elm is at the window. The light from the window falls across the counter in a rectangle that reaches almost to the sink. A cyclist passes on the street below, then a woman with a shopping bag the other way, then a man with a dog. The rectangle of light moves as the clouds shift and then holds. The elm's higher branches make small shadows across the rectangle. The cup is warm in a hand.
 
 Finish the coffee. Rinse the cup under the tap and put it back in the cupboard above the coffee machine.
 
@@ -47,7 +47,7 @@ Take paper from the drawer of the kitchen table and a pen from the jar on the co
 13. Final clean
 14. Return key
 
-Read the list once. Fold the paper once and then once again and put it in the inside pocket of the coat on the back of the chair. Put the coat on and walk to the door.
+Read the list once. Set the pen on the paper. Pick it up and put it back in the jar. Fold the paper once and then once again and put it in the inside pocket of the coat on the back of the chair. Put the coat on and walk to the door.
 
 The phone on the kitchen wall is black, the kind with a cord, the cord coiled once around the hook below the handset, the handset on its cradle where mother left it.
 

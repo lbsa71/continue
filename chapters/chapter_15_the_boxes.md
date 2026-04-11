@@ -2,7 +2,7 @@
 
 Unlock the apartment door with the key from the right pocket of the coat and go in. The hallway runs the length of it, doors to left and right. Drop the key back into the pocket. Hang the coat on the hook by the door.
 
-Walk through to the kitchen. The coffee machine on the counter, the cupboard above it, the small round table under the window. Against the wall leans a stack of flat boxes with one already pulled from the top and half-assembled on the floor beside it. The newspaper is on the chair.
+Walk through to the kitchen. The coffee machine is on the counter, the cupboard above it, the small round table under the window. Against the wall leans a stack of flat boxes with one already pulled from the top and half-assembled on the floor beside it. The newspaper is on the chair.
 
 Assemble two boxes on the floor.
 
@@ -30,13 +30,11 @@ Drive to the charity shop.
 
 The charity shop is in a building on the main road six streets from the apartment, in the direction of the centre of the city. Park at the kerb outside the building. Open the boot and carry the two boxes to the door of the charity shop.
 
-The charity shop is in the building of the library.
-
-The door is the library door. The windows are the library windows, with racks of second-hand clothes hanging in them. Above the door, the sign reads *HELP THE CHILDREN — DONATIONS WELCOME*.
+The charity shop is in the building of the library. Racks of second-hand clothes hang in the library windows.
 
 Push the door open and carry the boxes in.
 
-A volunteer behind the counter is older, a woman with short grey hair, wearing a name badge. The volunteer thanks and points to a table at the back for donations. Carry the boxes to the table. Put them down on the table. Go back to the car.
+A volunteer behind the counter is older, a woman with short grey hair, wearing a name badge. The volunteer nods thanks and points to a table at the back for donations. Carry the boxes to the table. Put them down on the table. Go back to the car.
 
 Drive back to the building. Park at the kerb.
 
@@ -44,11 +42,13 @@ Unlock the front door of the building and climb the stairs to the third floor. A
 
 Walk through the hallway.
 
-At the end of the hallway on the left, past the bedroom door, is another door that has not been opened. The door has not been in any of the walkthroughs.
+At the end of the hallway on the left, past the bedroom door, is another door that has not been opened. The door has not been here before.
 
 Open the door.
 
 Inside is a small room with a single window. Against the wall stands a small bed, made up with a blue cover. A wooden desk sits on the other side of the room with a shelf above it. The shelf holds a few books and a model of a ship. The ship is three-masted, the rigging made of thread, one of the sails torn.
+
+Stand at the door of the room.
 
 On the wall above the desk are three sheets of paper, stuck to the wall with tape at the corners. Crayon drawings.
 
@@ -58,7 +58,7 @@ The second drawing is of a tall person and a small person standing side by side 
 
 The third drawing is of a garden with long grass and three fruit trees, and behind the garden a house with a red door, and at the door a figure, too small to see clearly.
 
-Walk to the desk. Reach up to the wall and peel the tape off the corners of the first drawing. Take the drawing down carefully so the paper does not tear. Peel the tape off the second drawing. Take it down. Peel the tape off the third. Take it down.
+Walk to the desk. Reach up to the wall and peel the tape off the corners of the first drawing. The tape is dry and comes away in one piece. Take the drawing down carefully so the paper does not tear. The paper is thin and slightly foxed at the edges. Peel the tape off the second drawing. Take it down. Peel the tape off the third. Take it down.
 
 Roll the three drawings together into a loose tube. The paper is stiff at the edges and soft in the middle.
 

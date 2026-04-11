@@ -20,15 +20,15 @@ Lift the mobile. The account number is at the top of the bill. The operator hear
 
 The operator asks for the name on the account.
 
-The name is at the top of the bill. The operator hears it. The name has an initial between the first name and the last name. The initial is not the one that should be there.
+The name is at the top of the bill. The operator hears it and types. The middle initial is a P.
 
 The operator says the name on the account has a slightly different initial and asks whether this is the right account.
 
-The answer is yes.
+Confirm.
 
 The operator says the notice of death has been received. The mobile is warm against the ear. The operator says the final bill has been calculated and will be sent to the forwarding address on file. The operator asks whether the forwarding address is still correct.
 
-Look at the bill. The forwarding address is the apartment. The answer is yes.
+Look at the bill. The forwarding address is the apartment. Confirm.
 
 The operator says the account will be closed at the end of the month and wishes a good day. Thank the operator. End the call.
 
@@ -36,7 +36,7 @@ Put the mobile back in the inside pocket of the coat on the hook. Fill a glass a
 
 Take the folder to the small round table under the kitchen window. Sit down in the chair closer to the window. The cushion on the seat is slightly indented in the middle. Open the folder on the table.
 
-The folder contains utility bills in plastic sleeves, six months of them, the name with the extra initial on every one. The plastic sleeves are labelled with coloured tabs on the right edge, a different colour for each kind of bill: yellow for electricity, blue for water, green for the telephone. Behind the bills, loose, a warranty card for a radio, a receipt for a pair of shoes from two years ago, a handwritten note listing the dates of three dentist appointments. At the back of the folder, a library notice saying a book is overdue. The title is not one that stops the hand.
+The folder contains utility bills in plastic sleeves, six months of them, the name with the extra initial on every one. The plastic sleeves are labelled with coloured tabs on the right edge, a different colour for each kind of bill: yellow for electricity, blue for water, green for the telephone. Behind the bills, loose, a handwritten note listing the dates of three dentist appointments. At the back of the folder, a library notice saying a book is overdue. The title is not one that stops the hand.
 
 Close the folder and put it back on the dressing table. Take the library notice off the folder and set it on the counter beside the door to the hall.
 

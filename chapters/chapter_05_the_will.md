@@ -10,11 +10,11 @@ Put the mobile on the counter.
 
 The will is in a metal box on top of the wardrobe.
 
-Walk through the hallway to the bedroom. Stand in front of the wardrobe. Reach up with both hands to the top of the wardrobe. The top of the wardrobe is flat and dusty and has nothing on it.
+Walk through the hallway to the bedroom. Stand in front of the wardrobe. Reach up with both hands to the top of the wardrobe. The top is flat and dusty.
 
-Run a hand across the top of the wardrobe to be sure. The dust is undisturbed. The metal box is not there.
+Run a hand across the top to be sure. The dust is undisturbed.
 
-Bring the kitchen chair through the hallway to the bedroom and stand on it to see the top of the wardrobe at eye level. The top of the wardrobe is empty. A rectangle of slightly less dust where something used to sit.
+Bring the kitchen chair through the hallway to the bedroom and stand on it to see the top of the wardrobe at eye level. At the back of the top, the dust is lighter where the box has stood for years.
 
 Step down off the chair.
 
@@ -53,8 +53,6 @@ Walk back through the hallway to the bedroom to the wardrobe.
 The wardrobe is full.
 
 The rail is full of hanging clothes: the coats, the dresses, the blouses, the cardigans. The cardigan at the end of the rail still has the sleeves worn thin at the cuffs. The shelves above are full of folded sweaters and trousers. The two pairs of shoes are on the floor of the wardrobe.
-
-The three bin bags are not on the floor of the wardrobe and not by the door of the apartment and not in the boot of the car.
 
 Stand in front of the wardrobe for a minute.
 

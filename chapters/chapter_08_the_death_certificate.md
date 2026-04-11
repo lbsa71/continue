@@ -10,7 +10,7 @@ Sit back down on the bench with the clipboard and fill out the form at the small
 
 Name of the deceased. Date of birth. Place of birth. Mother's full name. Father's full name. Date of death. Place of death. Cause of death. Relationship of the person filling out the form. Signature. Date.
 
-Each line filled without pause. The pen does not stop.
+The biro is tied to the clipboard by a string. At the right edge of the signature line, the string pulls. Each line filled without pause. The pen does not stop.
 
 Carry the clipboard back to the window. The clerk takes the clipboard, reads the form, types at a keyboard, prints a sheet, stamps the sheet, and slides it across the counter. Three extra copies are needed. The clerk hears this and prints three more sheets, stamps each, and slides them across.
 
@@ -40,7 +40,7 @@ Finish the second shelf. Assemble the next box. Start on the third shelf.
 
 The phone on the kitchen wall rings.
 
-Stop. Stand with a book in hand. The phone rings again. Twelve rings. Fifteen rings. The ringing does not stop. Do not walk to the phone.
+Stop. Stand with a book in hand. The phone rings again. The phone does not stop. The book stays in the hand. Do not walk to the phone.
 
 Continue wrapping. Place the book in the box. Take down the next four books. Wrap them.
 
@@ -54,7 +54,7 @@ Continue to the end of the third shelf. Close the box. Tape it. Label it.
 
 At the end of the afternoon, four boxes stand by the front door.
 
-Take the list from the inside pocket of the coat at the kitchen counter. Item 5 — *Living room — books* — has a line through it. The line is in the same pen as the rest of the list. Draw a small question mark next to it with the pen from the jar on the counter. Look at the rest of the list. The items at the top of the list — Items 1 to 6 — are in a handwriting that is looser than the handwriting of Items 7 to 14. Fold the paper once and then once again and put it back in the inside pocket of the coat.
+Take the list from the inside pocket of the coat at the kitchen counter. Item 5 — *Living room — books* — has a line through it. The line is in the same pen as the rest of the list. Draw a small question mark next to it with the pen from the jar on the counter. Look at the rest of the list. The top items are in a looser handwriting than the items below. Fold the paper once and then once again and put it back in the inside pocket of the coat.
 
 Put the four sheets of the death certificate under the glass into the inside pocket of the coat with the list.
 

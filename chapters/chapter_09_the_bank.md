@@ -6,7 +6,7 @@ The bank is quiet. Two customers at the windows, two tellers. The number is call
 
 Go to the window.
 
-The teller is young, a man in a blue shirt. Explain that the account of mother is to be closed.
+The teller is young, a man in a blue shirt. The account of mother is to be closed. The teller hears this and nods.
 
 The teller types at the keyboard and asks for the name and account number. Read the name and account number off the bank statement taken from the inside pocket of the coat with the other documents.
 
@@ -20,7 +20,7 @@ Put the birth certificate on the counter. The teller takes it and looks at it. T
 
 The teller says that the middle name of mother is different on the birth certificate and on the death certificate.
 
-Look at the two documents on the counter. Mother's name on the birth certificate has a middle name that begins with E. Mother's name on the death certificate has a middle name that begins with I. Or the same. Read again. The middle name on one is E and on the other is I. Or both are the same letter and the letter is I. Or the letter is E.
+Look at the two documents on the counter. Mother's name on the birth certificate has a middle name that begins with E. Mother's name on the death certificate has a middle name that begins with I.
 
 The teller waits.
 
@@ -34,7 +34,7 @@ Walk out of the bank and along the pavement until there is a bench in the sun. S
 
 The solicitor's secretary answers and puts the line through. The solicitor asks how the meeting at the bank went.
 
-Explain about the middle name and the letter of authority.
+The middle name is different on the two documents. The letter of authority has not yet been sent. The solicitor hears this.
 
 The solicitor asks for the address of the apartment. Give the address.
 
@@ -48,15 +48,7 @@ Walk back to the building along the pavement. Past the shops, past the corner wi
 
 Unlock the front door of the building and climb the stairs to the third floor. At the top of the third-floor landing, put the key from the right pocket of the coat in the apartment door and turn it. Open the door and go in. Drop the key back into the pocket. Hang the coat on the hook by the door.
 
-Walk through the hallway to the bedroom.
-
-The wardrobe is empty.
-
-The doors are closed. Open them. The rail is bare. No hangers. The shelves are bare. No clothes. The floor of the wardrobe is bare. No shoes. The dust on the shelves is even and undisturbed. No lighter rectangles on the shelves. No faint smell of the clothes.
-
-Close the wardrobe.
-
-Walk through the bedroom to the living room. Through the living room to the glass door of the balcony. Open the door and step out.
+Walk through the hallway to the bedroom. Through the bedroom to the living room. Through the living room to the glass door of the balcony. Open the door and step out.
 
 The drying rack stands folded behind the wooden chair by the railing. The wood of the rack is dry. The bars are dry. The clothes that hung on the rack are not on the rack and not on the floor of the balcony.
 

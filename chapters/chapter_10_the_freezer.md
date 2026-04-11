@@ -16,7 +16,7 @@ The freezer is full.
 
 The top shelf of the freezer holds six plastic containers, each with a masking-tape label on the lid: *Soup, leek and potato*, *Soup, tomato*, *Bolognese*, *Bolognese*, *Fish stew*, *Ragout*. The labels are in mother's handwriting.
 
-The second shelf holds four small foil-wrapped packages, each with a strip of masking tape and a date written in biro. The dates are months that have already passed. One of the dates is not a month that has passed.
+The second shelf holds four small foil-wrapped packages, each with a strip of masking tape and a date written in biro.
 
 Take the packages out and look at the dates. *11/2*. *18/2*. *4/3*. *23/3*.
 
@@ -30,7 +30,7 @@ Close the freezer.
 
 Take a black bin bag from under the sink. Open it on the floor beside the fridge.
 
-Open the freezer again. Take out the containers one at a time and put them in the bag. The containers are frozen solid. The bag fills slowly. Take out the foil packages last, in the order they sit on the shelf, including the one dated *23/3*. Drop each into the bag.
+Open the freezer again. Take out the containers one at a time and put them in the bag. The containers are frozen solid. The bag fills slowly. Take out the foil packages one at a time and drop them into the bag. Leave the one dated *23/3* on the counter.
 
 The bag is heavy at the bottom.
 
@@ -38,7 +38,7 @@ Tie the bag. Carry it down the stairs, past the second-floor landing with its po
 
 Back up the stairs. The third-floor landing. The apartment door, standing open.
 
-Back to the kitchen. The freezer is empty. The freezer hums. Close the freezer door.
+Back to the kitchen. The freezer hums. The package dated *23/3* is on the counter. Put it back on the top shelf of the empty freezer. Close the freezer door.
 
 Walk to the counter and pick up the glass from the middle of the sheet of newspaper. Place the glass back on the sheet. Bring the corners of the paper up and over and press them around the edge of the glass with the side of a thumb. Pick up the tape from the counter. Pull an inch and cut it on the dispenser's blade. Press the tape across the seam.
 

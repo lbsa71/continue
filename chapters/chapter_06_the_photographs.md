@@ -10,7 +10,9 @@ The shoebox is full of photographs. Colour, some older and fading at the edges, 
 
 Take the photographs out one at a time and lay them on the rug.
 
-Mother, young, standing in front of a building that is not this building. Mother, older, by the window of this kitchen, the elm visible behind her. A holiday photograph: mountains, two women leaning against a railing, the railing on a viewpoint looking down into a valley. A birthday: a cake on a table, candles lit, the flash of the camera making the icing too white. A garden with long grass and a line of fruit trees, a house behind. Mother at the garden, younger than the kitchen photograph. A photograph of a child of about six, in a striped shirt, holding a toy. The child is familiar.
+Mother, young, standing in front of a building that is not this building. Mother, older, by the window of this kitchen, the elm visible behind her. A holiday photograph: mountains, two women leaning against a railing, the railing on a viewpoint looking down into a valley. A birthday: a cake on a table, candles lit, the flash of the camera making the icing too white. A garden with long grass and a line of fruit trees, a house behind. Mother at the garden, younger than the kitchen photograph.
+
+A photograph of a child of about six, in a striped shirt, holding a wooden horse on a string.
 
 Keep going.
 
@@ -42,11 +44,11 @@ Put the photograph in the inside pocket of the coat on the hook by the door.
 
 Back to the kitchen.
 
-Make coffee. Fill the kettle and put it on. Take a cup down from the cupboard above the coffee machine.
+Make coffee. Fill the kettle and put it on. Reach up to the cupboard above the coffee machine.
 
-The cup is not in the cupboard above the coffee machine.
+The cupboard is empty.
 
-Open the cupboard to the left of the coffee machine, the one with the plates, without looking. The cup is in the cupboard with the plates. Take a cup down. The cup is one of mother's, white, thick at the rim, a chip on the underside of the handle.
+Open the cupboard to the left of the coffee machine, the one with the plates, without looking. The cups are in the cupboard with the plates. Take one down. The cup is one of mother's, white, thick at the rim, a chip on the underside of the handle.
 
 Spoon coffee into the cup. Pour the water. Stir.
 

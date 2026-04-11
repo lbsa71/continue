@@ -6,9 +6,7 @@ Walk through to the kitchen. The counter is clean. The cups are in the cupboard 
 
 Open the kitchen drawer under the counter. The drawer has the scissors, the ball of kitchen twine, the roll of masking tape, the small notebook, the fold-down reading glasses, the two pens, the box of matches, the packet of seeds, and one other piece of paper.
 
-The piece of paper is not a grocery list. It is a phone bill from the telephone company, folded once, with the account number printed at the top and the monthly charges listed below.
-
-The grocery list is not in the drawer.
+The piece of paper is a phone bill from the telephone company, folded once, with the account number printed at the top and the monthly charges listed below.
 
 Take the phone bill out and put it on the counter. Close the drawer.
 
@@ -22,9 +20,7 @@ The operator says the line has been disconnected for four months.
 
 Stop. The phone on the kitchen wall has rung. The receiver has been picked up and there has been silence and then a dial tone. The phone has rung more than once. The operator hears all of this.
 
-The operator says the line has been disconnected for four months.
-
-The same thing again: the phone has rung, and the receiver has been picked up.
+The phone rings again. The receiver is picked up again.
 
 The operator says the line has been disconnected for four months and asks whether there is another account number. Give the account number again. The operator types. The operator reads the account number back. Confirm.
 
@@ -36,7 +32,7 @@ Thank the operator. End the call. Put the mobile on the counter.
 
 Walk to the phone on the kitchen wall.
 
-Pick up the receiver. Hold it to an ear. Nothing. No dial tone. No silence that hides a dial tone. No background hum. Nothing at all.
+Pick up the receiver. Hold it to an ear. No dial tone. No background hum.
 
 Put the receiver back on the cradle.
 

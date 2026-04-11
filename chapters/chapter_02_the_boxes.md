@@ -12,7 +12,7 @@ Assemble a box. Fold the sides up, tuck the flaps at the bottom, run a strip of 
 
 The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.
 
-Tear a sheet of newspaper from the stack on the kitchen table and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. Pick up the tape from the counter and pick it up from the table. Pull an inch and cut it on the dispenser's blade. Press the tape across the seam.
+Tear a sheet of newspaper from the stack on the kitchen table and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
 
 Put the wrapped plate in the box at the feet. Take another sheet of newspaper.
 
@@ -24,9 +24,9 @@ The glasses are in the cupboard beside the plates. Take four down and set them o
 
 Stop.
 
-The fridge hums under the counter to the right of the sink. The door is heavy on its hinges and gives slightly when it opens. Inside: a carton of milk, two tomatoes, a half-wrapped block of cheese, a jar of pickles, half a bottle of tonic water, three eggs in the door shelf, a dish of something covered with foil, a bunch of parsley wilted in a glass of water, a lemon with a bite out of it, a pot of yoghurt with the lid peeled back and resealed.
+The fridge hums under the counter to the right of the sink. The door is heavy on its hinges and gives slightly when it opens. Inside: a carton of milk, two tomatoes, a half-wrapped block of cheese, a jar of pickles, half a bottle of tonic water, three eggs in the door shelf, a dish of something covered with foil, a bunch of parsley wilted in a glass of water, a pot of yoghurt with the lid peeled back and resealed. On the top shelf, a lemon with a bite out of it, the bite dried at the edges.
 
-The milk, when shaken, slops thickly against the carton.
+Shake the milk. The carton slops thickly.
 
 Take a roll of bin bags from under the sink. Open one bag and hold it open on the floor beside the fridge. Start with the top shelf. Take out the carton of milk and put it in the bag. Take out the tomatoes, the cheese, the jar of pickles (twist the lid, empty the pickles into the bag, drop the jar in with them), the tonic water, the eggs, the dish under foil, the parsley in the glass, the lemon, the yoghurt, the things in the door.
 
@@ -40,11 +40,11 @@ Back up the stairs.
 
 The fridge interior is sticky. Wet a cloth at the sink and wipe down the shelves, the door, the drawers. Rinse the cloth in the sink twice. Leave the fridge door open a crack.
 
-The light through the kitchen window has moved. The rectangle of light on the counter has shortened and now falls only on the edge nearest the wall.
+Rinse the cloth a last time and hang it over the tap. The light through the kitchen window has moved. The rectangle of light on the counter has shortened and now falls only on the edge nearest the wall. Stand at the counter and watch the edge hold.
 
 The box of wrapped plates stands on the floor. The glasses are on the counter, unwrapped. The tape dispenser is on the table.
 
-Take the list from the inside pocket of the coat at the kitchen table. Cross off the first half of Item 1 with the pen from the jar on the counter: *Kitchen — pack* is now crossed off, *and clean* is not. Underneath Item 1 in smaller letters add a new sub-item: *glasses (tomorrow)*. Fold the paper once and then once again and put it back in the inside pocket of the coat.
+Take the list from the inside pocket of the coat on the hook by the door. Cross off the first half of Item 1 with the pen from the jar on the counter: *Kitchen — pack* is now crossed off, *and clean* is not. Underneath Item 1 in smaller letters add a new sub-item: *glasses (tomorrow)*. Fold the paper once and then once again and put it back in the inside pocket of the coat.
 
 Put the coat on. Take the key from the right pocket. Pull the apartment door closed and turn the key in the lock. Drop the key back into the pocket.
 

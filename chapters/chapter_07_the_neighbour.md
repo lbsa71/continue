@@ -36,9 +36,9 @@ Fill the kettle from the tap and put it on the hob. Take a cup down from the cup
 
 Drink the coffee at the window.
 
-The rain has stopped. The sign of the bakery on the corner is red and says BAKERY in white letters. The cars pass. A woman with two bags of groceries crosses the street. Three boys on bicycles. The light on the opposite building moves as a cloud moves.
+The rain has stopped. The cars pass. A woman with two bags of groceries crosses the street. Three boys on bicycles. The light on the opposite building moves as a cloud moves.
 
-The opposite building has five windows on the second floor of its grey facade.
+Count the windows on the second floor of the opposite building. Five. Count again. Five.
 
 Finish the coffee. Put the cup in the sink.
 
@@ -54,7 +54,9 @@ Walk to the door of the apartment and open it. A neighbour from downstairs is on
 
 The neighbour asks if all is well. The neighbour says that movement has been heard at night from this flat, by the neighbour on the floor below and by the flat above, and that the neighbours are asking after it.
 
-The answer is that all is well. The answer is that sleep is fine.
+The hand on the edge of the door is still.
+
+Confirm that all is well and that sleep is fine.
 
 The neighbour looks past the door and into the hall of the apartment and then back.
 
@@ -80,7 +82,7 @@ Eat something from the fridge in the evening: bread, cheese, a tomato. Wash the 
 
 The box of plates is on the counter.
 
-Turn off the lamps in the living room. The hallway lamp. The kitchen light.
+Turn off the lamps in the living room, then the hallway lamp, then the kitchen light.
 
 Go to the bedroom. Undress. Bed.
 
